@@ -10,3 +10,4 @@
     * [General Tools]()
     * [HTML Tools]()
  * [Part III: Practice]()
+ 	* [Types of Front-end Development Jobs]()
