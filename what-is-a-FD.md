@@ -13,24 +13,24 @@ The most common web browsers are:
 * [Firefox](https://www.mozilla.org/firefox/) 
 * [Safari](http://www.apple.com/safari/)
 
-Native webviews are used by operating systems to run web pages. Think of a webivew like an iframe or a single tab from a web browser that is embeded in a native application running on iOS, android, windows, or OSX.
+Native webviews are used by operating systems to run web pages. Think of a webivew like an iframe or a single tab from a web browser that is embedded in a native application running on iOS, android, windows, or OSX.
 
-The most common solutions for webview develpment are:
+The most common solutions for webview development are:
 
 * [NW.js](https://github.com/nwjs/nw.js)
 * [Electron](http://electron.atom.io/)
 * [Cordova](https://cordova.apache.org/)
 
-Headless browsers are a web browser without a graphical user interface that can be controlled from a command line interface for the purpose of web page automation (e.g. functional tesing, scraping, unit testing etc..).
+Headless browsers are a web browser without a graphical user interface that can be controlled from a command line interface for the purpose of web page automation (e.g. functional testing, scraping, unit testing etc..).
 
 The most common headless browsers are:
 
 * [PhantomJS](http://phantomjs.org/)
 * [trifleJS](http://triflejs.org/)
 
-Eventually, what is learned from web browser development can be used by front-end developers to craft code for enviorments that are not fueled by a browser engine. As of late, development enviroments are being dreamed up that use web technologies, without web engines, to create truely native applications.
+Eventually, what is learned from web browser development can be used by front-end developers to craft code for environments that are not fueled by a browser engine. As of late, development environments are being dreamed up that use web technologies, without web engines, to create truly native applications.
 
-Some examples of these enviorments are: 
+Some examples of these environments are: 
 
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/).
