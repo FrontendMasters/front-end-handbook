@@ -10,24 +10,25 @@ The handbook is divided into three parts.
 
 Part I. Practice
 ---
-
 These chapters discuss the practice of front-end engineering.
 
 Part II: Learning
 ---
-
 These chapters identify self-directed and direct resources for learning to become a front-end developer as well as mastering the practice.
 
 Part III: Tools
 ---
-
 These chapters briefly explain and identify the tools of the trade.
 
---
+***
 
-**read online or download (.pdf, .epub, .mobi) from**: [https://www.gitbook.com/book/codylindley/front-end-handbook/details](https://www.gitbook.com/book/codylindley/front-end-handbook)
+**read online or download (.pdf, .epub, .mobi) from**: 
 
-**contribue content or fix on github**: [https://github.com/FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
+* [https://www.gitbook.com/book/codylindley/front-end-handbook/details](https://www.gitbook.com/book/codylindley/front-end-handbook)
+
+**contribue content or fix on github**: 
+
+* [https://github.com/FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
 
 
 
