@@ -1,7 +1,6 @@
 # Summary
 
-* [What is a front-end developer?](template.md)
-* [What kind of handbook is this?](template.md)
+* [What is a front-end developer?](what-is-a-FD.md)
 * Part I: Practice
  	* [Types of front-end development jobs](template.md)
  	* [Front-end soft skills](template.md)
