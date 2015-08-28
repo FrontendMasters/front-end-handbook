@@ -24,7 +24,7 @@ These chapters briefly explain and identify the tools of the trade.
 
 **read online or download (.pdf, .epub, .mobi) from**: 
 
-* [https://www.gitbook.com/book/codylindley/front-end-handbook/details](https://www.gitbook.com/book/codylindley/front-end-handbook)
+* [http://codylindley.gitbooks.io/front-end-handbook/content/](http://codylindley.gitbooks.io/front-end-handbook/content/)
 
 **contribue content or fix on github**: 
 
