@@ -30,7 +30,7 @@ These chapters briefly explain and identify the tools of the trade.
 
 * [https://www.gitbook.com/book/frontendmasters/front-end-handbook/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 
-**contribue content or fix on github**: 
+**contribute content, errors, suggestions, and fixes on github**: 
 
 * [https://github.com/FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
 
