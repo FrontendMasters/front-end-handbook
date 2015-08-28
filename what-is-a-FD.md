@@ -2,15 +2,38 @@
 
 A front-end developer architects and develops websites and applications using web technologies (i.e. HTML, CSS, DOM, and JavaScript) which run on the web platform or act as compilation input for non-web platform environments.
 
-Typically, a developer enters into the field of front-end development by developing for some type of [web browser](https://en.wikipedia.org/wiki/Web_browser), native webview, or [headless browsers](https://en.wikipedia.org/wiki/Headless_browser) running on desktops/laptops, tablets, or phones. Below are some examples of each.
+Typically, a developer enters into the field of front-end development by developing for some type of [web browser](https://en.wikipedia.org/wiki/Web_browser), native webview, or [headless browsers](https://en.wikipedia.org/wiki/Headless_browser) running on a device (desktops, laptops, netbooks, tablets, phones, IOT) enabled with web platform technologies.
 
-Web Browers: [Chrome](http://www.google.com/chrome/), [Internet Explorer](http://dev.modern.ie/), [Firefox](https://www.mozilla.org/firefox/), [Safari](http://www.apple.com/safari/)
+Web browsers typically run on a computer, tablet, or phone but as of late a browser can be found on just about any device (i.e IoT). 
 
-Native WebViews: [NW.js](https://github.com/nwjs/nw.js), [Electron](http://electron.atom.io/), [Cordova](https://cordova.apache.org/)
+The most common web browsers are: 
 
-Headless Browsers: [PhantomJS](http://phantomjs.org/), [trifleJS](http://triflejs.org/)
+* [Chrome](http://www.google.com/chrome/)
+* [Internet Explorer](http://dev.modern.ie/)
+* [Firefox](https://www.mozilla.org/firefox/) 
+* [Safari](http://www.apple.com/safari/)
 
-Eventually, what is learned from web browser development can then be used to develop code for enviorments that are not fueled by a browser engine. Some examples of these enviorments would be [[NativeScript](https://www.nativescript.org/) or [React Native](https://facebook.github.io/react-native/)).
+Native webviews are used by operating systems to run web pages. Think of a webivew like an iframe or a single tab from a web browser that is embeded in a native application running on iOS, android, windows, or OSX.
+
+The most common solutions for webview develpment are:
+
+* [NW.js](https://github.com/nwjs/nw.js)
+* [Electron](http://electron.atom.io/)
+* [Cordova](https://cordova.apache.org/)
+
+Headless browsers are a web browser without a graphical user interface that can be controlled from a command line interface for the purpose of web page automation (e.g. functional tesing, scraping, unit testing etc..).
+
+The most common headless browsers are:
+
+* [PhantomJS](http://phantomjs.org/)
+* [trifleJS](http://triflejs.org/)
+
+Eventually, what is learned from web browser development can be used by front-end developers to craft code for enviorments that are not fueled by a browser engine. As of late, development enviroments are being dreamed up that use web technologies, without web engines, to create truely native applications.
+
+Some examples of these enviorments are: 
+
+* [NativeScript](https://www.nativescript.org/)
+* [React Native](https://facebook.github.io/react-native/).
 
 
 
