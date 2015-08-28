@@ -33,7 +33,7 @@ Eventually, what is learned from web browser development can be used by front-en
 Some examples of these environments are: 
 
 * [NativeScript](https://www.nativescript.org/)
-* [React Native](https://facebook.github.io/react-native/).
+* [React Native](https://facebook.github.io/react-native/)
 
 
 
