@@ -4,7 +4,7 @@ This is a guide that anyone could use to learn about the practice of front-end d
 
 It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with relevant/opinionated learning resources and tools. Secondarily, it could be used by managers, instructors, and head hunters to gain insights into the practice of front-end development and educating others on the practice.
 
-The content of the handbook favors web technologies (HTML, CSS, DOM, and JavaScript) and those solutions that are directly built on top of these open technologies. The materials referenced and discussed in the book are either best in class or the current offering to a problem. The book should not be consider a comprehensive outline of every and all resources available to a front-end developer. The value of the book is tied up in a terse, focused, and timely curation of just enough categorical information so as not to overwhelm anyone on any one particular topic. The intention is to release an update to the yearly.
+The content of the handbook favors web technologies (HTML, CSS, DOM, and JavaScript) and those solutions that are directly built on top of these open technologies. The materials referenced and discussed in the book are either best in class or the current offering to a problem. The book should not be consider a comprehensive outline of every and all resources available to a front-end developer. The value of the book is tied up in a terse, focused, and timely curation of just enough categorical information so as not to overwhelm anyone on any one particular topic. The intention is to release an update to the content yearly.
 
 The handbook is divided into three parts. 
 
