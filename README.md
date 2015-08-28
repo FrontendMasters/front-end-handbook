@@ -1,5 +1,6 @@
 Front-end Developer Handbook
-=======
+
+***
 
 This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering. How to learn it and what tools are used when practicing it.
 
@@ -9,20 +10,31 @@ The content of the handbook favors web technologies (HTML, CSS, DOM, and JavaScr
 
 The handbook is divided into three parts. 
 
-Part I. Practice
-------
+###Part I. Practice
+
+--
 
 These chapters discuss the practice of front-end engineering.
 
-Part II: Learning
-------
+###Part II: Learning
+
+--
 
 These chapters identify self-directed and direct resources for learning to become a front-end developer as well as mastering the practice.
 
-Part III: Tools
-------
+###Part III: Tools
+
+--
 
 These chapters briefly explain and identify the tools of the trade.
+
+***
+
+**read online or download (pdf, .epub, .mobi) from**: [https://www.gitbook.com/book/codylindley/front-end-handbook/details](https://www.gitbook.com/book/codylindley/front-end-handbook)
+
+contribue content or fix on github: [https://github.com/FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
+
+
 
 
 
