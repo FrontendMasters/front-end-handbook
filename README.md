@@ -22,9 +22,13 @@ These chapters briefly explain and identify the tools of the trade.
 
 ***
 
-**read online or download a .pdf, .epub, or .mobi file from**: 
+**read online at**: 
 
 * [http://frontendmasters.gitbooks.io/front-end-handbook/content/](http://frontendmasters.gitbooks.io/front-end-handbook/content/)
+ 
+**download a .pdf, .epub, or .mobi file from**: 
+
+* [https://www.gitbook.com/book/frontendmasters/front-end-handbook/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 
 **contribue content or fix on github**: 
 
