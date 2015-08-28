@@ -12,6 +12,7 @@
 * Part II: Learning
     * [Self directed learning](template.md)
     	* [Learn browsers](template.md)
+    	* [Learn browser dev tools](template.md)
     	* [Learn code editors](template.md)
     	* [Learn HTML](template.md)
     	* [Learn CSS](template.md)
@@ -91,7 +92,7 @@
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Browser Testing tools
+	* Browser testing tools
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
