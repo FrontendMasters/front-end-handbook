@@ -13,7 +13,7 @@ The most common web browsers are:
 * [Firefox](https://www.mozilla.org/firefox/) 
 * [Safari](http://www.apple.com/safari/)
 
-Native webviews are used by operating systems to run web pages. Think of a webivew like an iframe or a single tab from a web browser that is embedded in a native application running on iOS, android, windows, or OSX.
+Native webviews are used by operating systems to run web pages. Think of a webview like an iframe or a single tab from a web browser that is embedded in a native application running on iOS, android, windows, or OSX.
 
 The most common solutions for webview development are:
 
