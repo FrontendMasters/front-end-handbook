@@ -1,7 +1,7 @@
 # Summary
 
 * [What is a front-end developer?](what-is-a-FD.md)
-* Part I: Practice
+* [Part I: Practice](practice.md)
 	* [Types of front-end development jobs](practice/types-of-front-end-dev.md)
 	* [Front-end soft skills](template.md)
 	* [Front-end is just one position on a team](template.md)
@@ -9,7 +9,7 @@
 	* [Front-end interview questions](template.md)
 	* [Front-end job boards](template.md)
 	* [Front-end salaries](template.md)
-* Part II: Learning
+* [Part II: Learning](learning.md)
     * [Self directed learning](template.md)
     	* [Learn browsers](template.md)
     	* [Learn browser dev tools](template.md)
@@ -40,7 +40,7 @@
     	* [Learn performance reporting/monitoring)](template.md)
     * [Directed learning](template.md)
     	* [Non-degree schools & bootcamps](template.md)
-* Part III: Tools
+* [Part III: Tools](tools)
     * [General tools](template.md)
     * HTML tools
     	* [libraries](template.md)

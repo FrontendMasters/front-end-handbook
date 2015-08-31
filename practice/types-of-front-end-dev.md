@@ -64,3 +64,7 @@ Job title that describes a developer who is skilled at HTML, CSS, DOM, and JavaS
 
 
 
+discuss full stack devs and add notes...
+
+
+
