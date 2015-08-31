@@ -2,7 +2,7 @@
 
 Below is a list and description of common front-end job titles. The titles attempt to denote the focus of the front-end developer. Keep in mind the common or most used (i.e. generic) title for a front-end developer is, "front-end developer" or "front-end engineer".
 
-***
+---
 
 **Front-end Developer / Front-end Engineer /Front-end Web Developer / Client-side Developer / Front-end Software Developer** 
 
