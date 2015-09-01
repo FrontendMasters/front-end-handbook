@@ -3,7 +3,7 @@
 * [What is a front-end developer?](what-is-a-FD.md)
 * [Part I: Practice](practice.md)
 	* [Types of FD jobs](practice/types-of-front-end-dev.md)
-    * [Web technologies employed by FD's]()
+    * [Web technologies employed by FD's](practice/tech-employed-by-fd.md)
 	* [Front-end soft skills](template.md)
 	* [Front-end on a team](template.md)
 	* [Front-end terms](template.md)
