@@ -17,7 +17,7 @@ These operating systems typically run on one or more of the following devices:
 * Mobile phone
 * Tablet
 * TV
-* Watche
+* Watch
 * Things (i.e. anything you can imagine, car, fridge etc..)
 
 Generally speaking, front-end technologies can run on the afore mentioned operating systems and devices using the following run time scenarios:
