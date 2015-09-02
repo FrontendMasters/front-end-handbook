@@ -1,6 +1,6 @@
 # Part I. Practice
 
-These chapters discuss the practice of front-end engineering.
+These chapters detail broadly the practice of front-end engineering.
 
 
 
