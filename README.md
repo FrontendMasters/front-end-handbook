@@ -10,11 +10,11 @@ The handbook is divided into three parts.
 
 Part I. Practice
 ---
-These chapters discuss the practice of front-end engineering.
+These chapters detail broadly the practice of front-end engineering.
 
 Part II: Learning
 ---
-These chapters identify self-directed and direct resources for learning to become a front-end developer as well as mastering the practice.
+These chapters identify self-directed and direct resources for learning to become a front-end developer.
 
 Part III: Tools
 ---
