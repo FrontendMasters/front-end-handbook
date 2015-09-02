@@ -20,12 +20,12 @@ These operating systems typically run on one or more of the following devices:
 * Watch
 * Things (i.e. anything you can imagine, car, fridge etc..)
 
-Generally speaking, front-end technologies can run on the afore mentioned operating systems and devices using the following run time scenarios:
+Generally speaking, front-end technologies can run on the aforementioned mentioned operating systems and devices using the following run time scenarios:
 
-* A web browser (e.g. Chrome, IE, Safari, Firefox)
-* A headless browser (e.g. phantomJS)
-* A WebView running from within a native application (e.g. Apache Cordova)
-* A native application built from web tech (e.g. NativeScript, React Native, NW.js, Electron)
+* A web browser (e.g. Chrome, IE, Safari, Firefox) running on OS
+* A headless browser (e.g. phantomJS) driven from a CLI
+* A WebView/browser embedded within a native application as a runtime with bridged to native API's. UI is web based.(e.g. Apache Cordova, NW.js, Electron)
+* A native application built from web tech that is interpreted at runtime with a bridge to native API's. UI is native based. (e.g. NativeScript, React Native)
 
 
  
