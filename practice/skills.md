@@ -1,6 +1,6 @@
 # Front-end dev skills
 
-Basic to advanced HTML, CSS, DOM, JavaScript, HTTP & URL's, and browser skills are assumed for most any front-end developer position. 
+Basic to advanced HTML, CSS, DOM, JavaScript, HTTP/URL, and browser skills are assumed for most any front-end developer position. 
 
 Additional skills include:
 
