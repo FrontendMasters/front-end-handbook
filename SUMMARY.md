@@ -6,7 +6,7 @@
     * [Common web tech employed](practice/tech-employed-by-fd.md)
 	* [Front-end dev skills](practice/skills.md)
     * [Front-end devs develop for...](practice/fd-dev-for.md)
-	* [Front-end on a team](template.md)
+	* [Front-end on a team](practice/team.md)
 	<!--- * [Front-end terms](template.md) -->
 	* [Front-end interview questions](practice/interview-q.md)
 	* [Front-end job boards](practice/jobboards.md)
