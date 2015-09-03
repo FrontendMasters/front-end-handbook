@@ -7,7 +7,7 @@
 	* [Front-end dev skills](practice/skills.md)
     * [Front-end devs develop for...](practice/fd-dev-for.md)
 	* [Front-end on a team](template.md)
-	* [Front-end terms](template.md)
+	<!--- * [Front-end terms](template.md) -->
 	* [Front-end interview questions](template.md)
 	* [Front-end job boards](template.md)
 	* [Front-end salaries](template.md)
