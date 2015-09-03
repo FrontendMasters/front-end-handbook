@@ -4,7 +4,7 @@
 * [authenticjobs.com](https://authenticjobs.com/#category=4)
 * [weworkremotely.com/](https://weworkremotely.com/)
 * [jobs.github.com/](https://jobs.github.com/)
-* [http://careers.stackoverflow.com/](http://careers.stackoverflow.com/jobs?searchTerm=front-end)
+* [careers.stackoverflow.com/](http://careers.stackoverflow.com/jobs?searchTerm=front-end)
 * [angularjobs.com/](http://angularjobs.com/)
 * [jobs.emberjs.com/](http://jobs.emberjs.com/)
 * [jobs.jsninja.com/](http://jobs.jsninja.com/)
