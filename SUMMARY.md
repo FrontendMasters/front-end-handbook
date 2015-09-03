@@ -12,6 +12,7 @@
 	* [Front-end interview questions](practice/interview-q.md)
 	* [Front-end job boards](practice/jobboards.md)
 	* [Front-end salaries](practice/salaries.md)
+    * [How FD's are made](practice/making-fd.md)
 * [Part II: Learning](learning.md)
     * [Self directed learning](template.md)
     	* [Learn browsers](template.md)
