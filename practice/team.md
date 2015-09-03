@@ -17,12 +17,12 @@ A larger team might include the following roles not shown above:
 
 * Visual Designers
 * UI/Interaction Designer
-* SEO strategist
+* **SEO strategist**
 * Front-end Developer
-* DevOps Engineers
+* **DevOps Engineers**
 * Back-end Developer
-* Database Administrator
-* QA Engineer / Testers
+* **Database Administrator**
+* **QA Engineer / Testers**
 
 
 
