@@ -1,6 +1,6 @@
 # Front-end developers develop for...
 
-A front-end developer typically uses front-end technologies to create HTML, CSS, and JS that run in a browser on one of the following operating systems:
+A front-end developer typically uses front-end technologies to create HTML, CSS, and JS that run on one of the following operating systems:
 
 * Windows
 * Windows Phone
