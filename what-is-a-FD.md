@@ -4,7 +4,7 @@ A front-end developer architects and develops websites and applications using we
 
 Typically, a developer enters into the field of front-end development by developing for some type of [web browser](https://en.wikipedia.org/wiki/Web_browser), native webview, or [headless browser](https://en.wikipedia.org/wiki/Headless_browser) running on a device (desktops, laptops, netbooks, tablets, phones) enabled with web platform capabilities.
 
-Web browsers typically run on a computer, tablet, or phone but as of late a browser can be found on just about any device (i.e IoT). 
+Web browsers typically run on a desktop, laptop, tablet, or phone but as of late a browser can be found on just about anything (i.e fridge, in cars, etc...). 
 
 The most common web browsers are: 
 
