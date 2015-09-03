@@ -8,9 +8,9 @@
     * [Front-end devs develop for...](practice/fd-dev-for.md)
 	* [Front-end on a team](template.md)
 	<!--- * [Front-end terms](template.md) -->
-	* [Front-end interview questions](template.md)
-	* [Front-end job boards](template.md)
-	* [Front-end salaries](template.md)
+	* [Front-end interview questions](practice/interview-q.md)
+	* [Front-end job boards](practice/jobboards.md)
+	* [Front-end salaries](practice/salaries.md)
 * [Part II: Learning](learning.md)
     * [Self directed learning](template.md)
     	* [Learn browsers](template.md)
@@ -42,6 +42,7 @@
     	* [Learn performance reporting/monitoring)](template.md)
     * [Directed learning](template.md)
     	* [Non-degree schools & bootcamps](template.md)
+    * [Devs to learn from](template.md)
 * [Part III: Tools](tools)
     * [General tools](template.md)
     * HTML tools
