@@ -2,7 +2,7 @@
 
 A front-end developer architects and develops websites and applications using web technologies (i.e. HTML, CSS, DOM, and JavaScript) which run on the web platform or act as compilation input for non-web platform environments.
 
-Typically, a developer enters into the field of front-end development by developing for some type of [web browser](https://en.wikipedia.org/wiki/Web_browser), native webview, or [headless browser](https://en.wikipedia.org/wiki/Headless_browser) running on a device (desktops, laptops, netbooks, tablets, phones) enabled with web platform capabilities.
+Typically, a developer enters into the field of front-end development by developing for some type of [web browser](https://en.wikipedia.org/wiki/Web_browser), webview, or [headless browser](https://en.wikipedia.org/wiki/Headless_browser) running on a device (desktops, laptops, netbooks, tablets, phones) enabled with web platform capabilities.
 
 Web browsers typically run on a desktop, laptop, tablet, or phone but as of late a browser can be found on just about anything (i.e fridge, in cars, etc...). 
 
@@ -13,7 +13,7 @@ The most common web browsers are:
 * [Firefox](https://www.mozilla.org/firefox/) 
 * [Safari](http://www.apple.com/safari/)
 
-Native webviews are used by operating systems to run web pages. Think of a webview like an iframe or a single tab from a web browser that is embedded in a native application running on iOS, android, windows, or OSX.
+Webviews are used by operating systems to run web pages. Think of a webview like an iframe or a single tab from a web browser that is embedded in a native application running on iOS, android, windows, or OSX.
 
 The most common solutions for webview development are:
 
