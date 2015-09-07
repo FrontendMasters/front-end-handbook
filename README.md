@@ -8,15 +8,15 @@ The content of the handbook favors web technologies (HTML, CSS, DOM, and JavaScr
 
 The handbook is divided into three parts. 
 
-Part I. Practice
+Part I. The front-end practice
 ---
 These chapters detail broadly the practice of front-end engineering.
 
-Part II: Learning
+Part II: Learning front-end dev
 ---
 These chapters identify self-directed and direct resources for learning to become a front-end developer.
 
-Part III: Tools
+Part III: Front-end dev tools
 ---
 These chapters briefly explain and identify the tools of the trade.
 

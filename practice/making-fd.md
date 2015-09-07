@@ -14,11 +14,11 @@ If you were to set out today to become a front-end developer I would loosely str
 
 1. Learn, roughly, how the web works. Make sure you know the "what" and "where" of Domains, DNS, URL's, HTTP, networks, browsers, servers/hosting, databases, JSON, data API's, HTML, CSS, DOM, and JavaScript. The goal is to make sure you loosely know how it all works together and exactly what each part is doing. Focus on the high level outlines for front-end architectures. Start with simple web pages and briefly study [native web applications](https://blog.andyet.com/2015/01/22/native-web-apps).
 2. Learn HTML, CSS, Accessibility, and SEO.
-3. Learn the fundamentals of UI design patterns, interaction design, user experience design, usability.
+3. Learn the fundamentals of UI design patterns, interaction design, user experience design, and usability.
 4. Learn the fundamentals of programming
 5. Learn JavaScript
 6. Learn JSON and data API's
-7. Learn CLI/Command line
+7. Learn CLI/command line
 8. Learn the practice of software engineering (i.e. Application design/architecture, templates, Git, testing, monitoring, automating, code quality, development methodologies).
 9. Get opinionated and customize your tool box with whatever makes sense to your brain.
 10. Learn Node.js
