@@ -13,20 +13,28 @@ In fact, from my experience the best front-end developers often have a mastery u
 If you were to set out today to become a front-end developer I would loosely strive to follow this process:
 
 1. Learn, roughly, how the web works. Make sure you know the "what" and "where" of Domains, URL's, HTTP, Browsers, servers/hosting, JSON, data API's, HTML, CSS, DOM, and JavaScript. The goal is to make sure you actually know how it all works together and exactly what each part is doing.
-2. Learn HTML & CSS.
-3. Learn the fundamentals of UI design patterns, interaction design, user experience design.
+2. Learn HTML, CSS, Accessibility, and SEO.
+3. Learn the fundamentals of UI design patterns, interaction design, user experience design, usability.
 4. Learn the fundamentals of programming
 5. Learn JavaScript
 6. Learn JSON and data API's
 7. Learn CLI/Command line
-8. Learn the practice of software engineering (i.e. Git, testing, monitoring, automating, development methodologies).
-9. Get opinionated and customize your tool set with whatever makes sense to your brain.
+8. Learn the practice of software engineering (i.e. Application design/architecture, templates, Git, testing, monitoring, automating, code quality, development methodologies).
+9. Get opinionated and customize your tool box with whatever makes sense to your brain.
+10. Node.js
 
-Note that I am asserting that you learn the actual underline technologies, in-deeply, before learning abstractions. Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn HAML, learn HTML. Don't learn coffeescript, learn JavaScript. Don't just use Bootstrap, learn UI patterns.
+Learn the actual underline technologies, before learning abstractions. Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn HAML, learn HTML. Don't learn coffeeScript, learn JavaScript. Don't just use Bootstrap, learn UI patterns.
 
-The rest of this book contains the resources and tools to follow the suggested process.
+The rest of this book contains the resources and tools to follow the suggested process. And it's assumed that you are not only learning but then also doing. Some suggest only doing. Others suggest only learning about doing. I suggest you find a mix of both that matches how your brain works. But for sure, it is a mix! So, don't just read about it, do it. Learn, do. Learn, do. Repeat indefinitely because things change fast.
 
-I should mentioned that as of late a lot of non-accredited front-end code schools have emerged. These avenues of becoming a front-end developer essentially are directed, in class room or on line courses, which follow a more transitional style of learning from an official instructor. I have more to say about these institutions in the direct learning section of this handbook. In brief, this is the web, everything you need to learn is there for the taking. However, if you need someone to tell you how to take and hold you accountable for taking it. You might consider an organized directed course. Otherwise, I am not aware of anyone other profession that is practically free for the taking with an internet connection and burning desire for knowledge.
+I should mentioned that as of late a lot of non-accredited front-end code schools/bootcamps have emerged. These avenues of becoming a front-end developer essentially are directed in class room or on line courses, which follow a more transitional style of learning from an official instructor. I have more to say about these institutions in the direct learning section of this handbook. In brief, this is the web, everything you need to learn is on the web for the taking. However, if you need someone to tell you how to take what is actually free, and hold you accountable for taking it, you might consider an organized course. Otherwise, I am not aware of anyone other profession that is practically free for the taking with an internet connection and burning desire for knowledge.
+
+Read/Watch:
+
+* [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI)
+* [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
+
+
 
 
 
