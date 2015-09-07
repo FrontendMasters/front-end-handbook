@@ -2,7 +2,6 @@
 
 #### Hyper Text Markup Language (aka HTML)
 
-
 > HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages.[1] Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language. - wikipedia.org
 
 **most relevant specifications / documentation :**

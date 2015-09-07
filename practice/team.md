@@ -4,10 +4,10 @@ A front-end developer is typically one player on a team that designs and develop
 
 A bare bones team for building professional sites or software on the web will contain minimally the following roles.
 
-* Visual Designer
-* UI/Interaction Designer
-* Front-end Developer
-* Back-end Developer
+* Visual Designer (i.e. fonts, colors, spacing, emotion, concept visuals)
+* UI/Interaction Designer (i.e. wireframes, specifying all user interactions and UI functionality)
+* Front-end Developer (i.e. authors code that runs in client/on device)
+* Back-end Developer (i.e. authors code that runs on server)
 
 The roles are order according to overlapping skills. A front-end developer will typically have a good handle on UI/Interaction design as well as back-end development. It is not uncommon for team members to fill more than one role by taking on the responsibilities of an over-lapping role.
 
