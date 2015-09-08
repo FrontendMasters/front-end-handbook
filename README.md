@@ -12,11 +12,11 @@ Part I. The front-end practice
 ---
 These chapters detail broadly the practice of front-end engineering.
 
-Part II: Learning front-end dev
+Part II: Learning front-end development
 ---
 These chapters identify self-directed and direct resources for learning to become a front-end developer.
 
-Part III: Front-end dev tools
+Part III: Front-end developer tools
 ---
 These chapters briefly explain and identify the tools of the trade.
 
