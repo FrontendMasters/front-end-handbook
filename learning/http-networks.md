@@ -6,3 +6,4 @@
 * [HTTP Fundamentals](http://www.pluralsight.com/courses/xhttp-fund) [watch][$]
 * [What Every Web Developer Should Know About HTTP](http://www.amazon.com/Developer-Should-OdeToCode-Programming-Series-ebook/dp/B0076Z6VMI) [read][$]
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763) [read][$]
+* [Practical Networking](http://www.pluralsight.com/courses/practical-networking) [watch][$]

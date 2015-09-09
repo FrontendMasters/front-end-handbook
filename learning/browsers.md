@@ -16,7 +16,7 @@
 * [slimerjs](http://slimerjs.org/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_(software) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_(software))
 * [TrifleJS](http://triflejs.org/) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_(layout_engine) + [Chakra](https://en.wikipedia.org/wiki/Chakra_(JScript_engine)))
 
-####How Browsers work
+####How browsers work
 
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/foreword/1) [read]
 * [How The Web Works](https://www.eventedmind.com/classes/how-the-web-works-7f40254c) [watch][$]
@@ -47,11 +47,11 @@ As of today most front-end developers use Chrome and the tools available to a de
 ####Evolution of browsers & technologies (i.e. api's)
 
 * [www.evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [read]
-* [https://en.wikipedia.org/wiki/Timeline_of_web_browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+* [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) [read]
 
 ####Browser hacks
 
-* [browserhacks.com](http://browserhacks.com/)
+* [browserhacks.com](http://browserhacks.com/) [read]
 
 
 
