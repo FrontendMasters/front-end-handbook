@@ -23,7 +23,7 @@
 * [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [read]
 * [How DNS works](https://howdns.works/ep1/) [read]
 
-####Browser Security
+####Browser security
 
 * [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) [read]
 * [HTML5 Security Cheatsheet](https://html5sec.org/#javascript) [read]
@@ -36,7 +36,7 @@
 
 In days past a front-end developer spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today unless you have to write code for older browsers (i.e. <IE8). This still remains an issue today, just not one that demands so much of the front-end developers time and brain cycles. The fact of the matter is modern abstractions (e.g. jQuery, SASS) have done away with a lot of browser inconsistency issues.
 
-####Evergreen Browsers
+####Evergreen browsers
 
 The latest versions of browsers are consider evergreen browsers. That is, they automatically update themselves silently without prompting the user. This move towards self updating browsers has been in reaction to the slow process of eliminating older browsers that are very complicated to develop for given their deviations from the commonalities between browsers.
 
@@ -51,7 +51,7 @@ As of today most front-end developers use Chrome and the tools available to a de
 
 ####Browser hacks
 
-* (browserhacks.com/)[http://browserhacks.com/]
+* [browserhacks.com](http://browserhacks.com/)
 
 
 
