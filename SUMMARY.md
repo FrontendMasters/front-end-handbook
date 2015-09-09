@@ -15,7 +15,7 @@
     * [How FD's are made](practice/making-fd.md)
 * [Part II: Learning front-end dev](learning.md)
     * [Self directed learning](template.md)
-    	* [Learn browsers](learning/browsers.md)
+    	* [Learn web browsers](learning/browsers.md)
         * [Learn HTTP](template.md) 
     	* [Learn code editors](template.md)
     	* [Learn HTML](template.md)
