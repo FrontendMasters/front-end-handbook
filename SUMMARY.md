@@ -48,9 +48,9 @@
     * [front-end devs to learn from](template.md)
     * [Newsletters](template.md)
     * [Podcasts](template.md)
-* [Part III: Front-end dev tools](tools)
+* [Part III: Front-end dev tools](template.md)
     * [General tools](template.md)
-    * HTML tools
+    * [HTML tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [cheatSheets](template.md)
@@ -58,7 +58,7 @@
 		* [specifications](template.md)
 		* [services](template.md)
 		* [browser Support](template.md)
-	* CSS tools
+	* [CSS tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [cheatSheets](template.md)
@@ -66,7 +66,7 @@
 		* [specifications](template.md)
 		* [services](template.md)
 		* [browser Support](template.md)
-	* JavaScript tools
+	* [JavaScript tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [cheatSheets](template.md)
@@ -74,49 +74,49 @@
 		* [specifications](template.md)
 		* [services](template.md)
 		* [browser Support](template.md)
-	* SE0 tools
+	* [SE0 tools]()
 		* [services](template.md)
-	* Tasking (aka build) tools
+	* [Tasking (aka build) tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Monitoring/Reporting tools
+	* [Monitoring/Reporting tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Documenting tools
+	* [Documenting tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Deployment tools
+	* [Deployment tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Hosting tools
+	* [Hosting tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Module/Packages tools
+	* [Module/Packages tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Browser testing tools
+	* [Browser testing tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Analytic tools
+	* [Analytic tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Unit testing tools
+	* [Unit testing tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Functional testing tools
+	* [Functional testing tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
-	* Back-end as a service tools
+	* [Back-end as a service tools]()
     	* [libraries](template.md)
 		* [frameworks](template.md)
 		* [services](template.md)
