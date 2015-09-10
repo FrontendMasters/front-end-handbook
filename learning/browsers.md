@@ -20,7 +20,6 @@
 
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/foreword/1) [read]
 * [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [read]
-* [How DNS works](https://howdns.works/ep1/) [read]
 
 ####Browser security
 
