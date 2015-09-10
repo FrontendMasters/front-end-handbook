@@ -19,7 +19,6 @@
 ####How browsers work
 
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/foreword/1) [read]
-* [How The Web Works](https://www.eventedmind.com/classes/how-the-web-works-7f40254c) [watch][$]
 * [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [read]
 * [How DNS works](https://howdns.works/ep1/) [read]
 

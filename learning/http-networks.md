@@ -2,8 +2,9 @@
 
 > The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. - Wikipedia
 
-* [HTTP Made Really Easy - A Practical Guide to Writing Clients and Servers](http://www.jmarshall.com/easy/http/) [read]
+* [HTTP: The Protocol Every Web Developer Must Know - Part 1](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) [read]
+* [HTTP: The Protocol Every Web Developer Must Know - Part 2](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) [read]
 * [HTTP Fundamentals](http://www.pluralsight.com/courses/xhttp-fund) [watch][$]
-* [What Every Web Developer Should Know About HTTP](http://www.amazon.com/Developer-Should-OdeToCode-Programming-Series-ebook/dp/B0076Z6VMI) [read][$]
-* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763) [read][$]
-* [Practical Networking](http://www.pluralsight.com/courses/practical-networking) [watch][$]
+* [HTTP Succinctly](http://code.tutsplus.com/series/http-succinctly--net-33683) [read]
+* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763) [read
+* [HTTP Status Codes in 60 Seconds](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) [watch]
