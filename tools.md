@@ -1,6 +1,6 @@
 # Part III: Tools
 
-These chapters briefly explain and identify the tools of the trade.
+Part three briefly explains and identifies the tools of the trade.
 
 
 
