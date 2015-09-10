@@ -1,10 +1,24 @@
 # Web technologies employed by front-end developers
 
+The following web technologies are employed by front-end developers:
+
+* Hyper Text Markup Language (aka HTML)
+* Cascading Style Sheets (aka CSS)
+* Document Object Model (aka DOM)
+* JavaScript Programming Language (aka: ECMAScript 6, ES6, JavaScript 2015)
+* JavaScript Web API's (aka HTML5 and friends)
+* Hypertext Transfer Protocol (aka HTTP)
+* Uniform Resource Locator's (aka URL)
+* JavaScript Object Notation (aka JSON)
+* Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
+
+These technologies are define below with the relevant documentation and specifications.
+
 #### Hyper Text Markup Language (aka HTML)
 
 > HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages.[1] Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language. - wikipedia.org
 
-**most relevant specifications / documentation :**
+most relevant specifications / documentation :
 
 * [HTML5 from W3C](http://www.w3.org/TR/html5/) : 5th major revision of the core language of the World Wide Web
 * [The elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
@@ -18,7 +32,7 @@
 
 >Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. Although most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications. - wikipedia.org
 
-**most relevant specifications / documentation:**
+most relevant specifications / documentation:
 
 * [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://drafts.csswg.org/css2/)
 * [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
@@ -29,7 +43,7 @@
 
 >The Document Object Model (DOM) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents. The nodes of every document are organized in a tree structure, called the DOM tree. Objects in the DOM tree may be addressed and manipulated by using methods on the objects. The public interface of a DOM is specified in its application programming interface (API). - wikipedia.org
 
-**most relevant specifications:**
+most relevant specifications:
 
 * [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
 * [DOM Living Standard](https://dom.spec.whatwg.org/)
@@ -39,7 +53,7 @@
 
 >JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded. - wikipedia.org
 
-**most relevant specifications / documentation:**
+most relevant specifications / documentation:
 
 * [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/)
 
@@ -47,7 +61,7 @@
 
 >When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site. - Mozilla
 
-**most relevant documentation:**
+most relevant documentation:
 
 * [Web API Interfaces](https://developer.mozilla.org/en-US/docs/Web/API)
 
@@ -55,7 +69,7 @@
 
 >The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. - wikipedia.org
 
-**most relevant specifications:**
+most relevant specifications:
 
 * [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 * [Hypertext Transfer Protocol version 2 draft-ietf-httpbis-http2-16](https://tools.ietf.org/html/draft-ietf-httpbis-http2-16)
@@ -64,7 +78,7 @@
 
 >A uniform resource locator (URL) (also called a web address)[1][2] is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI),[3] although many people use the two terms interchangeably.[4] A URL implies the means to access an indicated resource, which is not true of every URI.[4][5] URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications. - wikipedia.org
 
-**most relevant specifications:**
+most relevant specifications:
 
 * [Uniform Resource Locators (URL)](http://www.w3.org/Addressing/URL/url-spec.txt)
 * [URL Living Standard](https://url.spec.whatwg.org/)
@@ -73,7 +87,7 @@
 
 >JSON, sometimes JavaScript Object Notation, is an open standard format that uses human-readable text to transmit data objects consisting of attribute–value pairs. It is the primary data format used for asynchronous browser/server communication (AJAJ), largely replacing XML (used by AJAX). Although originally derived from the JavaScript scripting language, JSON is a language-independent data format. Code for parsing and generating JSON data is readily available in many programming languages. The JSON format was originally specified by Douglas Crockford. It is currently described by two competing standards, RFC 7159 and ECMA-404. The ECMA standard is minimal, describing only the allowed grammar syntax, whereas the RFC also provides some semantic and security considerations. The official Internet media type for JSON is application/json. The JSON filename extension is .json. - wikipedia.org
 
-**most relevant specifications:**
+most relevant specifications:
 
 * [Introducing JSON](http://json.org/)
 * [The JSON Data Interchange Format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)

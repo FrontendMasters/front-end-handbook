@@ -1,5 +1,7 @@
 # Front-end job boards
 
+A plethora of technical job listing outlets exist. The narrowed list below are currently the most relevant.
+
 * [frontenddeveloperjob.com/](http://frontenddeveloperjob.com/)
 * [authenticjobs.com](https://authenticjobs.com/#category=4)
 * [weworkremotely.com/](https://weworkremotely.com/)

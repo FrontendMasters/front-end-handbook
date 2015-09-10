@@ -1,10 +1,10 @@
-# Types of FD jobs
+# Front-end jobs titles
 
-Below is a list and description of various front-end job roles. The common or most used (i.e. generic) title for a front-end developer is, "front-end developer" or "front-end engineer". 
+Below is a list and description of various front-end job titles. The common or most used (i.e. generic) title for a front-end developer is, "front-end developer" or "front-end engineer". 
 
 ***
 
-**Front-end Developer/Engineer or Front-end Web Developer or Client-side Developer/Engineer or Front-end Software Developer** 
+**Front-end Developer/Engineer** (aka Front-end Web Developer/Engineer or Client-side Developer/Engineer or Front-end Software Developer/Engineer)
 
 The generic job title that describes a developer who is skilled at HTML, CSS, DOM, and JavaScript.
 
