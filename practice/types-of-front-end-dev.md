@@ -52,7 +52,7 @@ Job title that describes a developer who is skilled at HTML, CSS, DOM, and JavaS
 
 ***
 
-**Front-end Dev. Opts**
+**Front-end Dev. Ops**
 
 Job title that describes a developer who is skilled at HTML, CSS, DOM, and JavaScript. When the word "DevOps" is included in the job title this will denote that the developer has extensive experience with  software development methods that stresses communication, collaboration, integration, deployment, automation, and measurement.
 
