@@ -29,10 +29,13 @@ The rest of this book contains the resources and tools to follow the suggested p
 
 I should mentioned that as of late a lot of non-accredited front-end code schools/bootcamps have emerged. These avenues of becoming a front-end developer are directed, in class room or on line courses, which follow a more transitional style of learning from an official instructor (i.e. syllabus, test, quizzes, projects, team projects, grades etc..). I have more to say about these institutions in the direct learning section of this handbook. In brief, this is the web, everything you need to learn is on the web for the taking. However, if you need someone to tell you how to take what is actually free, and hold you accountable for taking it, you might consider an organized course. Otherwise, I am not aware of anyone other profession that is practically free for the taking with an internet connection and burning desire for knowledge.
 
-Read/watch:
+#### Read/watch:
 
-* [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI)
-* [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
+* [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
+* [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) [read]
+* [Front End Web Development Career Kickstart](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [watch][$]
+* [Front End Web Development: Get Started](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
+* [Front-End Web Development Quick Start With HTML5, CSS, and JavaScript](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [watch][$]
 
 
 

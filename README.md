@@ -18,7 +18,7 @@ Part two identifies self-directed and direct resources for learning to become a 
 
 Part III: Front-end developer tools
 ---
-Part three briefly explains and identifies the tools of the trade.
+Part three briefly explains and identifies tools of the trade.
 
 ***
 
