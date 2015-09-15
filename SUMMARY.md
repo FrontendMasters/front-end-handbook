@@ -21,7 +21,7 @@
         * [Learn HTTP/Networks](learning/http-networks.md)
     	* [Learn HTML & CSS](learning/html-css.md)
     	* [Learn JavaScript](learning/)
-    	* [Learn DOM & jQuery](learning/dom.md)
+    	* [Learn DOM, BOM & jQuery](learning/dom.md)
     	* [Learn browser dev tools](learning/)
     	* [Learn terminal (aka command line)](learning/)
     	* [Learn version control](learning/)
