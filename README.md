@@ -16,7 +16,7 @@ Part II: Learning front-end development
 ---
 Part two identifies self-directed and direct resources for learning to become a front-end developer.
 
-Part III: Front-end developer tools
+Part III: Front-end development tools & resources
 ---
 Part three briefly explains and identifies tools of the trade.
 

@@ -8,7 +8,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 
 ##### General Learning:
 
-* [HTML & CSS](https://www.codecademy.com/tracks/web) [interact]
+* [codecademy.com HTML & CSS](https://www.codecademy.com/tracks/web) [interact]
 * [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) [watch]
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) [read]
 * [Learn CSS Layout](http://learnlayout.com/) [read]
@@ -34,6 +34,11 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [cssvalues.com/](http://cssvalues.com/)
 * [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
 * [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+
+##### Glossary:
+
+* [HTML Glossary Programming reference for HTML elements](https://www.codecademy.com/articles/glossary-html)
+* [CSS Glossary - Programming reference for CSS covering Comments, Properties, and Selectors](https://www.codecademy.com/articles/glossary-css)
 
 ##### Standards/specifications:
 

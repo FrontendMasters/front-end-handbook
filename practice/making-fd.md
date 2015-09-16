@@ -36,6 +36,7 @@ I should mentioned that as of late a lot of non-accredited front-end code school
 * [Front End Web Development Career Kickstart](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [watch][$]
 * [Front End Web Development: Get Started](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
 * [Front-End Web Development Quick Start With HTML5, CSS, and JavaScript](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [watch][$]
+* [Introduction to Web Development](https://frontendmasters.com/courses/web-development/) [watch][$]
 
 
 
