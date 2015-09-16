@@ -2,7 +2,7 @@
 
 > **DOM** - The Document Object Model (DOM) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents. The nodes of every document are organized in a tree structure, called the DOM tree. Objects in the DOM tree may be addressed and manipulated by using methods on the objects. The public interface of a DOM is specified in its application programming interface (API). - wikipedia.org
  
-> **BOM** - The Browser Object Model (BOM) is a browser-specific convention referring to all the objects exposed by the web browser. Unlike the Document Object Model, there is no standard for implementation and no strict definition, so browser vendors are free to implement the BOM in any way they wish.
+> **BOM** - The Browser Object Model (BOM) is a browser-specific convention referring to all the objects exposed by the web browser. Unlike the Document Object Model, there is no standard for implementation and no strict definition, so browser vendors are free to implement the BOM in any way they wish. - wikipedia.org
  
 > **jQuery** - jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML. jQuery is the most popular JavaScript library in use today, with installation on 65% of the top 10 million highest-trafficked sites on the Web. jQuery is free, open-source software licensed under the MIT License. - wikipedia.org
 
@@ -10,7 +10,6 @@ The ideal path, but certainly the most difficult would be to first learn JavaScr
 
 ##### General Learning:
 
-* [Douglas Crockford: An Inconvenient API - The Theory of the DOM](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2) [watch]
 * [The Document Object Model](http://eloquentjavascript.net/13_dom.html) [read]
 * [codecademy.com jQuery](https://www.codecademy.com/tracks/jquery) [watch]
 * [jQuery Enlightenment](http://jqueryenlightenment.com/) [read]
@@ -24,6 +23,7 @@ The ideal path, but certainly the most difficult would be to first learn JavaScr
 * [Fixing Common jQuery Bugs](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) [watch][$]
 * [jQuery Tips and Tricks](http://www.pluralsight.com/courses/jquery-tips-and-tricks) [watch][$]
 * [jQuery-free JavaScript](http://www.pluralsight.com/courses/jquery-free-javascript) [watch][$]
+* [Douglas Crockford: An Inconvenient API - The Theory of the DOM](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2) [watch]
 
 ##### References/docs:
 
@@ -31,12 +31,14 @@ The ideal path, but certainly the most difficult would be to first learn JavaScr
 * [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [jQuery Docs](http://api.jquery.com/)
 * [MDN Browser Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+* [msdn Document Object Model (DOM)](https://msdn.microsoft.com/en-us/library/hh772384(v=vs.85).aspx)
 
 ##### Standards/specifications:
 
 * [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
 * [DOM Living Standard](https://dom.spec.whatwg.org/)
 * [Document Object Model (DOM) Level 3 Events Specification](http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/)
+* [Document Object Model (DOM) Technical Reports](http://www.w3.org/DOM/DOMTR)
 
 
 
