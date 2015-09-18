@@ -19,6 +19,7 @@
 * [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) [read]
 * [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) [read]
 * [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) [read]
+* [JavaScript Modules](http://jsmodules.io/cjs.html) [read]
 
 ##### Mastering:
 
@@ -34,6 +35,7 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
 * [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
+* [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
 
 ##### Architecting:
 
