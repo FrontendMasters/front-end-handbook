@@ -25,6 +25,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/) [read]
 * [CSS Diner](http://flukeout.github.io/) [interact]
 * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
+* [atozcss.com/](http://www.atozcss.com/) [watch]
 
 ##### References/docs:
 
@@ -64,6 +65,12 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
+##### Newsletter/News/Podcast/
+
+##### HTML/CSS newsletters:
+
+* [HTML 5 Weekly](http://html5weekly.com/)
+* [CSS Weekly](http://css-weekly.com/archives/)
 
 
 

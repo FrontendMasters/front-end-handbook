@@ -63,6 +63,16 @@
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
 
+##### JavaScript newsletters, news, &amp; podcasts:
+
+* [Javascript Jabber](https://devchat.tv/js-jabber/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [Echo JS](http://www.echojs.com/)
+* [JavaScript Kicks](http://javascriptkicks.com/)
+* [javascript.com](https://www.javascript.com/news)
+* [FiveJS](https://fivejs.codeschool.com/)
+* [JavaScript Live](https://jslive.com/)
+
 
 
 

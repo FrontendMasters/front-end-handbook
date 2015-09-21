@@ -1,5 +1,7 @@
 # Learn general front-end development
 
+##### General Learning:
+
 * [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) [read]
 * [Front End Web Development Career Kickstart](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [watch][$]
@@ -8,6 +10,21 @@
 * [Introduction to Web Development](https://frontendmasters.com/courses/web-development/) [watch][$]
 * [Foundations of Front-End Web Development](https://www.udemy.com/foundations-of-front-end-development/) [watch][$]
 * [Lean Front-End Engineering](https://frontendmasters.com/courses/lean-front-end-engineering/) [watch][$]
+* [Planning a Front-end JS Application](https://www.youtube.com/watch?v=q4zEGkjTBFA)
+
+##### General front-end newsletters, news, &amp; podcasts:
+
+* [shoptalkshow.com](http://shoptalkshow.com/)
+* [frontendfront.com/](http://frontendfront.com/)
+* [webtoolsweekly.com](http://webtoolsweekly.com/)
+* [O'Reilly Web Platform Radar](http://radar.oreilly.com/web-platform)
+* [http://thewebplatform.libsyn.com/](http://thewebplatform.libsyn.com/)
+* [The Web Ahead](http://thewebahead.net/)
+* [The Big Web Show](http://5by5.tv/bigwebshow)
+* [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
+* [Mobile Web Weekly](http://mobilewebweekly.co/)
+* [Open Web Platform Daily Digest](http://webplatformdaily.org/)
+* [FRONT-END DEV weekly](http://frontenddevweekly.com/)
 
 
 
