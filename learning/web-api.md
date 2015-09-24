@@ -4,7 +4,7 @@ The BOM and the DOM are not the only browser API's that are made available on th
 
 ![](../images/web-api.png "http://www.evolutionoftheweb.com/")
 
-<cite>image source: [http://www.evolutionoftheweb.com/](http://www.evolutionoftheweb.com/)</cite>
+<cite>image source: <a href="http://www.evolutionoftheweb.com/">http://www.evolutionoftheweb.com/</a></cite>
 
 You should be aware of and learn where appropriate web/browser API's. A good tool to use to familiarize oneself with all of these API's would be to investigate the [HTML5test.com results for the 5 most current browsers](https://html5test.com/compare/browser/chrome-44/firefox-40/ie-11/safari-9.0.html).
 

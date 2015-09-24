@@ -22,7 +22,7 @@ These operating systems typically run on one or more of the following devices:
 
 ![](../images/fd-devs-for.jpeg "https://ams-ix.net/newsitems/87")
 
-<cite>image source: [https://ams-ix.net/newsitems/87](https://ams-ix.net/newsitems/87)</cite>
+<cite>image source: <a href="https://ams-ix.net/newsitems/87">https://ams-ix.net/newsitems/87</a></cite>
 
 Generally speaking, front-end technologies can run on the aforementioned mentioned operating systems and devices using the following run time scenarios:
 

@@ -6,7 +6,7 @@ An experienced front-end developer potentially can live where ever they want (i.
 
 ![](../images/front-end-salary.png "http://intersog.com/blog/chicago-tech-salary-guide-2015/")
 
-<cite>image source: [http://intersog.com/blog/chicago-tech-salary-guide-2015/](http://intersog.com/blog/chicago-tech-salary-guide-2015/)</cite>
+<cite>image source: <a href="http://intersog.com/blog/chicago-tech-salary-guide-2015/">http://intersog.com/blog/chicago-tech-salary-guide-2015/</a></cite>
 
 
 

@@ -4,7 +4,7 @@
 
 ![](../images/dns.jpg "http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg")
 
-<cite>image source: [http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg](http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg)</cite>
+<cite>image source: <a href="http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg">http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg</a></cite>
 
 
 * [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA) [watch]

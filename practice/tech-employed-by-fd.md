@@ -2,7 +2,7 @@
 
 ![](../images/web-tech-employed.jpg "http://www.2n2media.com/compare-front-end-development-and-back-end-development")
 
-<cite>image source: [http://www.2n2media.com/compare-front-end-development-and-back-end-development](http://www.2n2media.com/compare-front-end-development-and-back-end-development)</cite>
+<cite> image source: <a href="http://www.2n2media.com/compare-front-end-development-and-back-end-development">http://www.2n2media.com/compare-front-end-development-and-back-end-development</a> </cite>
 
 The following web technologies are employed by front-end developers:
 
