@@ -1,7 +1,6 @@
 # Front-end dev skills
 
 ![](../images/front-end-skills.png "http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html")
-
 <cite>image source: <a href="http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html">http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</a></cite>
 
 Basic to advanced HTML, CSS, DOM, JavaScript, HTTP/URL, and browser skills are assumed for any type of front-end developer. 

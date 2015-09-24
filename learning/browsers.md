@@ -10,8 +10,7 @@
 * [Internet Explorer](Internet Explorer) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_(layout_engine) + [Chakra](https://en.wikipedia.org/wiki/Chakra_(JScript_engine))
 
 ![](../images/statcounter.png "http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar")
-
-<cite>image source: [http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar](http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar)</cite>
+<cite>image source: <a href="http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar">http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar</a></cite>
 
 ##### The most commonly used headless browser are:
 
@@ -26,8 +25,7 @@
 * [Fast CSS: How Browsers Lay Out Web Pages](http://dbaron.org/talks/2012-03-11-sxsw/master.xhtml) [read]
 
 ![](../images/browsers-work.png "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/")
-
-<cite>image source: [http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)</cite>
+<cite>image source: <a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/</a></cite>
 
 ##### Browser security
 

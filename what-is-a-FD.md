@@ -3,8 +3,7 @@
 A front-end developer architects and develops websites and applications using web technologies (i.e. HTML, CSS, DOM, and JavaScript) which run on the web platform or act as compilation input for non-web platform environments.
 
 ![](images/what-is-front-end-dev.png "https://www.upwork.com/hiring/development/front-end-developer/")
-
-<cite>image source: [https://www.upwork.com/hiring/development/front-end-developer/](https://www.upwork.com/hiring/development/front-end-developer/)</cite>
+<cite>image source: <a href="https://www.upwork.com/hiring/development/front-end-developer/">https://www.upwork.com/hiring/development/front-end-developer/</a></cite>
 
 Typically, a developer enters into the field of front-end development by developing for some type of [web browser](https://en.wikipedia.org/wiki/Web_browser), webview, or [headless browser](https://en.wikipedia.org/wiki/Headless_browser) running on a device (desktops, laptops, netbooks, tablets, phones) enabled with web platform capabilities.
 
