@@ -4,6 +4,10 @@ The national average in the U.S for a front-end developer is [75k](http://www.gl
 
 An experienced front-end developer potentially can live where ever they want (i.e. work remotely) and make over 150k a year (visit [angle.co](https://angel.co/jobs), sign-up, review front-end jobs over 150k).
 
+![](../images/front-end-salary.png "http://intersog.com/blog/chicago-tech-salary-guide-2015/")
+
+<cite>image source: [http://intersog.com/blog/chicago-tech-salary-guide-2015/](http://intersog.com/blog/chicago-tech-salary-guide-2015/)</cite>
+
 
 
 

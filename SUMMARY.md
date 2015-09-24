@@ -25,7 +25,7 @@
         * [Learn SEO)](learning/seo.md)
     	* [Learn JavaScript](learning/)
     	* [Learn DOM, BOM & jQuery](learning/dom.md)
-        * [Learn web/browser API's](learning/dom.md) 
+        * [Learn web/browser API's](learning/web-api.md) 
         * [Learn JSON](learning/json.md)
         * [Learn front-end app architecture](learning/front-end-apps.md)
     	* [Learn web dev tools](learning/browser-dev-tools.md)

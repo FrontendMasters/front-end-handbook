@@ -1,5 +1,9 @@
 # How front-end developers are made
 
+![](../images/making-fd.png "http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg")
+
+<cite>image source: [http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg](http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg)</cite>
+
 How does one exactly become a front-end developer? Well, it's complicated. Still today you can't go to college and expect to graduate with a degree in front-end engineering. And I rarely hear of, or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphic design degree to end up writing HTML, CSS, and JavaScript professionally. In fact, most of the people working on the front-end, even today, generally seem to be self taught and not traditionally trained as a programmer. Why is this the case? 
 
 A front-end developer is not a focused visual designer or interaction designer. Design school is not exactly the place to hone front-end skills. A front-end developer is not exactly a traditionally trained computer science graduate either. Focusing on either doesn't exactly prepare a person for front-end development. And in fact, following the traditional paths for either in the higher education systems of America (i.e. College) can derail a person from potentially finding a doorway into a practice where actual experience is king. Today, if you want to be a front-end developer you teach yourself or you take what is likely a non accredited program, course, bootcamp, or class.
@@ -30,12 +34,15 @@ I should mentioned that as of late a lot of non-accredited front-end code school
 ##### Read/watch:
 
 * [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
+* [Your Guide to Getting Into Front-End Development](http://blog.aftercollege.com/wp-content/uploads/2014/10/AC_FEDevelopers-ebook-6.pdf)
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) [read]
 * [Front End Web Development Career Kickstart](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [watch][$]
 * [Front End Web Development: Get Started](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
 * [Front-End Web Development Quick Start With HTML5, CSS, and JavaScript](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [watch][$]
 * [Introduction to Web Development](https://frontendmasters.com/courses/web-development/) [watch][$]
 * [Foundations of Front-End Web Development](https://www.udemy.com/foundations-of-front-end-development/) [watch][$]
+* [Lean Front-End Engineering](https://frontendmasters.com/courses/lean-front-end-engineering/) [watch][$]
+* [Planning a Front-end JS Application](https://www.youtube.com/watch?v=q4zEGkjTBFA)
 
 
 

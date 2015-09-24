@@ -37,14 +37,6 @@
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
 * [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
 
-##### Architecting:
-
-* [JavaScript Application Design](https://www.manning.com/books/javascript-application-design?a_aid=go&a_bid=e6de0d9d) read][$]
-* [Build an App with React and Ampersand](http://learn.humanjavascript.com/react-ampersand) [watch][$]
-* [Human JavaScript](http://read.humanjavascript.com/) [read]
-* [Programming JavaScript Applications](Programming JavaScript Applications) [read]
-
-
 ##### References/docs:
 
 * [MDN JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
@@ -56,6 +48,7 @@
 ##### Standards/specifications:
 
 * [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/)
+* [Status, process, and documents for ECMA262](https://github.com/tc39/ecma262)
 
 ##### Style:
 

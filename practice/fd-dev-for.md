@@ -18,7 +18,11 @@ These operating systems typically run on one or more of the following devices:
 * Tablet
 * TV
 * Watch
-* Things (i.e. anything you can imagine, car, fridge etc..)
+* Things (i.e. anything you can imagine, car, fridge, lights, thermostat etc..)
+
+![](../images/fd-devs-for.jpeg "https://ams-ix.net/newsitems/87")
+
+<cite>image source: [https://ams-ix.net/newsitems/87](https://ams-ix.net/newsitems/87)</cite>
 
 Generally speaking, front-end technologies can run on the aforementioned mentioned operating systems and devices using the following run time scenarios:
 

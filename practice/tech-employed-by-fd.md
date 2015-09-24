@@ -1,5 +1,9 @@
 # Web technologies employed by front-end developers
 
+![](../images/web-tech-employed.jpg "http://www.2n2media.com/compare-front-end-development-and-back-end-development")
+
+<cite>image source: [http://www.2n2media.com/compare-front-end-development-and-back-end-development](http://www.2n2media.com/compare-front-end-development-and-back-end-development)</cite>
+
 The following web technologies are employed by front-end developers:
 
 * Hyper Text Markup Language (aka HTML)
