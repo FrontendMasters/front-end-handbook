@@ -32,16 +32,17 @@ I should mentioned that as of late a lot of non-accredited front-end code school
 
 ##### Read/watch:
 
-* [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
 * [Your Guide to Getting Into Front-End Development](http://blog.aftercollege.com/wp-content/uploads/2014/10/AC_FEDevelopers-ebook-6.pdf)
-* [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) [read]
 * [Front End Web Development Career Kickstart](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [watch][$]
 * [Front End Web Development: Get Started](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
 * [Front-End Web Development Quick Start With HTML5, CSS, and JavaScript](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [watch][$]
 * [Introduction to Web Development](https://frontendmasters.com/courses/web-development/) [watch][$]
 * [Foundations of Front-End Web Development](https://www.udemy.com/foundations-of-front-end-development/) [watch][$]
 * [Lean Front-End Engineering](https://frontendmasters.com/courses/lean-front-end-engineering/) [watch][$]
-* [Planning a Front-end JS Application](https://www.youtube.com/watch?v=q4zEGkjTBFA)
+* [Planning a Front-end JS Application](https://www.youtube.com/watch?v=q4zEGkjTBFA) [watch]
+* [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) [read]
+* [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
+* [Learn Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) [watch][$]
 
 
 

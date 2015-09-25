@@ -1,4 +1,4 @@
-# Front-end Newsletters, News, &amp; Podcasts
+# Front-end newsletters, news sites, &amp; podcasts
 
 ##### General front-end newsletters, news, &amp; podcasts:
 
@@ -6,13 +6,14 @@
 * [frontendfront.com/](http://frontendfront.com/)
 * [webtoolsweekly.com](http://webtoolsweekly.com/)
 * [O'Reilly Web Platform Radar](http://radar.oreilly.com/web-platform)
-* [http://thewebplatform.libsyn.com/](http://thewebplatform.libsyn.com/)
+* [The Wdb Platform Podcast](http://thewebplatform.libsyn.com/)
 * [The Web Ahead](http://thewebahead.net/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
 * [FRONT-END DEV weekly](http://frontenddevweekly.com/)
+* [Web Design Weekly](https://web-design-weekly.com/)
 
 ##### HTML/CSS newsletters:
 

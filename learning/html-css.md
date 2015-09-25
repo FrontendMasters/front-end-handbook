@@ -65,7 +65,6 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
-##### Newsletter/News/Podcast/
 
 ##### HTML/CSS newsletters:
 

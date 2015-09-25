@@ -8,6 +8,8 @@
 * [Getting Started with Gulp](https://www.packtpub.com/web-development/getting-started-gulp) [read][$]
 * [Rapid Gulp](https://www.packtpub.com/web-development/rapid-gulp-video) [watch][$]
 * [Learning Gulp - Getting started with the font end factory](http://hmphry.com/gulp) [read]
+* [Gulp Basics](http://teamtreehouse.com/library/gulp-basics) [watch][$]
+* [Using npm as a Task Runner](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [watch][$]
 
 ##### References/docs:
 

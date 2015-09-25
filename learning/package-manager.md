@@ -6,6 +6,8 @@
 
 * [Bower Fundamentals](http://www.pluralsight.com/courses/bower-fundamentals) [watch][$]
 * [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/) [read]
+* [Up and Running with NPM, the Node Package Manager](http://www.lynda.com/Developer-Web-Development-tutorials/Up-Running-NPM-Node-Package-Manager/409274-2.html)[watch][$]
+* [npm Basics](http://teamtreehouse.com/library/npm-basics) [watch][$]
 
 ##### References/docs:
 

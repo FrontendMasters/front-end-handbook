@@ -9,13 +9,13 @@ The following web technologies are employed by front-end developers:
 * Cascading Style Sheets (aka CSS)
 * Document Object Model (aka DOM)
 * JavaScript Programming Language (aka: ECMAScript 6, ES6, JavaScript 2015)
-* JavaScript Web API's (aka HTML5 and friends)
+* Web API's (aka HTML5 and friends or Browser API's)
 * Hypertext Transfer Protocol (aka HTTP)
 * Uniform Resource Locator's (aka URL)
 * JavaScript Object Notation (aka JSON)
 * Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 
-These technologies are define below with the relevant documentation and specifications.
+These technologies are define below with the relevant documentation and specifications. For a comprehensive list of all web related specifications have a look at [platform.html5.org](https://platform.html5.org/).
 
 ##### Hyper Text Markup Language (aka HTML)
 
@@ -60,7 +60,7 @@ most relevant specifications / documentation:
 
 * [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/)
 
-##### JavaScript Web API's (aka HTML5 and friends)
+##### Web API's (aka HTML5 and friends)
 
 > When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site. - Mozilla
 

@@ -1,6 +1,6 @@
 # Front-end job boards
 
-A plethora of technical job listing outlets exist. The narrowed list below are currently the most relevant.
+A plethora of technical job listing outlets exist. The narrowed list below are currently the most relevant resources for finding a specific front-end position/career.
 
 * [frontenddeveloperjob.com/](http://frontenddeveloperjob.com/)
 * [authenticjobs.com](https://authenticjobs.com/#category=4)
