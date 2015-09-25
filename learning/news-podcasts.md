@@ -14,6 +14,9 @@
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
 * [FRONT-END DEV weekly](http://frontenddevweekly.com/)
 * [Web Design Weekly](https://web-design-weekly.com/)
+* [Front-end News in 5 Minutes](https://frontendfive.codeschool.com/)
+* [TTL](http://ttlpodcast.com/)
+* [Viewsources](https://viewsourc.es/)
 
 ##### HTML/CSS newsletters:
 

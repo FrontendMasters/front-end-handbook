@@ -9,6 +9,7 @@
 ##### General Learning:
 
 * [json.com](https://www.json.com/) [read]
+* [What is JSON](https://mijingo.com/lessons/what-is-json/) [watch]
 
 ##### References/docs:
 

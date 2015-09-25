@@ -12,7 +12,9 @@
 ##### References/docs:
 
 * [bower](http://bower.io/)
+* [jspm.io](http://jspm.io/)
 * [npm](https://www.npmjs.com/)
+
 
 
 

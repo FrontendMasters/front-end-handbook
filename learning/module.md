@@ -10,7 +10,7 @@
 ##### References/docs:
 
 * [browserify](http://browserify.org/)
-* [jspm.io](http://jspm.io/)
+* [system.js](https://github.com/systemjs/systemjs)
 * [webpack](http://webpack.github.io/)
 
 

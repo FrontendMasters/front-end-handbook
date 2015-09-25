@@ -4,7 +4,24 @@ This section focuses on free and paid resources (video training, books etc..) th
 
 The resources include free material and paid material. Paid material will be indicated with [$].
 
-The author believes that anyone with the right determination and dedication can teach themselves how to be a front-end developer. All that is required is a computer connected to the web, some cash for books, and an account on [front-End Masters](https://frontendmasters.com/) (39$ a month) and [Pluralsight](http://www.pluralsight.com/) (starting at 29$ a month).
+The author believes that anyone with the right determination and dedication can teach themselves how to be a front-end developer. All that is required is a computer connected to the web, some cash for books, and an couple of accounts on a video learning site. 
+
+Below are a few video learning outlets (tech focused) I generally recommend pulling content from:
+
+* [Front-End Masters](https://frontendmasters.com/)
+* [pluralsight.com](http://www.pluralsight.com/)
+* [tutsplus.com](https://tutsplus.com/courses)
+* [lynda.com](http://www.lynda.com/)
+* [treehouse](https://teamtreehouse.com/)
+* [mijingo](https://mijingo.com/)
+* [codeschool.com](https://www.codeschool.com/)
+* [laracasts](https://laracasts.com/)
+* [eventedmind.com](https://www.eventedmind.com/)
+* [egghead.io](https://egghead.io/)
+* [codecademy.com](codecademy.com)
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+* [Tagtree](http://tagtree.tv/library)
+* [Udacity](https://www.udacity.com/courses/web-development)
 
 
 

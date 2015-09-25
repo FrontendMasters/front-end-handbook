@@ -2,7 +2,7 @@
 
 > A source code editor is a text editor program designed specifically for editing source code of computer programs by programmers. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are the most fundamental programming tool, as the fundamental job of programmers is to write and edit source code. - Wikipedia
 
-Front-end code can minimally be edited with a simple text editing application like Notepad or TextEdit. But, most front-end practitioners use a code editor specifically design for editing front-end coding. 
+Front-end code can minimally be edited with a simple text editing application like Notepad or TextEdit. But, most front-end practitioners use a code editor specifically design for editing a programming language. 
 
 Code editors come in all sorts of types and size, so to speak. Selecting one is a rather subjective engagement. Choose one, learn it inside and out, then get on to learning HTML, CSS, DOM, and JavasCript. 
 
@@ -39,6 +39,8 @@ Here are some resources for learning Sublime:
 * [Sublime Text Power User Book](https://sublimetextbook.com/) [read][$]
 * [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) [watch][$]
 * [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) [watch][requires login, but free]
+
+If you need a free alternative to Sublime (cost $70) you might consider [atom](https://atom.io/) or [brackets](http://brackets.io/).
 
 
 

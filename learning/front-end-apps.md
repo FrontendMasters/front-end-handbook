@@ -9,6 +9,7 @@
 * [Eloquent JavaScript: modules](http://eloquentjavascript.net/10_modules.html) [read]
 * [Web UI Architecture](https://frontendmasters.com/courses/web-ui-architecture/) [watch][$]
 * [Field Guide to Web Applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
+* [UI Architecture](http://www.pluralsight.com/courses/web-ui-architecture) [watch][$]
 
 
 
