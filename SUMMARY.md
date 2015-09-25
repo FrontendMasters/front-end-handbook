@@ -38,7 +38,7 @@
         * [Learn build & task automation](learning/build.md) 
         * [Learn site performance optimization](learning/perf.md) 
     	* [Learn JS testing](learning/test.md)
-        * [Learn headless browsers](learning/headeless-browsers.md)
+        * [Learn headless browsers](learning/headless-browsers.md)
     * [Directed learning](learning/direct-learning.md)
     	* [front-end schools, courses, & bootcamps](learning/courses.md)
     * [Front-end devs to learn from](learning/learn-from.md)
