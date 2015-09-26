@@ -19,6 +19,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS Positioning](http://www.pluralsight.com/courses/css-positioning-1834) [watch][$]
 * [HTML Document Flow](http://www.pluralsight.com/courses/html-document-flow-1837) [watch][$]
 * [Introduction to HTML5 and CSS3](https://frontendmasters.com/courses/introduction-html5-css3/) [watch][$]
+* [Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt) [read]
 
 ##### Mastering:
 
@@ -26,6 +27,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS Diner](http://flukeout.github.io/) [interact]
 * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
 * [atozcss.com/](http://www.atozcss.com/) [watch]
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) [read]
 
 ##### References/docs:
 
@@ -52,14 +54,14 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
 * [All W3C CSS Specifications](http://www.w3.org/Style/CSS/current-work#roadmap)
 
-##### Architecting:
+##### Architecting CSS:
 
 * [oocss](http://oocss.org/) [read]
 * [SMACSS](https://smacss.com/) [read][$]
 * [SMACSS](https://frontendmasters.com/courses/smacss/) [watch][$]
 * [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
 
-##### Style:
+##### Authoring conventions:
 
 * [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
 * [Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]

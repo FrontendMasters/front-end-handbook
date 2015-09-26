@@ -12,8 +12,12 @@ Additionally, MDN has a great deal of information about web/browser APIs.
 * [MDN Web API reference](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 * [MDN WebAPI - lists device access APIs and other APIs useful for applications.](https://developer.mozilla.org/en-US/docs/WebAPI)
 * [MDN Web APIs interface reference - all interfaces, arranged alphabetically.](https://developer.mozilla.org/en-US/docs/Web/API)
-* [platform.html5.org](https://platform.html5.org/)
-* [caniuse.com](http://caniuse.com/)
 
 Keep in mind that not every API is specified by the W3C or WHATWG. 
+
+Here are some additional resources outline the available of the web platform specifications/API's.
+
+* [HTML5-overview](https://github.com/dret/HTML5-overview)
+* [platform.html5.org](https://platform.html5.org/)
+
 

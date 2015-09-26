@@ -9,9 +9,9 @@ The author believes that anyone with the right determination and dedication can 
 Below are a few video learning outlets (tech focused) I generally recommend pulling content from:
 
 * [Front-End Masters](https://frontendmasters.com/)
-* [pluralsight.com](http://www.pluralsight.com/)
+* [pluralsight.com](http://www.pluralsight.com/) [careful, quality varies]
 * [tutsplus.com](https://tutsplus.com/courses)
-* [lynda.com](http://www.lynda.com/)
+* [lynda.com](http://www.lynda.com/) [careful, quality varies]
 * [treehouse](https://teamtreehouse.com/)
 * [mijingo](https://mijingo.com/)
 * [codeschool.com](https://www.codeschool.com/)
@@ -21,7 +21,7 @@ Below are a few video learning outlets (tech focused) I generally recommend pull
 * [codecademy.com](codecademy.com)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [Tagtree](http://tagtree.tv/library)
-* [Udacity](https://www.udacity.com/courses/web-development)
+* [Udacity](https://www.udacity.com/courses/web-development) 
 
 
 

@@ -14,7 +14,9 @@
 * [Learn Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) [watch][$]
 * [Front-End Dev Mastery](https://mijingo.com/products/bundles/front-end-dev-mastery/) [watch][$]
 * [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [watch][$]
-
+* [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) [read]
+* [BEING A WEB DEVELOPER](http://www.yellowshoe.com.au/standards) [read]
+* [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) [read]
 
 ##### General front-end newsletters, news, &amp; podcasts:
 
