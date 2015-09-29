@@ -47,6 +47,7 @@ I should mentioned that as of late a lot of non-accredited front-end code school
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) [read]
 * [BEING A WEB DEVELOPER](http://www.yellowshoe.com.au/standards) [read]
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) [read]
+* [Web Fundamentals](https://developers.google.com/web/fundamentals)
 
 
 

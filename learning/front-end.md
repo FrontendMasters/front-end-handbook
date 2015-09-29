@@ -17,6 +17,7 @@
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) [read]
 * [BEING A WEB DEVELOPER](http://www.yellowshoe.com.au/standards) [read]
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) [read]
+* [Web Fundamentals](https://developers.google.com/web/fundamentals)
 
 ##### General front-end newsletters, news, &amp; podcasts:
 

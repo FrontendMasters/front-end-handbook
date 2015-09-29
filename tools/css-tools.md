@@ -8,6 +8,7 @@
 * [Pure.css](http://purecss.io/)
 * [Concise](http://concisecss.com/)
 * [Materialize](http://materializecss.com/)
+* [Material Design Lite (MDL)](http://www.getmdl.io/index.html)
 * [Base](http://getbase.org/)
 
 ##### Mobile only CSS libraries/frameworks:
@@ -36,6 +37,7 @@
 * [cssvalues.com](http://cssvalues.com/)
 * [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
 * [MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [overapi.com CSS cheatsheet](http://overapi.com/css/)
 
 ##### Linting/hinting
 
@@ -66,7 +68,7 @@
 ##### Authoring conventions:
 
 * [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
-* [Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
+* [CSS code guide](http://codeguide.co/#css) [read]
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 

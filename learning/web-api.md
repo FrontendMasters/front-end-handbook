@@ -15,9 +15,10 @@ Additionally, MDN has a great deal of information about web/browser APIs.
 
 Keep in mind that not every API is specified by the W3C or WHATWG. 
 
-Here are some additional resources outline the available of the web platform specifications/API's.
+In addition to MDN you might find the following resources helpful:
 
 * [HTML5-overview](https://github.com/dret/HTML5-overview)
 * [platform.html5.org](https://platform.html5.org/)
+* [The HTML 5 JavaScript API Index](http://html5index.org/)
 
 

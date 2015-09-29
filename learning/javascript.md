@@ -41,9 +41,10 @@
 
 * [MDN JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-##### Glossary:
+##### Glossary/encyclopedia:
 
 * [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
+* [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 
 ##### Standards/specifications:
 
