@@ -8,6 +8,7 @@
 * [SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers) [watch][$]
 * [Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 * [SEO Tutorial For Beginners 2015](http://www.hobo-web.co.uk/seo-tutorial/)
+* [varvy.com](https://varvy.com/)
 
 
 

@@ -29,7 +29,7 @@
 * [PostCSS](https://github.com/postcss/postcss) & [cssnext](http://cssnext.io/)
 * [rework](https://github.com/reworkcss/rework) & [myth](http://www.myth.io/)
 
-##### References
+##### References:
 
 * [css3test.com](http://css3test.com/)
 * [css4-selectors.com](http://css4-selectors.com/)
@@ -39,16 +39,16 @@
 * [MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [overapi.com CSS cheatsheet](http://overapi.com/css/)
 
-##### Linting/hinting
+##### Linting/hinting:
 
 * [CSS Lint](http://csslint.net/)
 
-##### Optimizer
+##### Optimizer:
 
 * [csso](http://css.github.io/csso/)
 * [clear-css](https://github.com/jakubpawlowicz/clean-css)
 
-##### Online creation/generation/experimentation tools
+##### Online creation/generation/experimentation tools:
 
 * [Ultimate CSS Gradient Generator](Ultimate CSS Gradient Generator)
 * [Enjoy CSS](http://enjoycss.com/)
@@ -72,7 +72,7 @@
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 
-##### Trending CSS repositories on Github this month
+##### Trending CSS repositories on Github this month:
 
 [https://github.com/trending?l=css&since=monthly](https://github.com/trending?l=css&since=monthly)
 

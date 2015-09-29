@@ -19,6 +19,9 @@ I'd suggest learning and using the [Chrome web developer tools](https://develope
 ##### Chrome Web Developer Tools Docs:
 
 * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
+* [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
+* [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+* [Settings](https://developer.chrome.com/devtools/docs/settings)
 
 ##### News/Newsletters/Podcasts/Tips:
 

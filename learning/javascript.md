@@ -36,6 +36,8 @@
 * [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
 * [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
+* [JavaScript Regular Expression Enlightenment](JavaScript Regular Expression Enlightenment)
+* [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
 
 ##### References/docs:
 

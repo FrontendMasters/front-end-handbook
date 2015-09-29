@@ -10,6 +10,7 @@
 * [iwanttouse.com/](http://www.iwanttouse.com/)
 * [Platform status](https://dev.modern.ie/platform/status/)
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
+* [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
 
 ##### Browser development tools:
 
@@ -17,10 +18,17 @@
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
 * [Firefox](https://developer.mozilla.org/en-US/docs/Tools)
 * [Chrome Developer Tools (aka DevTools)](https://developers.google.com/web/tools/?hl=en)
-    - [devtools-cheatsheet](http://anti-code.com/devtools-cheatsheet/)
+    - [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
+    - [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
+    - [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+    - [Settings](https://developer.chrome.com/devtools/docs/settings)
 * [IE Developer tools (aka F12 tools)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
 
-##### Browser feature detection:
+##### Synchronized browser tools:
+
+* [Browsersync](http://www.browsersync.io/)
+
+##### Browser coding tools to determine if X browser supports X:
 
 * [Modernizr](https://modernizr.com/)
 * [ES Feature Tests](https://featuretests.io/)
