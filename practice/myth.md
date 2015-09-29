@@ -9,6 +9,7 @@ The roles required to design and develop a web solution require a deep skill set
 Pragmatically you should seek to be, or seek to hire, an expert in one of these roles. Those who claim to operate at an expert level at one or more of these roles are exceptionally rare and more than likely mythical given modern stacks.
 
 ![](../images/stacks-change.jpg "http://andyshora.com/full-stack-developers.html")
+
 <cite>image source: <a href="http://andyshora.com/full-stack-developers.html">http://andyshora.com/full-stack-developers.html</a></cite>
 
 

@@ -19,7 +19,7 @@
 * [HAML](http://haml.info/)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 
-##### References
+##### References:
 
 * [HTML Interfaces Browser Support ](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
@@ -27,17 +27,17 @@
 * [Elements](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
 * [Element attributes](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
 
-##### Linting/hinting
+##### Linting/hinting:
 
 * [html5-lint](https://github.com/mozilla/html5-lint)
 * [HTMLHint](http://htmlhint.com/)
 * [html-inspector](https://github.com/philipwalton/html-inspector)
 
-##### Optimizer
+##### Optimizer:
 
 * [HTML Minifier](http://kangax.github.io/html-minifier/)
 
-##### Online creation/generation/experimentation tools
+##### Online creation/generation/experimentation tools:
 
 * [tablesgenerator.com](http://www.tablesgenerator.com/)
 
@@ -46,7 +46,7 @@
 * [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
 * [HTML code guide](http://codeguide.co/#html)
 
-##### Trending HTML repositories on Github this month
+##### Trending HTML repositories on Github this month:
 
 [https://github.com/trending?l=html&since=monthly](https://github.com/trending?l=html&since=monthly)
 
