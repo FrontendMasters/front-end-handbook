@@ -12,6 +12,10 @@
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
 
+##### Browser hacks:
+
+* [browserhacks.com](http://browserhacks.com/)
+
 ##### Browser development tools:
 
 * [Opera Dragonfly](http://www.opera.com/dragonfly/)
@@ -47,12 +51,14 @@
 * [Sauce labs](https://saucelabs.com/) [$]
 * [Selenium](http://www.seleniumhq.org/)
 * [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
-* [nightwatchjs](http://nightwatchjs.org/)
 
 ##### Headless browsers:
 
 * [PhantomJS](http://phantomjs.org/)
+    - [nightwatchjs](http://nightwatchjs.org/)
+    - [casperJS](http://casperjs.org/)
 * [slimerjs](http://slimerjs.org/)
+    - [casperJS](http://casperjs.org/)
 * [TrifleJS](http://triflejs.org/)
 
 

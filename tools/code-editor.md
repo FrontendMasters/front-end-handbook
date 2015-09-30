@@ -42,9 +42,14 @@ Here are some resources for learning Sublime:
 
 If you need a free alternative to Sublime (cost $70) you might consider [atom](https://atom.io/) or [brackets](http://brackets.io/).
 
+##### Online code editors:
 
-
-
+* [jsbin.com](http://jsbin.com/)
+* [jsfiddle.net](http://jsfiddle.net/)
+* [liveweave.com](http://liveweave.com/)
+* [es6fiddle.net](http://www.es6fiddle.net/)
+* [codepen.io](http://codepen.io/)
+* [Plunker](http://plnkr.co/)
 
 
 

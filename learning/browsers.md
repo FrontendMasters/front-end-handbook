@@ -33,6 +33,7 @@
 
 * [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) [read]
 * [HTML5 Security Cheatsheet](https://html5sec.org/#javascript) [read]
+* [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) [watch]
 
 ##### Comparing browsers
 

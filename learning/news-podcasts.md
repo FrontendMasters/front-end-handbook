@@ -17,6 +17,7 @@
 * [Front-end News in 5 Minutes](https://frontendfive.codeschool.com/)
 * [TTL](http://ttlpodcast.com/)
 * [Viewsources](https://viewsourc.es/)
+* [Web Components Weekly](http://webcomponentsweekly.me/)
 
 ##### HTML/CSS newsletters:
 

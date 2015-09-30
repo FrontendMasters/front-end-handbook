@@ -8,6 +8,7 @@
 * [dCodes](http://www.dcodes.net/2/docs/index.html)
 * [HTML5 Bones](http://html5bones.com/)
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
+* [Pears](http://pea.rs/)
 
 ##### HTML polyfill:
 

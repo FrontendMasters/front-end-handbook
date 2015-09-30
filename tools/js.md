@@ -4,13 +4,9 @@
 
 * []()
 
-##### Application/Architecture libraries/frameworks:
+##### Transpiling (ESX to ESX):
 
-* []()
-
-##### Transpiling:
-
-* []()
+* [Babel](https://babeljs.io/)
 
 ##### References:
 
@@ -28,9 +24,12 @@
 
 * []()
 
-##### Online editors:
+##### Online Regular expression editors/visual tools:
 
-* []()
+* [regex101](https://regex101.com/)
+* [regexper](http://regexper.com/)
+* [debuggex](https://www.debuggex.com)
+* [RegExr](http://regexr.com/)
 
 ##### Authoring conventions:
 
