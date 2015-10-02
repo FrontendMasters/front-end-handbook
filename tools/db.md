@@ -4,7 +4,7 @@
 * [forerunner](http://forerunnerdb.com/)
 * [AlaSQL](http://alasql.org/)
 * [LokiJS](http://lokijs.org/#/)
-* [lovefield](https://google.github.io/lovefield
+* [lovefield](https://google.github.io/lovefield)
 * [Dexie.js](http://www.dexie.org/)
 * [localForage](http://mozilla.github.io/localForage/)
 * [pouchdb](http://pouchdb.com/)

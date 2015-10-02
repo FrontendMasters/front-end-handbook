@@ -72,8 +72,8 @@
 	* [Tasking (aka build) tools](tools/task.md)
     * [Deployment tools](tools/deploy.md) 
 	* [Site/app monitoring tools](tools/uptime.md)
-    * [JS error monitoring)](tools/error.md)
-    * [Performance reporting)](tools/perf.md)
+    * [JS error monitoring](tools/error.md)
+    * [Performance reporting](tools/perf.md)
 
 
 
