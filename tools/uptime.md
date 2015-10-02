@@ -1,0 +1,52 @@
+# Site/app monitoring tools
+
+* [pingdom](hhttps://www.pingdom.com/) [free to $]
+* [Uptime Robot](https://uptimerobot.com/)
+* [Uptrends](https://www.uptrends.com/) [$]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

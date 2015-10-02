@@ -4,8 +4,9 @@
 
 * [jQuery](http://jquery.com/)
 * [Zepto.js](http://zeptojs.com/)
+* [keypress](http://dmauro.github.io/Keypress/)
 
-##### Performance tools:
+##### DOM performance tools:
 
 * [DOMMonster](http://mir.aculo.us/dom-monster/)
 
@@ -16,6 +17,15 @@
 * [HTML Interfaces Browser Support](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [Events](https://html.spec.whatwg.org/#events-2)
 * [MDN Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+##### DOM polyfills/shims:
+
+* [dom-shims](https://github.com/necolas/dom-shims)
+
+##### Virtual DOM:
+
+* [jsdom](https://github.com/tmpvar/jsdom)
+* [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
 
 
 

@@ -1,6 +1,4 @@
-# JavaScript data storage tools
-
-##### front-end/client-side databases:
+# Front-end data storage tools
 
 * [YDN-DB](http://dev.yathit.com/ydn-db/index.html)
 * [forerunner](http://forerunnerdb.com/)

@@ -1,5 +1,11 @@
 # Browser Tools
 
+##### JS browser utilities:
+
+* [URI.js](http://medialize.github.io/URI.js/)
+* [platform.js](https://github.com/bestiejs/platform.js)
+* [history.js](https://github.com/browserstate/history.js)
+
 ##### General reference tools to determine if X browser supports X:
 
 * [caniuse.com](http://caniuse.com/)
@@ -11,6 +17,7 @@
 * [Platform status](https://dev.modern.ie/platform/status/)
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
+* [http://jscc.info/](http://jscc.info/)
 
 ##### Browser hacks:
 

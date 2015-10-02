@@ -1,6 +1,6 @@
 # General development tools
 
-##### development aiding tools
+##### development aiding tools:
 
 * [screensiz.es](http://screensiz.es/)
 * [placehold.it](http://placehold.it/)
