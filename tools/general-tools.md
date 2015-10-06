@@ -1,4 +1,4 @@
-# General development tools
+# General front-end development tools
 
 ##### Development tools:
 
@@ -7,6 +7,7 @@
 * [codeKit](http://incident57.com/codekit/)
 * [prepros](https://prepros.io/)
 * [Browsersync](http://www.browsersync.io/)
+* [ish. 2.0.](https://github.com/bradfrost/ish.)
 
 ##### Online code editors:
 

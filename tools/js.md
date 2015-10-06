@@ -26,12 +26,15 @@
 
 * [jshint](http://jshint.com/)
 * [eshint](http://eslint.org/)
+* [JSLint](http://www.jslint.com/)
+    - [jslinterrors.com](http://jslinterrors.com/)
 
 ##### Unit testing:
 
 * [Mocha](http://mochajs.org/)
 * [QUnit](http://qunitjs.com/)
 * [Jasmine](http://jasmine.github.io/)
+    - [Jest](http://facebook.github.io/jest/)
 
 ##### Testing assertions for unit testing:
 

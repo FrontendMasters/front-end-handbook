@@ -1,6 +1,6 @@
 # CSS Tools
 
-##### Desktop & mobile CSS libraries/frameworks:
+##### Desktop & mobile CSS frameworks:
 
 * [Semantic UI](http://semantic-ui.com/)
 * [Foundation](http://foundation.zurb.com/)
@@ -12,7 +12,7 @@
 * [Material Design Lite (MDL)](http://www.getmdl.io/index.html)
 * [Base](http://getbase.org/)
 
-##### Mobile only CSS libraries/frameworks:
+##### Mobile only CSS frameworks:
 
 * [Ratchet](http://goratchet.com/)
 

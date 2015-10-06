@@ -1,6 +1,6 @@
-# Front-end application/architecture tools
+# App (desktop, mobile, tablet etc..) tools
 
-##### Front-end MV* libraries/frameworks:
+##### Front-end app frameworks:
 
 * [AngularJS](https://angularjs.org/) & [Batarang](https://github.com/angular/angularjs-batarang)
 * [Backbone](http://backbonejs.org/) & [Marionette](http://marionettejs.com/)
@@ -10,12 +10,13 @@
 * [Ampersand.js](http://ampersandjs.com/)
 * [Knockout](http://knockoutjs.com/)
 * [Aurelia](http://aurelia.io/)
-* [Polymer](https://www.polymer-project.org/1.0/)
+* [Polymer](https://www.polymer-project.org/1.0/) & [Iron Elements](https://elements.polymer-project.org/browse?package=iron-elements) & [Paper Elements](https://elements.polymer-project.org/browse?package=paper-elements)
 
-##### Full-stack front-end application frameworks:
+##### Full-stack JS app platforms:
 
 * [Meteor](https://www.meteor.com/) 
 * [Hood.ie](http://hood.ie/intro/)
+* [MEAN](http://mean.io/)
 
 ##### Mobile web app/site frameworks:
 
@@ -24,17 +25,18 @@
 * [Mobile Angular UI](http://mobileangularui.com/)
 * [Framework7](http://www.idangero.us/framework7)
 
-##### Hybrid mobile app frameworks ([Cordova](https://cordova.apache.org/) built in):
+##### Hybrid mobile app frameworks (with [Cordova](https://cordova.apache.org/) built in):
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
 ##### Cordova mobile development environments/platforms/tools:
 
-* [AppBuilder](http://www.telerik.com/appbuilder)
-* [Monaca](https://monaca.io/)
-* [Adobe PhoneGap](http://phonegap.com/)
-* [kony](http://www.kony.com/products/mobility-platform)
+* [AppBuilder](http://www.telerik.com/appbuilder) [$]
+* [Monaca](https://monaca.io/) [$] 
+* [Adobe PhoneGap](http://phonegap.com/) [$] 
+* [kony](http://www.kony.com/products/mobility-platform) [$]
+* [ionic hub](http://ionic.io/) [free to $]
 * [Taco](http://taco.tools/)
 
 ##### Desktop app frameworks (using browser engine):

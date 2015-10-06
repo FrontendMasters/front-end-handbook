@@ -15,6 +15,7 @@
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) [read]
 * [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/) [read][$]
 * [Foundations of UX: Accessibility](http://www.lynda.com/Web-Accessibility-tutorials/Foundations-UX-Accessibility/156957-2.html)[watch][$] 
+* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) [watch]
 
 ##### Standards/specifications:
 

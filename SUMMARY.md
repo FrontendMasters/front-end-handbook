@@ -47,7 +47,7 @@
     * [Front-end devs to learn from](learning/learn-from.md)
     * [Newsletters, news, & podcasts](learning/news-podcasts.md)
 * [Part III: Front-end dev tools](tools.md)
-    * [General dev tools](tools/general-tools.md)
+    * [General front-end dev tools](tools/general-tools.md)
     * [SE0 tools](tools/seo.md)
     * [HTTP/network tools](tools/http.md)
     * [Code editing tools](tools/code-editor.md)

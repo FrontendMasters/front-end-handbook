@@ -14,7 +14,7 @@ With all of that said, I believe that the path to a career as a front-end develo
 
 If you were to set out today to become a front-end developer I would loosely strive to follow the process outline below which assumes you are your own best teacher. Where you actually stop in the process is what will separate a front-end HTML/CSS developer from an expert level front-end application developer.
 
-1. Learn, roughly, how the web works. Make sure you know the "what" and "where" of Domains, DNS, URL's, HTTP, networks, browsers, servers/hosting, databases, JSON, data API's, HTML, CSS, DOM, and JavaScript. The goal is to make sure you loosely know how it all works together and exactly what each part is doing. Focus on the high level outlines for front-end architectures. Start with simple web pages and briefly study [native web applications](https://blog.andyet.com/2015/01/22/native-web-apps).
+1. Learn, roughly, how the web works. Make sure you know the "what" and "where" of Domains, DNS, URL's, HTTP, networks, browsers, servers/hosting, databases, JSON, data API's, HTML, CSS, DOM, and JavaScript. The goal is to make sure you loosely know how it all works together and exactly what each part is doing. Focus on the high level outlines for front-end architectures. Start with simple web pages and briefly study [native web applications (aka SPA's)](https://blog.andyet.com/2015/01/22/native-web-apps).
 2. Learn HTML, CSS, Accessibility, and SEO.
 3. Learn the fundamentals of UI design patterns, interaction design, user experience design, and usability.
 4. Learn the fundamentals of programming
@@ -49,6 +49,7 @@ I should mentioned that as of late a lot of non-accredited front-end code school
 * [BEING A WEB DEVELOPER](http://www.yellowshoe.com.au/standards) [read]
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) [read]
 * [Web Fundamentals](https://developers.google.com/web/fundamentals) [read]
+* [Front-end Curriculum](https://gist.github.com/stevekinney/03027e71aac341af14a2) [read]
 
 
 
