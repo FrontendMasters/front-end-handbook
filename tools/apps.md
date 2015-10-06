@@ -1,6 +1,6 @@
 # Front-end application/architecture tools
 
-##### front-end MV* libraries/frameworks:
+##### Front-end MV* libraries/frameworks:
 
 * [AngularJS](https://angularjs.org/) & [Batarang](https://github.com/angular/angularjs-batarang)
 * [Backbone](http://backbonejs.org/) & [Marionette](http://marionettejs.com/)
@@ -12,10 +12,40 @@
 * [Aurelia](http://aurelia.io/)
 * [Polymer](https://www.polymer-project.org/1.0/)
 
-##### Full-stack application libraries/frameworks:
+##### Full-stack front-end application frameworks:
 
-* [Meteor](https://www.meteor.com/)
+* [Meteor](https://www.meteor.com/) 
 * [Hood.ie](http://hood.ie/intro/)
+
+##### Mobile web app/site frameworks:
+
+* [Ratchet](http://goratchet.com/getting-started/)
+* [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)
+* [Mobile Angular UI](http://mobileangularui.com/)
+* [Framework7](http://www.idangero.us/framework7)
+
+##### Hybrid mobile app frameworks ([Cordova](https://cordova.apache.org/) built in):
+
+* [ionic](http://ionicframework.com/)
+* [onsen.io](http://onsen.io/)
+
+##### Cordova mobile development environments/platforms/tools:
+
+* [AppBuilder](http://www.telerik.com/appbuilder)
+* [Monaca](https://monaca.io/)
+* [Adobe PhoneGap](http://phonegap.com/)
+* [kony](http://www.kony.com/products/mobility-platform)
+* [Taco](http://taco.tools/)
+
+##### Desktop app frameworks (using browser engine):
+
+* [NW.js](https://github.com/nwjs/nw.js) (typically used for desktop apps)
+* [Electron](http://electron.atom.io/) (typically used for desktop apps)
+
+##### Native app frameworks (using native runtime, no browser engine used):
+
+* [NativeScript](https://www.nativescript.org/)
+* [React Native](https://facebook.github.io/react-native/)
 
 ##### References:
 

@@ -1,11 +1,11 @@
 # Front-end on a team
 
-A front-end developer is typically only one player on a team that designs and develops web sites, web applications, or native applications running on web technologies. 
+A front-end developer is typically only one player on a team that designs and develops web sites, web applications, or native applications running on web technologies. (Note: A developer who builds everything was once called a "web master" but as of late these rare and mythical developers are called "full-stack developers").
 
 A bare bones team for building professional sites or software on the web will contain minimally the following roles.
 
-* Visual Designer (i.e. fonts, colors, spacing, emotion, concept visuals)
-* UI/Interaction Designer/Information Architect (i.e. wireframes, specifying all user interactions and UI functionality, structuring Information)
+* Visual Designer (i.e. fonts, colors, spacing, emotion, visuals concepts & themes)
+* UI/Interaction Designer/Information Architect (i.e. wireframes, specifying all user interactions and UI functionality, structuring information)
 * Front-end Developer (i.e. writes code that runs in client/on device)
 * Back-end Developer (i.e. writes code that runs on server)
 
@@ -16,11 +16,12 @@ It is assumed that the team is being directed by a project lead of some sorts (i
 A larger team might include the following roles not shown above:
 
 * Visual Designers
-* UI/Interaction Designer/Information Architect
+* Interface Design/Interaction Designer/Information Design
 * **SEO strategist**
 * Front-end Developer
 * **DevOps Engineers**
 * Back-end Developer
+* **API Developer**
 * **Database Administrator**
 * **QA Engineer / Testers**
 

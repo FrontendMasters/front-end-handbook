@@ -17,12 +17,12 @@
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) [read]
 * [BEING A WEB DEVELOPER](http://www.yellowshoe.com.au/standards) [read]
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) [read]
-* [Web Fundamentals](https://developers.google.com/web/fundamentals)
+* [Web Fundamentals](https://developers.google.com/web/fundamentals) [read]
 
-##### General front-end newsletters, news, &amp; podcasts:
+##### General front-end newsletters, news outlets, &amp; podcasts:
 
 * [shoptalkshow.com](http://shoptalkshow.com/)
-* [frontendfront.com/](http://frontendfront.com/)
+* [frontendfront.com](http://frontendfront.com/)
 * [webtoolsweekly.com](http://webtoolsweekly.com/)
 * [O'Reilly Web Platform Radar](http://radar.oreilly.com/web-platform)
 * [The Wdb Platform Podcast](http://thewebplatform.libsyn.com/)

@@ -17,7 +17,7 @@
 * [Platform status](https://dev.modern.ie/platform/status/)
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
-* [http://jscc.info/](http://jscc.info/)
+* [jscc.info](http://jscc.info/)
 
 ##### Browser hacks:
 

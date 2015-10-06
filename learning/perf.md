@@ -11,6 +11,8 @@
 * [JavaScript Performance Rocks](http://javascriptrocks.com/)
 * [Performance Calendar](http://calendar.perfplanet.com/2014/) [read]
 * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) [read]
+* [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) [watch]
+* [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) [watch]
 
 
 

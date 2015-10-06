@@ -6,13 +6,13 @@ Below is a list and description of various front-end job titles. The common or m
 
 **Front-end Developer/Engineer** (aka Front-end Web Developer/Engineer or Client-side Developer/Engineer or Front-end Software Developer/Engineer)
 
-The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript.
+The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
 
 ***
 
 **CSS/HTML Developer**
 
-The front-end job title that describes a developer who is skilled at HTML and CSS.
+The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and Application know how.
 
 ***
 
@@ -22,9 +22,15 @@ When the word "JavaScript Application" is included in the job title this will de
 
 ***
 
-**Web/Front-end user Interface (aka UI) Developer**
+**Front-end Web Designer**
 
-When the word "Interface" or "UI" is included in the job title this will denote that the developer should posses design, interaction design, and wireframing skills.
+When the word "Designer" is included in the job title this will denote that the designer should posses front-end skills but professional proficient at design as well.
+
+***
+
+**Web/Front-end User Interface (aka UI) Developer/Engineer**
+
+When the word "Interface" or "UI" is included in the job title this will denote that the developer should posses design, interaction design, and wireframing skills in addition to general front-end skills
 
 ***
 
@@ -36,13 +42,13 @@ When the word "Mobile" or "Tablet" is included in the job title this will denote
 
 **Front-end SEO Expert**
 
-When the word "SEO" is included in the job title this will denote that the developer has extensive experience crafting front-end technologies towards an SEP strategy they either are given or develop.
+When the word "SEO" is included in the job title this will denote that the developer has extensive experience crafting front-end technologies towards an SEO strategy they are either given or construct.
 
 ***
 
 **Front-end Accessibility Expert**
 
-When the word "Acessibility" is included in the job title this will denote that the developer has extensive experience crafting front-end technologies that support Accessibility requirements and standards.
+When the word "Acessibility" is included in the job title this will denote that the developer has extensive experience crafting front-end technologies that support accessibility requirements and standards.
 
 ***
 
@@ -56,5 +62,7 @@ When the word "DevOps" is included in the job title this will denote that the de
 
 When the word "Testing" or "QA" is included in the job title this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, A/B testing.
 
+***
 
+Note that if you come across the terms "Full Stack" or the generic "Web Developer" these terms might be used by a potential employer to describe a role that is responsible for design aspects, front-end development, and back-end development (i.e. the full stack).
 

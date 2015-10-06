@@ -4,6 +4,6 @@
 
 * [WHAT IS THE INTERNET? or, "You Say Tomato, I Say TCP/IP"](http://www.20thingsilearned.com/en-US/what-is-the-internet/1) [read]
 * [How does the Internet work](http://www.w3.org/wiki/How_does_the_Internet_work) [read]
-* [How Does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) [read]
+* [How does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) [read]
 * [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc) [watch]
 * [How The Web Works](https://www.eventedmind.com/classes/how-the-web-works-7f40254c) [watch][$]

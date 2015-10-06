@@ -29,6 +29,11 @@
 
 <cite>image source: <a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/</a></cite>
 
+##### Optimizing for browsers:
+
+* [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) [watch]
+* [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) [watch]
+
 ##### Browser security
 
 * [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) [read]

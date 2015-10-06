@@ -20,6 +20,9 @@ A site or application can run on a wide range of computers, laptops, tablets and
 * [Responsive Web Design](https://frontendmasters.com/courses/responsive-web-design/) [watch][$]
 * [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) [watch][$]
 * [Designing Multi-Device Experiences: An Ecosystem Approach to User Experiences across Devices](http://www.amazon.com/Designing-Multi-Device-Experiences-Ecosystem-Approach/dp/1449340385/ref=pd_sim_14_8) [read][$]
+* [Responsive Web Design Fundamentals](https://www.udacity.com/courses/web-development) [watch]
+* [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) [watch]
+* [Mobile Web Development](https://www.udacity.com/course/mobile-web-development--cs256) [watch]
 
 
 
