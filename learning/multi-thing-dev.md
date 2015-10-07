@@ -4,7 +4,7 @@
 
 <cite>image source: <a href="http://bradfrost.com/blog/post/this-is-the-web/">http://bradfrost.com/blog/post/this-is-the-web/</a></cite>
 
-A site or application can run on a wide range of computers, laptops, tablets and phones as well as a handful of other things (watches, thermostats, fridges etc...). How you determine what things you'll support and how you will develop to support those things is called a multi-thing development strategy. Below I list the most common multi-thing development strategies.
+A site or application can run on a wide range of computers, laptops, tablets and phones, as well as a handful of other things (watches, thermostats, fridges etc...). How you determine what things you'll support and how you will develop to support those things is called a multi-thing development strategy. Below, I list the most common multi-thing development strategies.
 
 * Build a [responsive (RWD)](https://en.wikipedia.org/wiki/Responsive_web_design) web site/app for all things.
 * Build a [RESS (responsive web design with server-side components)](http://www.lukew.com/ff/entry.asp?1392) web site/app for all things.
