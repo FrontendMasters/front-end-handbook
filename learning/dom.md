@@ -6,7 +6,7 @@
  
 > **jQuery** - jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML. jQuery is the most popular JavaScript library in use today, with installation on 65% of the top 10 million highest-trafficked sites on the Web. jQuery is free, open-source software licensed under the MIT License. - wikipedia.org
 
-The ideal path, but certainly the most difficult would be to first learn JavaScript, then the DOM, then jQuery. However, do what makes sense to your brain. Most front-end developers learn about JavaScript and the DOM by way of first learning jQuery. Whatever path you take just make sure JavaScript, the DOM, or jQuery don't become a black box.
+The ideal path, but certainly the most difficult, would be to first learn JavaScript, then the DOM, then jQuery. However, do what makes sense to your brain. Most front-end developers learn about JavaScript and then DOM by way of first learning jQuery. Whatever path you take, just make sure JavaScript, then DOM, or jQuery don't become a black box.
 
 ##### General Learning:
 
