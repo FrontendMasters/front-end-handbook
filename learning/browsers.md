@@ -46,15 +46,15 @@
 
 ##### Developing for browsers
 
-In days past a front-end developer spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today unless you have to write code for older browsers (i.e. <IE8). This still remains an issue today, just not one that demands so much of the front-end developers time and brain cycles. The fact of the matter is modern abstractions (e.g. jQuery, SASS) have done away with a lot of browser inconsistency issues.
+In the past, a front-end developer spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today, unless you have to write code for older browsers (i.e. <IE8). This still remains an issue today, just not one that demands so much of the front-end developers time and brain cycles. The fact of the matter is modern abstractions (e.g. jQuery, SASS) have done away with a lot of browser inconsistency issues.
 
 ##### Evergreen browsers
 
-The latest versions of browsers are consider evergreen browsers. That is, they automatically update themselves silently without prompting the user. This move towards self updating browsers has been in reaction to the slow process of eliminating older browsers that are very complicated to develop for given their deviations from the commonalities between browsers.
+The latest versions of browsers are considered evergreen browsers. That is, they automatically update themselves silently without prompting the user. This move towards self updating browsers has been in reaction to the slow process of eliminating older browsers that are very complicated to develop for given their deviations from the commonalities between browsers.
 
 ##### Picking a browser
 
-As of today most front-end developers use Chrome and the tools available to a developer, "Chrome Dev Tools". However, all of the browsers offer flavor of developer tools. Picking one to use for development is a subjective matter. The more important issue is knowing which browsers you have to support and testing in each as you develop. Select which ever browser makes sense to your brain and gets the job done. I suggest using Chrome.
+As of today, most front-end developers use Chrome and the tools available to a developer, "Chrome Dev Tools". However, all of the browsers offer a flavor of developer tools. Picking one to use for development is a subjective matter. The more important issue is knowing which browsers you have to support and testing in each as you develop. Select whichever browser makes sense to your brain and gets the job done. I suggest using Chrome.
 
 ##### Evolution of browsers & technologies (i.e. api's)
 
