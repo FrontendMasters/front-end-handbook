@@ -6,9 +6,9 @@
 >
 > Web development tools allow developers to work with a variety of web technologies, including HTML, CSS, the DOM, JavaScript, and other components that are handled by the web browser. Due to the increasing demand from web browsers to do more popular web browsers have included more features geared for developers. - wikipedia
 
-While most browsers come equipped with web developer tools the [Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) are currently the most talked about and used tools available.
+While most browsers come equipped with web developer tools, the [Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) are currently the most talked about and widely used tools available.
 
-I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/) simply because the best resources for learning web developer tools revolves around Chrome DevTools. 
+I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/), simply because the best resources for learning web developer tools revolves around Chrome DevTools. 
 
 ##### Learn Chrome Web Developer Tools
 
