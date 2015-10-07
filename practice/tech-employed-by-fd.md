@@ -16,7 +16,7 @@ The following web technologies are employed by front-end developers:
 * JavaScript Object Notation (aka JSON)
 * Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 
-These technologies are define below with the relevant documentation and specifications. For a comprehensive list of all web related specifications have a look at [platform.html5.org](https://platform.html5.org/).
+These technologies are defined below with the relevant documentation and specifications. For a comprehensive list of all web related specifications have a look at [platform.html5.org](https://platform.html5.org/).
 
 ##### Hyper Text Markup Language (aka HTML)
 
