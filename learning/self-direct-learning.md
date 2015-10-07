@@ -18,7 +18,7 @@ Below are a few video learning outlets (tech focused) I generally recommend pull
 * [laracasts](https://laracasts.com/)
 * [eventedmind.com](https://www.eventedmind.com/)
 * [egghead.io](https://egghead.io/)
-* [codecademy.com](codecademy.com)
+* [codecademy.com](https://codecademy.com)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [Tagtree](http://tagtree.tv/library)
 * [Udacity](https://www.udacity.com/courses/web-development) 
