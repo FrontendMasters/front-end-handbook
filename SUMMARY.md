@@ -48,7 +48,7 @@
     * [Newsletters, news, & podcasts](learning/news-podcasts.md)
 * [Part III: Front-end dev tools](tools.md)
     * [General front-end dev tools](tools/general-tools.md)
-    * [SE0 tools](tools/seo.md)
+    * [SEO tools](tools/seo.md)
     * [HTTP/network tools](tools/http.md)
     * [Code editing tools](tools/code-editor.md)
     * [Browser tools](tools/browser.md)
