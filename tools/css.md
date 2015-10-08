@@ -43,6 +43,7 @@
 ##### Linting/hinting:
 
 * [CSS Lint](http://csslint.net/)
+* [stylelint](http://stylelint.io/)
 
 ##### Code formatter/beautifier:
 

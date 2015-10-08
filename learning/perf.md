@@ -13,6 +13,7 @@
 * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) [read]
 * [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) [watch]
 * [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) [watch]
+* [Using WebPageTest](http://www.amazon.com/Using-WebPageTest-Rick-Viscomi/dp/1491902590/ref=sr_1_1) [read][$]
 
 
 
