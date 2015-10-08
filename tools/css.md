@@ -54,6 +54,7 @@
 
 * [csso](http://css.github.io/csso/)
 * [clear-css](https://github.com/jakubpawlowicz/clean-css)
+* [cssnano](http://cssnano.co/)
 
 ##### Online creation/generation/experimentation tools:
 
