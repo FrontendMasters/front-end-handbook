@@ -8,6 +8,13 @@ The BOM and the DOM are not the only browser API's that are made available on th
 
 You should be aware of and learn, where appropriate, web/browser API's. A good tool to use to familiarize oneself with all of these API's would be to investigate the [HTML5test.com results for the 5 most current browsers](https://html5test.com/compare/browser/chrome-44/firefox-40/ie-11/safari-9.0.html).
 
+##### Learn:
+
+* [DIVE INTO HTML5](http://diveintohtml5.info/) [read]
+* [Pro HTML5 Programming](http://apress.jensimmons.com/v5/pro-html5-programming/info.html) [read]
+* [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html) [read]
+* [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) [read]
+
 Additionally, MDN has a great deal of information about web/browser APIs.
 
 * [MDN Web API reference](https://developer.mozilla.org/en-US/docs/Web/Reference/API)

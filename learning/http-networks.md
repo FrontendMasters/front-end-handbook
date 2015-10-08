@@ -12,7 +12,7 @@
 * [HTTP: The Protocol Every Web Developer Must Know - Part 2](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) [read]
 * [HTTP Fundamentals](http://www.pluralsight.com/courses/xhttp-fund) [watch][$]
 * [HTTP Succinctly](http://code.tutsplus.com/series/http-succinctly--net-33683) [read]
-* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763) [read]
+* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://chimera.labs.oreilly.com/books/1230000000545/index.html) [read]
 
 ##### CORS
 

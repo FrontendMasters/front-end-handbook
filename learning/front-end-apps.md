@@ -10,6 +10,9 @@
 * [Web UI Architecture](https://frontendmasters.com/courses/web-ui-architecture/) [watch][$]
 * [Field Guide to Web Applications](http://www.html5rocks.com/webappfieldguide/toc/index/) [read]
 * [UI Architecture](http://www.pluralsight.com/courses/web-ui-architecture) [watch][$]
+* [Terrific](http://terrifically.org/) [read]
+* [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw) [watch]
+* [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) [read]
 
 
 

@@ -10,6 +10,7 @@
 
 * [json.com](https://www.json.com/) [read]
 * [What is JSON](https://mijingo.com/lessons/what-is-json/) [watch]
+* [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](http://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/ref=pd_sim_sbs_14_1) [read][$]
 
 ##### References/docs:
 

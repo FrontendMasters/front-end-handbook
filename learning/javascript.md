@@ -35,6 +35,7 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
 * [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
+* [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
 * [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
 * [JavaScript Regular Expression Enlightenment](JavaScript Regular Expression Enlightenment) [read]
 * [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
