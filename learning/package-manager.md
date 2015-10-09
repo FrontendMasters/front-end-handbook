@@ -9,6 +9,7 @@
 * [Up and Running with NPM, the Node Package Manager](http://www.lynda.com/Developer-Web-Development-tutorials/Up-Running-NPM-Node-Package-Manager/409274-2.html)[watch][$]
 * [npm Basics](http://teamtreehouse.com/library/npm-basics) [watch][$]
 * [The npm Book](https://leanpub.com/npm)
+* [The Mystical & Magical SemVer Ranges Used By npm & Bower](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/)
 
 ##### References/docs:
 
