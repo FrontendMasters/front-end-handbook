@@ -5,6 +5,8 @@
 * [jQuery](http://jquery.com/)
 * [Zepto.js](http://zeptojs.com/)
 * [keypress](http://dmauro.github.io/Keypress/)
+* [clipboard.js](http://zenorocha.github.io/clipboard.js/)
+* []
 
 ##### DOM performance tools:
 
@@ -21,6 +23,7 @@
 ##### DOM polyfills/shims:
 
 * [dom-shims](https://github.com/necolas/dom-shims)
+* [Pointer Events Polyfill: a unified event system for the web platform](https://github.com/jquery/PEP)
 
 ##### Virtual DOM:
 

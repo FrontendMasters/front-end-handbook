@@ -48,6 +48,10 @@
 * [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
 * [HTML code guide](http://codeguide.co/#html)
 
+##### Workflow:
+
+* [Emmet](http://emmet.io/)
+
 ##### Trending HTML repositories on Github this month:
 
 [https://github.com/trending?l=html&since=monthly](https://github.com/trending?l=html&since=monthly)
