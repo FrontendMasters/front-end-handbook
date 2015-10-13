@@ -26,7 +26,7 @@
 
 * [json-server](https://github.com/typicode/json-server)
 
-##### JSON specifications/schemas
+##### JSON specifications/schemas:
 
 * [json-schema.org](http://json-schema.org/) & [jsonschema.net](http://jsonschema.net/)
 * [{json:api}](http://jsonapi.org/)

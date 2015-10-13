@@ -4,7 +4,6 @@
 * [offline.js](http://github.hubspot.com/offline/docs/welcome/)
 * [pouchdb](http://pouchdb.com/)
 * [hood.ie](http://hood.ie/)
-* 
 
 
 
