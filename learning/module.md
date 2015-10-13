@@ -4,8 +4,8 @@
 
 * [Creating JavaScript Modules with Browserify](http://www.pluralsight.com/courses/creating-javascript-modules-browserify) [watch][$]
 * [Webpack Fundamentals](http://www.pluralsight.com/courses/webpack-fundamentals) [watch][$]
-* [browserify-handbook](https://github.com/substack/browserify-handbook) [read
-* [Choose ES6 modules Today!](http://developer.telerik.com/featured/choose-es6-modules-today/)
+* [browserify-handbook](https://github.com/substack/browserify-handbook) [read]
+* [Choose ES6 modules Today!](http://developer.telerik.com/featured/choose-es6-modules-today/) [read]
 
 ##### References/docs:
 

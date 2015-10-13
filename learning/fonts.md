@@ -8,7 +8,7 @@
 
 * [Typography for the Web](http://www.pluralsight.com/courses/typography-for-web-1790) [watch][$]
 * [Learn-web-fonts](http://zoerooney.com/learn-web-fonts/) [read]
-* [Quick guide to webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/)
+* [Quick guide to webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/) [read]
 * [Responsive Typography](https://frontendmasters.com/courses/responsive-typography/) [watch][$]
 * [Beautiful Web Type A showcase of the best typefaces from the Google web fonts directory.](http://hellohappy.org/beautiful-web-type/) [read]
 

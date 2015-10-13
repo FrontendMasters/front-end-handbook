@@ -27,7 +27,7 @@
 
 * [Opera Dragonfly](http://www.opera.com/dragonfly/)
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
-* [Firefox](https://developer.mozilla.org/en-US/docs/Tools)
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 * [Chrome Developer Tools (aka DevTools)](https://developers.google.com/web/tools/?hl=en)
     - [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
     - [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)

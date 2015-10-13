@@ -4,7 +4,7 @@
 
 ![](../images/host.jpg "http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg")
 
-<cite>image source: <a href="http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg">http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg</a></cite>ho
+<cite>image source: <a href="http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg">http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg</a></cite>
 
 
 ##### General Learning:
