@@ -24,3 +24,4 @@
 
 * [WebSocket: Lightweight Client-Server Communications](http://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/ref=sr_1_1) [read][$]
 * [The WebSocket Protocol](https://tools.ietf.org/html/rfc6455) [read]
+* [Connect the Web With WebSockets](https://code.tutsplus.com/courses/connect-the-web-with-websockets) [watch]

@@ -32,6 +32,7 @@
         * [Learn JSON](learning/json.md)
         * [Learn JS templates](learning/json.md)
         * [Learn front-end app architecture](learning/front-end-apps.md)
+        * [Learn Interface/API design](learning/api.md)
     	* [Learn web dev tools](learning/browser-dev-tools.md)
     	* [Learn command line](learning/cli.md)
         * [Learn node.js](learning/node.md)

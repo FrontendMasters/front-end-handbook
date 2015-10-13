@@ -6,7 +6,7 @@
 * [Zepto.js](http://zeptojs.com/)
 * [keypress](http://dmauro.github.io/Keypress/)
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/)
-* []
+* [tether.io](http://tether.io/docs/welcome/)
 
 ##### DOM performance tools:
 

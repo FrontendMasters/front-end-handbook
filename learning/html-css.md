@@ -20,6 +20,9 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [HTML Document Flow](http://www.pluralsight.com/courses/html-document-flow-1837) [watch][$]
 * [Introduction to HTML5 and CSS3](https://frontendmasters.com/courses/introduction-html5-css3/) [watch][$]
 * [Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt) [read]
+* [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) [watch]
+* [Solid HTML Form Structure](https://webdesign.tutsplus.com/courses/solid-html-form-structure) [watch]
+* [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages) [watch]
 
 ##### Mastering:
 
