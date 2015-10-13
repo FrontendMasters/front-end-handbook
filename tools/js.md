@@ -29,6 +29,9 @@
 * [JSLint](http://www.jslint.com/)
     - [jslinterrors.com](http://jslinterrors.com/)
 
+##### Scaffolding:
+* [Yeoman](http://yeoman.io/)
+
 ##### Unit testing:
 
 * [Mocha](http://mochajs.org/)
@@ -46,7 +49,7 @@
 
 * [sinon.js](http://sinonjs.org/)
 
-##### Code style linter :
+##### Code style linter:
 
 * [JSCS](http://jscs.info/)
 
