@@ -10,6 +10,7 @@
 * [Materialize](http://materializecss.com/)
 * [Material ui](http://material-ui.com/)
 * [Polymer Paper Elements](https://elements.polymer-project.org/browse?package=paper-elements)
+* [photonkit](http://photonkit.com/)
 
 ##### Mobile focused:
 
@@ -17,6 +18,7 @@
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)
 * [Mobile Angular UI](http://mobileangularui.com/)
 * [Framework7](http://www.idangero.us/framework7)
+
 
 
 
