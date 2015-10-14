@@ -4,6 +4,7 @@
 
 * [prismic.io](https://prismic.io/) [free to $]
 * [contentful](https://www.contentful.com/) [$]
+* [Cosmic JS](https://cosmicjs.com/) [free to $]
 
 ##### Hosted CMS tools:
 

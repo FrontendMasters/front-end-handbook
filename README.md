@@ -28,7 +28,7 @@ Part three briefly explains and identifies tools of the trade.
 
 **read online at**: 
 
-* [http://frontendmasters.gitbooks.io/front-end-handbook/content/](http://frontendmasters.gitbooks.io/front-end-handbook/content/)
+* [http://www.frontendhandbook.com/](http://www.frontendhandbook.com/)
  
 **download a .pdf, .epub, or .mobi file from**: 
 

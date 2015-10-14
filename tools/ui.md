@@ -9,6 +9,7 @@
 * [Bootstrap](http://getbootstrap.com/components/)
 * [Materialize](http://materializecss.com/)
 * [Material ui](http://material-ui.com/)
+* [Polymer Paper Elements](https://elements.polymer-project.org/browse?package=paper-elements)
 
 ##### Mobile focused:
 
