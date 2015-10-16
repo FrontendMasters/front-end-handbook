@@ -1,4 +1,4 @@
-# Project/code hosting tools
+# Project management & code hosting tools
 
 * [Github](https://github.com/) [free to $]
 * [Codebase](https://www.codebasehq.com/) [$]

@@ -59,6 +59,7 @@
 * [Ember starter-kit](https://github.com/emberjs/starter-kit)
 * [NG6-starter](https://github.com/angular-class/NG6-starter)
 * [Angular 2 Webpack Starter](http://angularclass.com/angular2-webpack-starter/)
+* [hjs-webpack](https://github.com/henrikjoreteg/hjs-webpack#developing-on-multiple-devices-at-once)
 
 
 

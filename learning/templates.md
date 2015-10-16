@@ -6,3 +6,4 @@ Note that JavaScript 2015 (aka ES6) has a native templating mechanism called ["T
 
 * [Instant Handlebars.js](http://www.amazon.com/Instant-Handlebars-js-Gabriel-Manricks/dp/1783282657/ref=sr_1_1) [read][$]
 * [Learn Handlebars in 10 Minutes or Less](http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/) [read]
+* [JavaScript Templating with Handlebars](http://www.pluralsight.com/courses/handlebars-javascript-templating) [watch][$]
