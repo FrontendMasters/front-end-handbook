@@ -12,6 +12,7 @@
 
 * [UserApp](https://www.userapp.io/)
 * [hull](http://www.hull.io/)
+* [auth0](https://auth0.com)
 
 
 

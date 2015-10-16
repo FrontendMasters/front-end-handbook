@@ -72,6 +72,7 @@
     * [Module/package repo. tools](tools/repo.md)
     * [Web/cloud/static hosting tools](tools/hosting.md)
     * [Project management & code hosting](tools/project-hosting.md)
+    * [Collaboration & communication tools](tools/comm.md)
     * [CMS hosted/API tools](tools/cms.md)
     * [BAAS (for front-end devs) tools](tools/baas.md)
     * [Offline tools](tools/offline.md)
