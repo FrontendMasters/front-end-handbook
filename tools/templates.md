@@ -1,4 +1,4 @@
-# Tempmlating tools
+# Templating tools
 
 ##### Just Templating:
 
