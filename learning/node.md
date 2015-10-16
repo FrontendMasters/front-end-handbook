@@ -13,6 +13,7 @@
 * [The Node Beginner Book](https://leanpub.com/nodebeginner) [read][$]
 * [Introduction to Node.js](http://www.pluralsight.com/courses/node-intro) [watch][$]
 * [Node.js in Practice](https://www.manning.com/books/node-js-in-practice#downloads) [read][$]
+* [Nodeschool.io](http://nodeschool.io/) [code]
 
 
 
