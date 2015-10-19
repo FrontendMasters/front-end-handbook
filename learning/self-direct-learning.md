@@ -8,7 +8,7 @@ The author believes that anyone with the right determination and dedication can 
 
 Below are a few video learning outlets (tech focused) I generally recommend pulling content from:
 
-* [Front-End Masters](https://frontendmasters.com/)
+* [Frontend Masters](https://frontendmasters.com/)
 * [pluralsight.com](http://www.pluralsight.com/) [careful, quality varies]
 * [tutsplus.com](https://tutsplus.com/courses)
 * [lynda.com](http://www.lynda.com/) [careful, quality varies]
