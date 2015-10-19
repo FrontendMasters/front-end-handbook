@@ -4,10 +4,10 @@
 
 ##### The [most commonly used browsers](http://www.sitepoint.com/browser-trends-april-2015-statcounter-vs-netmarketshare/) (on any device) are:
 
-* [Chrome](http://www.google.com/chrome/) (engine: [Blink](https://en.wikipedia.org/wiki/Blink_(layout_engine) + [V8](https://en.wikipedia.org/wiki/V8_(JavaScript_engine))
+* [Chrome](http://www.google.com/chrome/) (engine: [Blink](https://en.wikipedia.org/wiki/Blink_(layout_engine)) + [V8](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)))
 * [Safari](https://www.apple.com/safari/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + SquirrelFish)
-* [FireFox](https://www.mozilla.org/en-US/firefox/new/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_(software) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_(software))
-* [Internet Explorer](Internet Explorer) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_(layout_engine) + [Chakra](https://en.wikipedia.org/wiki/Chakra_(JScript_engine))
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_(software)))
+* [Internet Explorer](Internet Explorer) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_(layout_engine)) + [Chakra](https://en.wikipedia.org/wiki/Chakra_(JScript_engine)))
 
 ![](../images/statcounter.png "http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar")
 
@@ -16,8 +16,8 @@
 ##### The most commonly used headless browser are:
 
 * [PhantomJS](http://phantomjs.org/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + SquirrelFish)
-* [slimerjs](http://slimerjs.org/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_(software) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_(software))
-* [TrifleJS](http://triflejs.org/) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_(layout_engine) + [Chakra](https://en.wikipedia.org/wiki/Chakra_(JScript_engine))
+* [slimerjs](http://slimerjs.org/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_(software)))
+* [TrifleJS](http://triflejs.org/) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_(layout_engine)) + [Chakra](https://en.wikipedia.org/wiki/Chakra_(JScript_engine)))
 
 ##### How browsers work
 
@@ -39,7 +39,7 @@
 * [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) [read]
 * [HTML5 Security Cheatsheet](https://html5sec.org/#javascript) [read]
 * [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) [watch]
-* [Security for Web Developers: Using JavaScript, HTML, and CSS](http://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/ref=sr_1_11) [read][$]
+* [Security for Web Developers: Using JavaScript, HTML, and CSS](http://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/) [read][$]
 * [The Tangled Web: A Guide to Securing Modern Web Applications](http://lcamtuf.coredump.cx/tangled/) [read]($)
 
 ##### Comparing browsers
