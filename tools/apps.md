@@ -16,7 +16,7 @@
 
 * [Meteor](https://www.meteor.com/) 
 * [Hood.ie](http://hood.ie/intro/)
-* [MEAN](http://mean.io/)
+* [MEAN](http://meanjs.org/)
 
 ##### Mobile web app/site frameworks:
 

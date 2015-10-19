@@ -5,6 +5,7 @@
 * [URI.js](http://medialize.github.io/URI.js/)
 * [platform.js](https://github.com/bestiejs/platform.js)
 * [history.js](https://github.com/browserstate/history.js)
+* [html2canvas](https://github.com/niklasvh/html2canvas)
 
 ##### General reference tools to determine if X browser supports X:
 
