@@ -61,7 +61,7 @@
 * [Ultimate CSS Gradient Generator](Ultimate CSS Gradient Generator)
 * [Enjoy CSS](http://enjoycss.com/)
 * [CSS matic](http://www.cssmatic.com/)
-* [patternify.com](patternify.com)
+* [patternify.com](http://patternify.com)
 * [patternizer.com](http://patternizer.com/)
 * [CSS arrow please](http://cssarrowplease.com/)
 * [flexplorer](http://bennettfeely.com/flexplorer/)
