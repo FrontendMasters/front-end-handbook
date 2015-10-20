@@ -2,7 +2,7 @@
 
 ##### Uptime:
 
-* [pingdom](hhttps://www.pingdom.com/) [free to $]
+* [pingdom](https://www.pingdom.com/) [free to $]
 * [Uptime Robot](https://uptimerobot.com/)
 * [Uptrends](https://www.uptrends.com/) [$]
 
