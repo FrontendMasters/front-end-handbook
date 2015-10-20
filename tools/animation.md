@@ -6,6 +6,10 @@
 * [Dynamics.js](https://github.com/michaelvillar/dynamics.js)
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS)
 
+##### Polyfills/shims:
+
+* [web-animations-js](https://github.com/web-animations/web-animations-js)
+
 
 
 

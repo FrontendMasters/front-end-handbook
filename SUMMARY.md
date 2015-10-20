@@ -25,6 +25,7 @@
     	* [Learn HTML & CSS](learning/html-css.md)
         * [Learn SEO](learning/seo.md)
     	* [Learn JavaScript](learning/javascript.md)
+        * [Learn web animation](learning/animation.md) 
     	* [Learn DOM, BOM & jQuery](learning/dom.md)
         * [Learn web fonts](learning/fonts.md)
         * [Learn accessibility](learning/accessibility.md)
