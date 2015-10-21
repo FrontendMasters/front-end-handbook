@@ -52,7 +52,7 @@
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 * [console-polyfill](https://github.com/paulmillr/console-polyfill)
 
-##### Browser testing/automation:
+##### Browser hosted testing/automation:
 
 * [browserstack](https://www.browserstack.com) [$]
 * [browserling](https://www.browserling.com/) [$]
@@ -63,12 +63,14 @@
 ##### Headless browsers:
 
 * [PhantomJS](http://phantomjs.org/)
-    - [nightwatchjs](http://nightwatchjs.org/)
-    - [casperJS](http://casperjs.org/)
 * [slimerjs](http://slimerjs.org/)
-    - [casperJS](http://casperjs.org/)
 * [TrifleJS](http://triflejs.org/)
 
+##### Headless browser automation:
+
+* [nightwatchjs](http://nightwatchjs.org/)
+* [casperJS](http://casperjs.org/)
+* [Nightmare](https://github.com/segmentio/nightmare)
 
 
 
