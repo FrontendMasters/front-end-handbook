@@ -53,7 +53,7 @@ If you can't afford a directed education, a self directed education using screen
         <tr>
             <td>Thinkful</td>
             <td><a target="_blank" href="http://www.thinkful.com/courses/learn-web-development-online">Frontend Web Development</a></td>
-            <td>500 per month</td>
+            <td>300 per month</td>
             <td></td>
             <td>yes</td>
         </tr>
