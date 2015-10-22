@@ -4,10 +4,10 @@
 
 ##### The [most commonly used browsers](http://www.sitepoint.com/browser-trends-april-2015-statcounter-vs-netmarketshare/) (on any device) are:
 
-* [Chrome](http://www.google.com/chrome/) (engine: [Blink](https://en.wikipedia.org/wiki/Blink_(layout_engine)) + [V8](https://en.wikipedia.org/wiki/V8_(JavaScript_engine))
+* [Chrome](http://www.google.com/chrome/) (engine: [Blink](https://en.wikipedia.org/wiki/Blink_%28layout_engine%29) + [V8](https://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29))
 * [Safari](https://www.apple.com/safari/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + [SquirrelFish](https://trac.webkit.org/wiki/SquirrelFish))
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_(software)))
-* [Internet Explorer](Internet Explorer) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_(layout_engine)) + [Chakra](https://en.wikipedia.org/wiki/Chakra_(JScript_engine)))
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
+* [Internet Explorer](Internet Explorer) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))
 
 ![](../images/statcounter.png "http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar")
 
