@@ -33,7 +33,7 @@ The rest of this book contains point a reader to the resources and tools to foll
 
 I should mention that lately a lot of non-accredited front-end code schools/bootcamps have emerged. These avenues of becoming a front-end developer are teacher directed in classroom (virtual and physical) courses, which follow a more traditional style of learning from an official instructor (i.e. syllabus, test, quizzes, projects, team projects, grades etc..). I have more to say about these institutions in the direct learning section of this handbook. In brief, this is the web, everything you need to learn is on the web for the taking (costing little to nothing). However, if you need someone to tell you how to take what is actually free, and hold you accountable for learning it, you might consider an organized course. Otherwise, I am not aware of any other profession that is practically free for the taking with an internet connection and a burning desire for knowledge.
 
-##### Read/watch:
+If you want to get started immediately I'd suggest the following general overviews of the practice of front-end development:
 
 * [Front End Web Development Career Kickstart](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [watch][$]
 * [Front End Web Development: Get Started](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
@@ -48,7 +48,7 @@ I should mention that lately a lot of non-accredited front-end code schools/boot
 * [Front-End Dev Mastery](https://mijingo.com/products/bundles/front-end-dev-mastery/) [watch][$]
 * [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [watch][$]
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) [read]
-* [BEING A WEB DEVELOPER](http://www.yellowshoe.com.au/standards) [read]
+* [Being a web developer](http://www.yellowshoe.com.au/standards) [read]
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) [read]
 * [Web Fundamentals](https://developers.google.com/web/fundamentals) [read]
 * [Front-end Curriculum](https://gist.github.com/stevekinney/03027e71aac341af14a2) [read]
