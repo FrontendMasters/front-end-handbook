@@ -1,6 +1,7 @@
 # Front-end developers develop for...
 
-A front-end developer typically uses front-end technologies to create HTML, CSS, and JS that run on one of the following operating systems:
+A front-end developer crafts HTML, CSS, and JS that runs on the web platform 
+(e.g. a web browser) on one of the following operating systems (aka OS's):
 
 * Windows
 * Windows Phone
@@ -26,10 +27,10 @@ These operating systems typically run on one or more of the following devices:
 
 Generally speaking, front-end technologies can run on the aforementioned operating systems and devices using the following run time scenarios:
 
-* A web browser (e.g. [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en)) running from OS
-* A [headless browser](https://en.wikipedia.org/wiki/Headless_browser) (e.g. [phantomJS](http://phantomjs.org/)) driven from a CLI running on OS
-* A [WebView](http://wiki.awesomium.com/general-use/introduction-to-web-views.html)/browser tab (think iframe) embedded within a native application as a runtime with bridge to native API's. UI is all web based. (e.g. [Apache Cordova](https://cordova.apache.org/), [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/))
-* A native application built from web tech that is interpreted at runtime with a bridge to native API's. UI is native based. (e.g. [NativeScript](https://www.nativescript.org/), [React Native](https://facebook.github.io/react-native/))
+* A web browser (examples: [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en)) running on an OS.
+* A [headless browser](https://en.wikipedia.org/wiki/Headless_browser) (examples [phantomJS](http://phantomjs.org/)) driven from a CLI running on an OS.
+* A [WebView](http://wiki.awesomium.com/general-use/introduction-to-web-views.html)/browser tab (think iframe) embedded within a native application as a runtime with bridge to native API's. WebView applications typically contain a UI constructed from web technologies. (i.e. HTML, CSS, and JS). (examples: [Apache Cordova](https://cordova.apache.org/), [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/))
+* A native application built from web tech that is interpreted at runtime with a bridge to native API's. The UI will make use of native UI parts (e.g. iOS native controls) not web technologies. (examples: [NativeScript](https://www.nativescript.org/), [React Native](https://facebook.github.io/react-native/))
 
 
  
