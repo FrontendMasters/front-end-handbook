@@ -13,7 +13,7 @@
 ##### Site generator listings:
 
 * [staticsitegenerators.net](https://staticsitegenerators.net/)
-* [www.staticgen.com/](https://www.staticgen.com/)
+* [www.staticgen.com](https://www.staticgen.com/)
 
 
 

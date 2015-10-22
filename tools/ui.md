@@ -10,7 +10,11 @@
 * [Materialize](http://materializecss.com/)
 * [Material ui](http://material-ui.com/)
 * [Polymer Paper Elements](https://elements.polymer-project.org/browse?package=paper-elements)
+
+##### Desktop (NW.js and Electron):
+
 * [photonkit](http://photonkit.com/)
+* [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
 
 ##### Mobile focused:
 
