@@ -6,6 +6,7 @@
 
 ##### General Learning:
 
+* [Introduction to Node.js from Evented Mind](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) [watch][$]
 * [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node) [read]
 * [Node.js Basics](http://teamtreehouse.com/library/nodejs-basics) [watch][$]
 * [io.js and Node.js Next: Getting Started](http://www.pluralsight.com/courses/running-node-applications-io-js) [watch][$]

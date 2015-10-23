@@ -20,7 +20,7 @@ These technologies are defined below with the relevant documentation and specifi
 
 ##### Hyper Text Markup Language (aka HTML)
 
-> HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages.[1] Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language. - wikipedia.org
+> HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language. - wikipedia.org
 
 Most relevant specifications / documentation:
 
@@ -80,7 +80,7 @@ Most relevant specifications:
 
 ##### Uniform Resource Locator's (aka URL)
 
-> A uniform resource locator (URL) (also called a web address)[1][2] is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI),[3] although many people use the two terms interchangeably.[4] A URL implies the means to access an indicated resource, which is not true of every URI.[4][5] URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications. - wikipedia.org
+> A uniform resource locator (URL) (also called a web address) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI),[3] although many people use the two terms interchangeably. A URL implies the means to access an indicated resource, which is not true of every URI.[4][5] URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications. - wikipedia.org
 
 Most relevant specifications:
 

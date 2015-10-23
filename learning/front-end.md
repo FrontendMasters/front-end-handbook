@@ -15,10 +15,11 @@
 * [Front-End Dev Mastery](https://mijingo.com/products/bundles/front-end-dev-mastery/) [watch][$]
 * [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [watch][$]
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) [read]
-* [BEING A WEB DEVELOPER](http://www.yellowshoe.com.au/standards) [read]
+* [Being a web developer](http://www.yellowshoe.com.au/standards) [read]
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) [read]
 * [Web Fundamentals](https://developers.google.com/web/fundamentals) [read]
 * [Front-end Curriculum](https://gist.github.com/stevekinney/03027e71aac341af14a2) [read]
+ [freeCodeCamp](http://freecodecamp.com/) [interact]
 
 ##### General front-end newsletters, news outlets, &amp; podcasts:
 

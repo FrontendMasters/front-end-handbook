@@ -24,25 +24,25 @@ When the word "JavaScript Application" is included in the job title, this will d
 
 **Front-end Web Designer**
 
-When the word "Designer" is included in the job title, this will denote that the designer should posses front-end skills but also professional proficient at design as well.
+When the word "Designer" is included in the job title, this will denote that the designer will posses front-end skills (i.e. HTML & CSS) but also professional design (Visual Design and Interaction Design) skills.
 
 ***
 
 **Web/Front-end User Interface (aka UI) Developer/Engineer**
 
-When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses design, interaction design, and wire framing skills in addition to general front-end skills
+When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end skills.
 
 ***
 
 **Mobile/Tablet Front-end Developer**
 
-When the word "Mobile" or "Tablet" is included in the job title, this will denote that the developer has extensive experience developing front-ends that run on mobile or tablet devices (either natively or on the web platform i.e. in a browser).
+When the word "Mobile" or "Tablet" is included in the job title, this will denote that the developer has experience developing front-ends that run on mobile or tablet devices (either natively or on the web platform i.e. in a browser).
 
 ***
 
 **Front-end SEO Expert**
 
-When the word "SEO" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies towards an SEO strategy they are either given or construct.
+When the word "SEO" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies towards an SEO strategy.
 
 ***
 
@@ -54,15 +54,15 @@ When the word "Acessibility" is included in the job title, this will denote that
 
 **Front-end Dev. Ops**
 
-When the word "DevOps" is included in the job title, this will denote that the developer has extensive experience with  software development methods that stress communication, collaboration, integration, deployment, automation, and measurement.
+When the word "DevOps" is included in the job title, this will denote that the developer has extensive experience with software development practices pertaining to collaboration, integration, deployment, automation, and measurement.
 
 ***
 
 **Front-end Testing/QA**
 
-When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, A/B testing.
+When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, and A/B testing.
 
 ***
 
-Note that if you come across the terms "Full Stack" or the generic "Web Developer" these terms might be used by a potential employer to describe a role that is responsible for design aspects, front-end development, and back-end development (i.e. the full stack).
+Note that if you come across the "Full Stack" or the generic "Web Developer" terms in job titles these words may be used to by an employer to describe a role that is responsible for all aspects of web/app development i.e. both front-end (potentially including design) and back-end.
 
