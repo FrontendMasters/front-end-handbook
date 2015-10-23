@@ -38,6 +38,7 @@
 * [kony](http://www.kony.com/products/mobility-platform) [$]
 * [ionic hub](http://ionic.io/) [free to $]
 * [Taco](http://taco.tools/)
+* [manifoldjs](http://manifoldjs.com/)
 
 ##### Desktop app frameworks (using browser engine):
 
