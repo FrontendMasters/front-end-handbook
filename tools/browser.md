@@ -52,6 +52,8 @@
 * [webshim](https://afarkas.github.io/webshim/demos/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 * [console-polyfill](https://github.com/paulmillr/console-polyfill)
+* [socket.io](http://socket.io/)
+* [sockjs](https://github.com/sockjs/sockjs-client)
 
 ##### Browser hosted testing/automation:
 
