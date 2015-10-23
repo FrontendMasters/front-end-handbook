@@ -18,19 +18,19 @@
 * [Hood.ie](http://hood.ie/intro/)
 * [MEAN](http://meanjs.org/)
 
-##### Mobile web app/site frameworks:
+##### Mobile web app/site frameworks (can be used in cordova app):
 
 * [Ratchet](http://goratchet.com/getting-started/)
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)
 * [Mobile Angular UI](http://mobileangularui.com/)
 * [Framework7](http://www.idangero.us/framework7)
 
-##### Hybrid mobile app frameworks (with [Cordova](https://cordova.apache.org/) built in):
+##### Native Hybrid mobile app frameworks (with [Cordova](https://cordova.apache.org/) built in):
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
-##### Cordova mobile development environments/platforms/tools:
+##### Cordova/crosswalk mobile development environments/platforms/tools:
 
 * [AppBuilder](http://www.telerik.com/appbuilder) [$]
 * [Monaca](https://monaca.io/) [$] 
@@ -38,14 +38,14 @@
 * [kony](http://www.kony.com/products/mobility-platform) [$]
 * [ionic hub](http://ionic.io/) [free to $]
 * [Taco](http://taco.tools/)
-* [manifoldjs](http://manifoldjs.com/)
+* [manifoldJS](http://manifoldjs.com/)
 
-##### Desktop app frameworks (using browser engine):
+##### Native desktop app frameworks (using browser engine):
 
 * [NW.js](https://github.com/nwjs/nw.js) (typically used for desktop apps)
 * [Electron](http://electron.atom.io/) (typically used for desktop apps)
 
-##### Native app frameworks (using native runtime, no browser engine used):
+##### Native mobile app frameworks (using native runtime, no browser engine used):
 
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)

@@ -24,7 +24,7 @@
 
 * [browserhacks.com](http://browserhacks.com/)
 
-##### Browser development tools:
+##### Browser development/debug tools:
 
 * [Opera Dragonfly](http://www.opera.com/dragonfly/)
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
@@ -35,6 +35,7 @@
     - [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
     - [Settings](https://developer.chrome.com/devtools/docs/settings)
 * [IE Developer tools (aka F12 tools)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
+* [vorlon.js](http://vorlonjs.com/)
 
 ##### Synchronized browser tools:
 
