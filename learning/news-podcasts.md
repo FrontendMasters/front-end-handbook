@@ -3,7 +3,7 @@
 ##### General front-end newsletters, news, &amp; podcasts:
 
 * [shoptalkshow.com](http://shoptalkshow.com/)
-* [frontendfront.com/](http://frontendfront.com/)
+* [frontendfront.com](http://frontendfront.com/)
 * [webtoolsweekly.com](http://webtoolsweekly.com/)
 * [O'Reilly Web Platform Radar](http://radar.oreilly.com/web-platform)
 * [The Wdb Platform Podcast](http://thewebplatform.libsyn.com/)
