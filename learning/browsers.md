@@ -16,8 +16,8 @@
 ##### The most commonly used headless browser are:
 
 * [PhantomJS](http://phantomjs.org/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + SquirrelFish)
-* [slimerjs](http://slimerjs.org/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_(software)))
-* [TrifleJS](http://triflejs.org/) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_(layout_engine)) + [Chakra](https://en.wikipedia.org/wiki/Chakra_(JScript_engine)))
+* [slimerjs](http://slimerjs.org/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
+* [TrifleJS](http://triflejs.org/) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))
 
 ##### How browsers work
 
