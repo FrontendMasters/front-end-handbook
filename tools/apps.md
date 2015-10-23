@@ -39,6 +39,11 @@
 * [ionic hub](http://ionic.io/) [free to $]
 * [Taco](http://taco.tools/)
 
+
+##### Hosted Applications
+* [Chrome Apps](https://developer.chrome.com/apps/about_apps)
+* [Manifold.js](http://manifoldjs.com/)
+* 
 ##### Desktop app frameworks (using browser engine):
 
 * [NW.js](https://github.com/nwjs/nw.js) (typically used for desktop apps)
