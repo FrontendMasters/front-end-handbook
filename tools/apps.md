@@ -29,6 +29,7 @@
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
+* [manifold.js](http://manifoldjs.com/)
 
 ##### Cordova mobile development environments/platforms/tools:
 
