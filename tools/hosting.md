@@ -7,6 +7,7 @@
 * [DIVSHOT](divshot.com) [free to $]
 * [netlify](https://www.netlify.com) [free to $]
 * [surge](https://surge.sh/)
+* [Azure](https://azure.microsoft.com/en-us/)
 
 
 
