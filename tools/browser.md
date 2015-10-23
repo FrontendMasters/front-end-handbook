@@ -39,6 +39,7 @@
 ##### Synchronized browser tools:
 
 * [Browsersync](http://www.browsersync.io/)
+* [Vorlon.js](http://vorlonjs.com/)
 
 ##### Browser coding tools to determine if X browser supports X:
 
@@ -59,6 +60,10 @@
 * [Sauce labs](https://saucelabs.com/) [$]
 * [Selenium](http://www.seleniumhq.org/)
 * [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
+* [Remote IE](https://remote.modern.ie/) [$]
+* [Screenshots](https://dev.modern.ie/tools/screenshots/) [$]
+
+
 
 ##### Headless browsers:
 
