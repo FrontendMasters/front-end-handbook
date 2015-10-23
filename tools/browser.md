@@ -59,6 +59,11 @@
 * [Sauce labs](https://saucelabs.com/) [$]
 * [Selenium](http://www.seleniumhq.org/)
 * [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
+* [Remote IE](https://remote.modern.ie/) [$]
+* [Browser Screenshots](https://dev.modern.ie/tools/screenshots/) [$]
+
+
+
 
 ##### Headless browsers:
 
