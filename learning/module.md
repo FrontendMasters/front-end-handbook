@@ -1,6 +1,6 @@
 # Learn module loading and dependency management
 
-##### General Learning:
+##### General learning:
 
 * [Creating JavaScript Modules with Browserify](http://www.pluralsight.com/courses/creating-javascript-modules-browserify) [watch][$]
 * [Webpack Fundamentals](http://www.pluralsight.com/courses/webpack-fundamentals) [watch][$]

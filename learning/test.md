@@ -6,7 +6,7 @@
 >  
 > **integration testing** - Integration testing (sometimes called integration and testing, abbreviated I&T) is the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing. - wikipedia
 
-##### General Learning:
+##### General learning:
 
 * [Test-Driven JavaScript Development](http://tddjs.com/) [read][$]
 * [Testable JavaScript](http://www.amazon.com/gp/product/1449323391/ref=pd_lpo_sbs_dp_ss_3) [read][$]

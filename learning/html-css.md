@@ -6,7 +6,7 @@
 
 Liken to constructing a house, one might consider HTML the framing and CSS to be the painting & decorating.
 
-##### General Learning:
+##### General learning:
 
 * [codecademy.com HTML & CSS](https://www.codecademy.com/tracks/web) [interact]
 * [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) [watch]

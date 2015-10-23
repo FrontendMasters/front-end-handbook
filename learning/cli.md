@@ -2,7 +2,7 @@
 
 > A command-line interface or command language interpreter (CLI), also known as command-line user interface, console user interface, and character user interface (CUI), is a means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text (command lines). - wikipedia
 
-##### General Learning:
+##### General learning:
 
 * [codecademy: Learn the Command Line](https://www.codecademy.com/courses/learn-the-command-line) [watch]
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) [read]

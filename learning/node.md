@@ -4,7 +4,7 @@
 > 
 > Node.js provides an event-driven architecture and a non-blocking I/O API designed to optimize an application's throughput and scalability for real-time web applications. It uses Google V8 JavaScript engine to execute code, and a large percentage of the basic modules are written in JavaScript. Node.js contains a built-in library to allow applications to act as a web server without software such as Apache HTTP Server, Nginx or IIS. - wikipedia
 
-##### General Learning:
+##### General learning:
 
 * [Introduction to Node.js from Evented Mind](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) [watch][$]
 * [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node) [read]

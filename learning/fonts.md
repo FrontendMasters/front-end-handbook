@@ -4,7 +4,7 @@
 > 
 > The CSS2 specification was released in 1998 and attempted to improve the font selection process by adding font matching, synthesis and download. These techniques did not gain much use, and were removed in the CSS2.1 specification. However, Internet Explorer added support for the font downloading feature in version 4.0, released in 1997.[1] Font downloading was later included in the CSS3 fonts module, and has since been implemented in Safari 3.1, Opera 10 and Mozilla Firefox 3.5. This has subsequently increased interest in Web typography, as well as the usage of font downloading. - wikipedia
 
-##### General Learning:
+##### General learning:
 
 * [Typography for the Web](http://www.pluralsight.com/courses/typography-for-web-1790) [watch][$]
 * [Learn-web-fonts](http://zoerooney.com/learn-web-fonts/) [read]

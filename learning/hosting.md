@@ -7,7 +7,7 @@
 <cite>image source: <a href="http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg">http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg</a></cite>
 
 
-##### General Learning:
+##### General learning:
 
 * [Web Hosting Beginner Guide](http://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/) [read]
 * [Web Hosting For Dummies](http://www.dummies.com/store/product/Web-Hosting-For-Dummies.productCd-1118540573.html) [read][$]

@@ -13,7 +13,7 @@
 * [Terrific](http://terrifically.org/) [read]
 * [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw) [watch]
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) [read]
-* [A FIELD GUIDE TO STATIC APPS](http://www.staticapps.org/) [read]
+* [A field guide to static apps](http://www.staticapps.org/) [read]
 
 
 

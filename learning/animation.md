@@ -1,6 +1,6 @@
 # Learn web animation
 
-##### General Learning:
+##### General learning:
 
 * [Adventures in Web Animations](https://www.codeschool.com/courses/adventures-in-web-animations) [$][watch]
 * [Animating With Snap.svg](https://webdesign.tutsplus.com/courses/animating-with-snapsvg) [$][watch]

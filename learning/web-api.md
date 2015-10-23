@@ -13,12 +13,12 @@ You should be aware of and learn, where appropriate, web/browser API's. A good t
 * [DIVE INTO HTML5](http://diveintohtml5.info/) [read]
 * [Pro HTML5 Programming](http://apress.jensimmons.com/v5/pro-html5-programming/info.html) [read]
 
-##### Learn Audio:
+##### Learn audio:
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) [read]
 * [Fun With Web Audio](https://code.tutsplus.com/courses/fun-with-web-audio/) [watch]
 * [Add Sound to Your Site With Web Audio](https://code.tutsplus.com/courses/add-sound-to-your-site-with-web-audio) [watch]
 
-##### Learn Canvas:
+##### Learn canvas:
 
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html) [read]
 

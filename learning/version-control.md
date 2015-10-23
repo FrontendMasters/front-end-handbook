@@ -4,7 +4,7 @@
 
 The current modern solution for version control is [Git](https://git-scm.com/). Learn it!
 
-##### General Learning:
+##### General learning:
 
 * [codeschool.com](https://try.github.io/levels/1/challenges/1) [interact]
 * [Git Fundamentals](http://www.pluralsight.com/courses/git-fundamentals) [watch][$]

@@ -2,16 +2,22 @@
 
 > A web browser (commonly referred to as a browser) is a software application for retrieving, presenting, and traversing information resources on the World Wide Web. An information resource is identified by a Uniform Resource Identifier (URI/URL) and may be a web page, image, video or other piece of content. Hyperlinks present in resources enable users easily to navigate their browsers to related resources. Although browsers are primarily intended to use the World Wide Web, they can also be used to access information provided by web servers in private networks or files in file systems. - Wikipedia
 
+
 ##### The [most commonly used browsers](http://www.sitepoint.com/browser-trends-april-2015-statcounter-vs-netmarketshare/) (on any device) are:
 
-* [Chrome](http://www.google.com/chrome/) (engine: [Blink](https://en.wikipedia.org/wiki/Blink_%28layout_engine%29) + [V8](https://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29))
-* [Safari](https://www.apple.com/safari/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + [SquirrelFish](https://trac.webkit.org/wiki/SquirrelFish))
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
-* [Internet Explorer](Internet Explorer) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))
+1. [Chrome](http://www.google.com/chrome/) (engine: [Blink](https://en.wikipedia.org/wiki/Blink_%28layout_engine%29) + [V8](https://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29))
+2. [Firefox](https://www.mozilla.org/en-US/firefox/new/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
+3. [Internet Explorer](Internet Explorer) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))
+4. [Safari](https://www.apple.com/safari/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + [SquirrelFish](https://trac.webkit.org/wiki/SquirrelFish))
 
 ![](../images/statcounter.png "http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar")
 
 <cite>image source: <a href="http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar">http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar</a></cite>
+
+##### Evolution of browsers & web technologies (i.e. API's)
+
+* [www.evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [read]
+* [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) [read]
 
 ##### The most commonly used headless browser are:
 
@@ -48,20 +54,15 @@
 
 ##### Developing for browsers
 
-In the past, a front-end developer spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today, unless you have to write code for older browsers (i.e. <IE8). This still remains an issue today, just not one that demands so much of the front-end developers time and brain cycles. The fact of the matter is modern abstractions (e.g. jQuery, SASS) have done away with a lot of browser inconsistency issues.
+In the past, a front-end developer spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today, unless you have to write code for older browsers (i.e. <IE8). This still remains an issue today, just not one that demands so much of the front-end developers time and brain cycles. The fact of the matter is modern abstractions (e.g. jQuery, pre-processors, transpilers) have done away with a lot of browser inconsistency issues.
 
 ##### Evergreen browsers
 
-The latest versions of browsers are considered evergreen browsers. That is, they automatically update themselves silently without prompting the user. This move towards self updating browsers has been in reaction to the slow process of eliminating older browsers that are very complicated to develop for given their deviations from the commonalities between browsers.
+The latest versions of browsers are considered evergreen browsers. That is, in theory they are suppose to automatically update themselves silently without prompting the user. This move towards self updating browsers has been in reaction to the slow process of eliminating older browsers. Older browsers  are complicated to develop for given their deviations from the commonalities between modern browsers (i.e. new specifications and this rate of change).
 
 ##### Picking a browser
 
-As of today, most front-end developers use Chrome and the tools available to a developer, "Chrome Dev Tools". However, all of the browsers offer a flavor of developer tools. Picking one to use for development is a subjective matter. The more important issue is knowing which browsers you have to support and testing in each as you develop. Select whichever browser makes sense to your brain and gets the job done. I suggest using Chrome.
-
-##### Evolution of browsers & technologies (i.e. api's)
-
-* [www.evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [read]
-* [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) [read]
+As of today, most front-end developers use Chrome and the tools available to a developer, "Chrome Dev Tools". However, all of the browsers offer a flavor of developer tools. Picking one to use for development is a subjective matter. The more important issue is knowing which browsers you have to support and testing in each as you develop. Select whichever browser makes sense to your brain and gets the job done. I suggest using Chrome simply because the developer tools are consistently improving and at this time contain the most robust features.
 
 ##### Browser hacks
 
