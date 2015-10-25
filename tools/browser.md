@@ -20,10 +20,6 @@
 * [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
 * [jscc.info](http://jscc.info/)
 
-##### Browser hacks:
-
-* [browserhacks.com](http://browserhacks.com/)
-
 ##### Browser development/debug tools:
 
 * [Opera Dragonfly](http://www.opera.com/dragonfly/)
@@ -74,6 +70,10 @@
 * [nightwatchjs](http://nightwatchjs.org/)
 * [casperJS](http://casperjs.org/)
 * [Nightmare](https://github.com/segmentio/nightmare)
+
+##### Browser hacks:
+
+* [browserhacks.com](http://browserhacks.com/)
 
 
 

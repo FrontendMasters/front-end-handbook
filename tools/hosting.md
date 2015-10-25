@@ -6,7 +6,7 @@
 * [Modulus](https://modulus.io/) [$]
 * [DIVSHOT](divshot.com) [free to $]
 * [netlify](https://www.netlify.com) [free to $]
-* [surge](https://surge.sh/)
+* [surge](https://surge.sh/) [free to $]
 
 
 

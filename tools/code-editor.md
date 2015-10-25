@@ -6,7 +6,7 @@ Front-end code can minimally be edited with a simple text editing application li
 
 Code editors come in all sorts of types and size, so to speak. Selecting one is a rather subjective engagement. Choose one, learn it inside and out, then get on to learning HTML, CSS, DOM, and JavasCript. 
 
-However, I do strongly think your choice should minimally have the following features:
+However, I do strongly believe, minimally, a code editor should have the following features:
 
 1. Good documentation on how to use the editor
 2. Report (i.e. hinting/linting/errors) on the code quality of HTML, CSS, and JavaScript.
@@ -14,7 +14,7 @@ However, I do strongly think your choice should minimally have the following fea
 4. Offer code completion for HTML, CSS, and JavaScript.
 5. Be customizable by way of a plug-in architecture 
 6. Have available a large repository of third-party/community plug-ins that can be used to customize the editor to your liking
-6. Be small, simple, and not coupled to the code (i.e. not required to edited the code)
+7. Be small, simple, and not coupled to the code (i.e. not required to edited the code)
 
 I personally use and recommend [Sublime Text](http://www.sublimetext.com/) with the following plug-ins.
 
@@ -42,14 +42,20 @@ Here are some resources for learning Sublime:
 
 If you need a free alternative to Sublime (cost $70) you might consider [atom](https://atom.io/) or [brackets](http://brackets.io/).
 
-##### Online code editors:
+##### Collaborative online code editors to share live code:
 
-* [jsbin.com](http://jsbin.com/)
+* [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
 * [liveweave.com](http://liveweave.com/)
 * [es6fiddle.net](http://www.es6fiddle.net/)
-* [codepen.io](http://codepen.io/)
+* [codepen.io](http://codepen.io/) [free to $]
 * [Plunker](http://plnkr.co/)
+
+##### Online code editors:
+
+* [codeanywhere](https://codeanywhere.com) [free to $]
+* [Koding](https://koding.com) [free to $]
+* [Cloud9](https://c9.io) [free to $]
 
 
 

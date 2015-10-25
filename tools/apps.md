@@ -18,7 +18,7 @@
 * [Hood.ie](http://hood.ie/intro/)
 * [MEAN](http://meanjs.org/)
 
-##### Mobile web app/site frameworks (can be used in cordova app):
+##### Mobile web app/site frameworks (can be used in Cordova app):
 
 * [Ratchet](http://goratchet.com/getting-started/)
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)

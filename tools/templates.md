@@ -9,7 +9,7 @@
 * [Transparency](http://leonidas.github.io/transparency/)
 * [doT.js](http://olado.github.io/doT/)
 
-##### Templating and reactive data binding
+##### Templating and reactive data binding:
 
 * [Rivets.js](http://rivetsjs.com/)
 * [paperclip.js](http://paperclipjs.com/)

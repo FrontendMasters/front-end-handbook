@@ -46,7 +46,7 @@
 
 * [sinon.js](http://sinonjs.org/)
 
-##### Code style linter :
+##### Code style linter:
 
 * [JSCS](http://jscs.info/)
 
@@ -82,7 +82,7 @@
 
 ##### Online js code editors:
 
-* [jsbin.com](http://jsbin.com/)
+* [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
 * [es6fiddle.net](http://www.es6fiddle.net/)
 
