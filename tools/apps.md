@@ -30,7 +30,7 @@
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
-##### Cordova/crosswalk mobile development environments/platforms/tools:
+##### Cordova/webivew/crosswalk mobile development environments/platforms/tools (uses webview i.e. browser engine):
 
 * [AppBuilder](http://www.telerik.com/appbuilder) [$]
 * [Monaca](https://monaca.io/) [$] 
@@ -45,7 +45,7 @@
 * [NW.js](https://github.com/nwjs/nw.js) (typically used for desktop apps)
 * [Electron](http://electron.atom.io/) (typically used for desktop apps)
 
-##### Native mobile app frameworks (using native runtime, no browser engine used):
+##### Native mobile app frameworks (aka JavaScript Native, uses native runtime, not browser engine):
 
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)
