@@ -8,7 +8,7 @@ A front-end developer crafts HTML, CSS, and JS that runs on the web platform
 * OSX
 * iOS
 * Android
-* Ubuntu (or some flavor of )
+* Ubuntu (or some flavor of Linux)
 * Chromium
 
 These operating systems typically run on one or more of the following devices:
