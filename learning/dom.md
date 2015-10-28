@@ -13,7 +13,8 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 * [The Document Object Model](http://eloquentjavascript.net/13_dom.html) [read]
 * [codecademy.com jQuery](https://www.codecademy.com/tracks/jquery) [watch]
 * [jQuery Enlightenment](http://jqueryenlightenment.com/) [read]
-* [jQuery: Getting Started](http://www.pluralsight.com/courses/jquery-getting-started) [watch][$]
+* [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) [watch]
+* [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) [watch]
 
 ##### Mastering:
 
