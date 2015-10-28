@@ -54,6 +54,7 @@
     * [Newsletters, news, & podcasts](learning/news-podcasts.md)
 * [Part III: Front-end dev tools](tools.md)
     * [General front-end dev tools](tools/general-tools.md)
+    * [Doc/API browsing tools](tools/browsedocs.md)
     * [SEO tools](tools/seo.md)
     * [Prototyping & wireframing tools](tools/proto.md)
     * [Diagramming tools](tools/diagram.md)

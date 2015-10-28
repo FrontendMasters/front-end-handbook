@@ -18,19 +18,25 @@
 * [Hood.ie](http://hood.ie/intro/)
 * [MEAN](http://meanjs.org/)
 
-##### Mobile web app/site frameworks (can be used in Cordova app):
+##### Mobile web ui/site/app frameworks 
+
+These solutions can be used anywhere including in a webview (i.e. web platform and browser engine) app:
 
 * [Ratchet](http://goratchet.com/getting-started/)
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)
 * [Mobile Angular UI](http://mobileangularui.com/)
 * [Framework7](http://www.idangero.us/framework7)
 
-##### Native Hybrid mobile app frameworks (with [Cordova](https://cordova.apache.org/) built in):
+##### Native Hybrid mobile webview (i.e. browser engine driven) frameworks:
+
+These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as bridge to native api's.
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
-##### Cordova/webivew/crosswalk mobile development environments/platforms/tools (uses webview i.e. browser engine):
+##### Native Hybrid mobile development webview (i.e. browser engine driven) environments/platforms/tools:
+
+These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as bridge to native api's.
 
 * [AppBuilder](http://www.telerik.com/appbuilder) [$]
 * [Monaca](https://monaca.io/) [$] 
@@ -39,16 +45,21 @@
 * [ionic hub](http://ionic.io/) [free to $]
 * [Taco](http://taco.tools/)
 * [manifoldJS](http://manifoldjs.com/)
+* [cocoon.io](https://cocoon.io) [free to $]
 
-##### Native desktop app frameworks (using browser engine):
+##### Native desktop webview (i.e. browser engine driven) app frameworks:
 
-* [NW.js](https://github.com/nwjs/nw.js) (typically used for desktop apps)
-* [Electron](http://electron.atom.io/) (typically used for desktop apps)
+* [NW.js](https://github.com/nwjs/nw.js)
+* [Electron](http://electron.atom.io/)
 
-##### Native mobile app frameworks (aka JavaScript Native, uses native runtime, not browser engine):
+##### Native mobile app frameworks (aka JavaScript Native apps)
+
+These solutions use a JS engine at runtime to inerput JS and bridget that to native api's. No browser engine or webview is used. The ui is constructed from native UI components.
 
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)
+* [tabris.js](https://tabrisjs.com/) [free to $]
+* [trigger.io](https://trigger.io/how-it-works/) [$]
 
 ##### References:
 
