@@ -27,30 +27,3 @@
 
 * [SVG Weirdness](https://github.com/emilbjorklund/svg-weirdness)
 * [SVG Edit](https://code.google.com/p/svg-edit/wiki/BrowserBugs)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
