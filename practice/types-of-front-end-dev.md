@@ -4,7 +4,7 @@ Below is a list and description of various front-end job titles. The common, or 
 
 ***
 
-**Front-end Developer/Engineer** (aka Front-end Web Developer/Engineer or Client-side Developer/Engineer or Front-end Software Developer/Engineer)
+**Front-end Developer/Engineer** (aka Front-end Web Developer/Engineer, Client-side Developer/Engineer, Front-end Software Developer/Engineer or UI Engineer)
 
 The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
 
