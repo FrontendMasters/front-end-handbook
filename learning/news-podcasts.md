@@ -34,7 +34,12 @@
 * [FiveJS](https://fivejs.codeschool.com/)
 * [JavaScript Live](https://jslive.com/)
 
+##### Graphic and Animation Newsletters and Podcasts
 
+* [Motion and Meaning](http://motionandmeaning.io/)
+* [SVG Immersion Podcast](http://svgimmersion.com/)
+* [Web Animation Weekly](http://rachelnabors.us1.list-manage.com/subscribe?u=0a8f219cf8284562f91a26ee9&id=d60f6683d2)
+* [Responsive Images Community Group Newsletter](https://responsiveimages.org/#newsletter)
 
 
 
