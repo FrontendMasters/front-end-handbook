@@ -26,6 +26,16 @@ Part III: Front-end development tools
 ---
 Part three briefly explains and identifies tools of the trade.
 
+***
+ 
+**download a .pdf, .epub, or .mobi file from**: 
+
+* [https://www.gitbook.com/book/frontendmasters/front-end-handbook/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
+
+**contribute content, suggestions, and fixes on github**: 
+
+* [https://github.com/FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
+
 
 
 

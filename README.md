@@ -27,6 +27,10 @@ Part III: Front-end development tools
 Part three briefly explains and identifies tools of the trade.
 
 ***
+
+**read online at**: 
+
+* [http://www.frontendhandbook.com](http://www.frontendhandbook.com/)
  
 **download a .pdf, .epub, or .mobi file from**: 
 
