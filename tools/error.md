@@ -2,7 +2,7 @@
 
 * [Raygun](https://raygun.io) [$]
 * [errorception](https://errorception.com/) [$]
-* [sentry](https://getsentry.com/welcome/) [$]
+* [Sentry](https://getsentry.com/welcome/) [$ or free for self-hosted]
 * [{track:js}](https://trackjs.com/) [$]
 
 
