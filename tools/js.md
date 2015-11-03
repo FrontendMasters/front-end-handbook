@@ -85,6 +85,7 @@
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
 * [es6fiddle.net](http://www.es6fiddle.net/)
+* [plnkr.co](http://plnkr.co/)
 
 ##### Online Regular expression editors/visual tools:
 
