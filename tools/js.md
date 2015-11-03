@@ -80,7 +80,7 @@
 * [Javascript Obfuscator](http://www.javascriptobfuscator.com/) [free to $]
 * [JScrambler](https://jscrambler.com/) [$]
 
-##### Online js code editors:
+##### Sharable/runnable code editors:
 
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)

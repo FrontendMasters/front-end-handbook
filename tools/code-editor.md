@@ -42,20 +42,22 @@ Here are some resources for learning Sublime:
 
 If you need a free alternative to Sublime (cost $70) you might consider [atom](https://atom.io/) or [brackets](http://brackets.io/).
 
-##### Collaborative online code editors to share live code:
-
-* [jsbin.com](http://jsbin.com/) [free to $]
-* [jsfiddle.net](http://jsfiddle.net/)
-* [liveweave.com](http://liveweave.com/)
-* [es6fiddle.net](http://www.es6fiddle.net/)
-* [codepen.io](http://codepen.io/) [free to $]
-* [Plunker](http://plnkr.co/)
-
 ##### Online code editors:
 
 * [codeanywhere](https://codeanywhere.com) [free to $]
 * [Koding](https://koding.com) [free to $]
 * [Cloud9](https://c9.io) [free to $]
+
+##### Sharable/runnable code editors:
+
+Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to small amounts of immediately runnable code in a web browser.
+
+* [liveweave.com](http://liveweave.com/)
+* [codepen.io](http://codepen.io/) [free to $]
+* [Plunker](http://plnkr.co/)
+* [es6fiddle.net](http://www.es6fiddle.net/)
+* [jsbin.com](http://jsbin.com/) [free to $]
+* [jsfiddle.net](http://jsfiddle.net/)
 
 
 
