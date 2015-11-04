@@ -16,7 +16,7 @@ A site or application can run on a wide range of computers, laptops, tablets and
 
 * [Adaptive Web Design](http://adaptivewebdesign.info/) [read][$]
 * [Designing with progressive enhancement](https://www.filamentgroup.com/dwpe/) [read][$]
-* [Responsive Typography](Responsive Typography) [watch][$]
+* [Responsive Typography](https://app.pluralsight.com/library/courses/responsive-typography/table-of-contents) [watch][$]
 * [Responsive Web Design](https://frontendmasters.com/courses/responsive-web-design/) [watch][$]
 * [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) [watch][$]
 * [Designing Multi-Device Experiences: An Ecosystem Approach to User Experiences across Devices](http://www.amazon.com/Designing-Multi-Device-Experiences-Ecosystem-Approach/dp/1449340385/ref=pd_sim_14_8) [read][$]
