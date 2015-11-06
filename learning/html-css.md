@@ -31,6 +31,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
 * [atozcss.com/](http://www.atozcss.com/) [watch]
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) [read]
+* [WHAT THE FLEXBOX?! A simple, free 20 video course that will help you master CSS Flexbox](http://flexbox.io/) [watch]
 
 ##### References/docs:
 

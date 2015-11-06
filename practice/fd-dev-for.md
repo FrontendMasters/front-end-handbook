@@ -1,6 +1,6 @@
 # Front-end developers develop for...
 
-A front-end developer crafts HTML, CSS, and JS that runs on the web platform 
+A front-end developer crafts HTML, CSS, and JS that typically runs on the web platform 
 (e.g. a web browser) on one of the following operating systems (aka OS's):
 
 * Windows
