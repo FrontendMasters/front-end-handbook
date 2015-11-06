@@ -5,6 +5,6 @@ cite{
 	color: #666;
 }
 
-.page-inner ul {
+.page-inner ul, .page-inner ol {
 	margin-bottom:15px !important;
 }
