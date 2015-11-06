@@ -4,3 +4,7 @@ cite{
 	text-align: center;
 	color: #666;
 }
+
+.page-inner ul {
+	margin-bottom:15px !important;
+}
