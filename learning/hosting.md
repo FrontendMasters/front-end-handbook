@@ -9,9 +9,9 @@
 
 ##### General learning:
 
+* [Ultimate Guide to Web Hosting](Ultimate Guide to Web Hosting) [read]
 * [Web Hosting Beginner Guide](http://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/) [read]
 * [Web Hosting For Dummies](http://www.dummies.com/store/product/Web-Hosting-For-Dummies.productCd-1118540573.html) [read][$]
-* [Ultimate Guide to Web Hosting](Ultimate Guide to Web Hosting) [read]
 
 
 

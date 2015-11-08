@@ -28,8 +28,8 @@
 ##### How browsers work
 
 * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US/foreword/1) [read]
-* [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [read]
 * [Fast CSS: How Browsers Lay Out Web Pages](http://dbaron.org/talks/2012-03-11-sxsw/master.xhtml) [read]
+* [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [read]
 
 ![](../images/browsers-work.png "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/")
 
@@ -37,14 +37,14 @@
 
 ##### Optimizing for browsers:
 
-* [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) [watch]
 * [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) [watch]
+* [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) [watch]
 
 ##### Browser security
 
 * [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) [read]
-* [HTML5 Security Cheatsheet](https://html5sec.org/#javascript) [read]
 * [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) [watch]
+* [HTML5 Security Cheatsheet](https://html5sec.org/#javascript) [read]
 * [Security for Web Developers: Using JavaScript, HTML, and CSS](http://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/) [read][$]
 * [The Tangled Web: A Guide to Securing Modern Web Applications](http://lcamtuf.coredump.cx/tangled/) [read]($)
 

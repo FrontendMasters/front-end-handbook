@@ -10,36 +10,36 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 
 ##### General learning:
 
-* [The Document Object Model](http://eloquentjavascript.net/13_dom.html) [read]
 * [codecademy.com jQuery](https://www.codecademy.com/tracks/jquery) [watch]
-* [jQuery Enlightenment](http://jqueryenlightenment.com/) [read]
+* [The Document Object Model](http://eloquentjavascript.net/13_dom.html) [read]
 * [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) [watch]
 * [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) [watch]
+* [jQuery Enlightenment](http://jqueryenlightenment.com/) [read]
 
 ##### Mastering:
 
-* [DOM Enlightenment](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) [read][$] or [read online for free](http://domenlightenment.com/)
-* [Advanced JS Fundamentals to jQuery & Pure DOM Scripting](https://frontendmasters.com/courses/javascript-jquery-dom/) [watch][$]
 * [AdvancED DOM Scripting: Dynamic Web Design Techniques](http://www.amazon.com/gp/product/1590598563/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590598563&linkCode=as2&tag=fronenddevejo-20&linkId=VQZU5EQIQQXCF56Y) [read][$]
-* [Fixing Common jQuery Bugs](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) [watch][$]
-* [jQuery Tips and Tricks](http://www.pluralsight.com/courses/jquery-tips-and-tricks) [watch][$]
-* [jQuery-free JavaScript](http://www.pluralsight.com/courses/jquery-free-javascript) [watch][$]
+* [Advanced JS Fundamentals to jQuery & Pure DOM Scripting](https://frontendmasters.com/courses/javascript-jquery-dom/) [watch][$]
 * [Douglas Crockford: An Inconvenient API - The Theory of the DOM](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2) [watch]
+* [DOM Enlightenment](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) [read][$] or [read online for free](http://domenlightenment.com/)
+* [Fixing Common jQuery Bugs](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) [watch][$]
+* [jQuery-free JavaScript](http://www.pluralsight.com/courses/jquery-free-javascript) [watch][$]
+* [jQuery Tips and Tricks](http://www.pluralsight.com/courses/jquery-tips-and-tricks) [watch][$]
 
 ##### References/docs:
 
-* [MDN Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [jQuery Docs](http://api.jquery.com/)
 * [MDN Browser Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+* [MDN Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [msdn Document Object Model (DOM)](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
 
 ##### Standards/specifications:
 
-* [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
-* [DOM Living Standard](https://dom.spec.whatwg.org/)
 * [Document Object Model (DOM) Level 3 Events Specification](http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/)
 * [Document Object Model (DOM) Technical Reports](http://www.w3.org/DOM/DOMTR)
+* [DOM Living Standard](https://dom.spec.whatwg.org/)
+* [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
 
 
 

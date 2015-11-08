@@ -6,8 +6,8 @@
 
 * [codecademy: Learn the Command Line](https://www.codecademy.com/courses/learn-the-command-line) [watch]
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) [read]
-* [Meet the Command Line](http://www.pluralsight.com/courses/meet-command-line) [watch][$]
 * [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial) [read] [free to $]
+* [Meet the Command Line](http://www.pluralsight.com/courses/meet-command-line) [watch][$]
 
 ##### Mastering:
 
