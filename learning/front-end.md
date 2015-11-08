@@ -27,7 +27,7 @@
 * [frontendfront.com](http://frontendfront.com/)
 * [webtoolsweekly.com](http://webtoolsweekly.com/)
 * [O'Reilly Web Platform Radar](http://radar.oreilly.com/web-platform)
-* [The Wdb Platform Podcast](http://thewebplatform.libsyn.com/)
+* [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
 * [The Web Ahead](http://thewebahead.net/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
