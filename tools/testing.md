@@ -1,7 +1,7 @@
 # Testing framework tools 
 
-* [Karma](http://karma-runner.github.io/0.8/index.html)
 * [Intern](https://www.contentful.com/)
+* [Karma](http://karma-runner.github.io/0.8/index.html)
 
 
 

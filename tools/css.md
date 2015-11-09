@@ -2,15 +2,15 @@
 
 ##### Desktop & mobile CSS frameworks:
 
-* [Semantic UI](http://semantic-ui.com/)
-* [Foundation](http://foundation.zurb.com/)
+* [Base](http://getbase.org/)
 * [Bootstrap](http://getbootstrap.com/)
+* [Concise](http://concisecss.com/)
+* [Foundation](http://foundation.zurb.com/)
+* [Material Design Lite (MDL)](http://www.getmdl.io/index.html)
+* [Materialize](http://materializecss.com/)
 * [Metro UI](http://metroui.org.ua/)
 * [Pure.css](http://purecss.io/)
-* [Concise](http://concisecss.com/)
-* [Materialize](http://materializecss.com/)
-* [Material Design Lite (MDL)](http://www.getmdl.io/index.html)
-* [Base](http://getbase.org/)
+* [Semantic UI](http://semantic-ui.com/)
 
 ##### Mobile only CSS frameworks:
 
@@ -25,19 +25,19 @@
 
 ##### Transpiling:
 
-* [SASS/SCSS](http://sass-lang.com/)
-* [stylus](https://github.com/stylus/stylus)
+* [pleeease.io](http://pleeease.io/)
 * [PostCSS](https://github.com/postcss/postcss) & [cssnext](http://cssnext.io/)
 * [rework](https://github.com/reworkcss/rework) & [myth](http://www.myth.io/)
-* [pleeease.io](http://pleeease.io/)
+* [SASS/SCSS](http://sass-lang.com/)
+* [stylus](https://github.com/stylus/stylus)
 
 ##### References:
 
 * [css3test.com](http://css3test.com/)
-* [css4-selectors.com](http://css4-selectors.com/)
 * [css3clickchart.com](http://css3clickchart.com/)
-* [cssvalues.com](http://cssvalues.com/)
+* [css4-selectors.com](http://css4-selectors.com/)
 * [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
+* [cssvalues.com](http://cssvalues.com/)
 * [MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [overapi.com CSS cheatsheet](http://overapi.com/css/)
 
@@ -53,33 +53,33 @@
 
 ##### Optimizer:
 
-* [csso](http://css.github.io/csso/)
 * [clear-css](https://github.com/jakubpawlowicz/clean-css)
 * [cssnano](http://cssnano.co/)
+* [csso](http://css.github.io/csso/)
 
 ##### Online creation/generation/experimentation tools:
 
-* [Ultimate CSS Gradient Generator](Ultimate CSS Gradient Generator)
-* [Enjoy CSS](http://enjoycss.com/)
+* [CSS arrow please](http://cssarrowplease.com/)
 * [CSS matic](http://www.cssmatic.com/)
+* [Enjoy CSS](http://enjoycss.com/)
+* [Flexbox Playground](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
+* [flexplorer](http://bennettfeely.com/flexplorer/)
 * [patternify.com](http://patternify.com)
 * [patternizer.com](http://patternizer.com/)
-* [CSS arrow please](http://cssarrowplease.com/)
-* [flexplorer](http://bennettfeely.com/flexplorer/)
-* [Flexbox Playground](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
+* [Ultimate CSS Gradient Generator](Ultimate CSS Gradient Generator)
 
 ##### Architecting CSS:
 
+* [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
 * [oocss](http://oocss.org/) [read]
 * [SMACSS](https://smacss.com/) [read][$]
-* [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
 
 ##### Authoring conventions:
 
-* [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
 * [CSS code guide](http://codeguide.co/#css) [read]
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
+* [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
 
 ##### Trending CSS repositories on Github this month:
 

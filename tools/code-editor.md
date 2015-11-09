@@ -18,46 +18,46 @@ However, I do strongly believe, minimally, a code editor should have the followi
 
 I personally use and recommend [Sublime Text](http://www.sublimetext.com/) with the following plug-ins.
 
-* [Package Control](https://packagecontrol.io/packages/Package%20Control)
 * [Auto​File​Name](https://packagecontrol.io/packages/AutoFileName)
-* [Sublime​Linter](https://packagecontrol.io/packages/SublimeLinter)
-    * [Sublime​Linter-json](https://packagecontrol.io/packages/SublimeLinter-json)
-    * [Sublime​Linter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
-    * [Sublime​Linter-html-tidy](https://packagecontrol.io/packages/SublimeLinter-html-tidy)
-* [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
-* [Terminal](https://packagecontrol.io/packages/Terminal)
 * [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
 * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
 * [CSS3](https://packagecontrol.io/packages/CSS3)
 * [HTMLAttributes](https://packagecontrol.io/packages/HTMLAttributes)
-* [String​Encode](https://packagecontrol.io/packages/StringEncode)
 * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
+* [Package Control](https://packagecontrol.io/packages/Package%20Control)
+* [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
+* [String​Encode](https://packagecontrol.io/packages/StringEncode)
+* [Sublime​Linter](https://packagecontrol.io/packages/SublimeLinter)
+    * [Sublime​Linter-json](https://packagecontrol.io/packages/SublimeLinter-json)
+    * [Sublime​Linter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
+    * [Sublime​Linter-html-tidy](https://packagecontrol.io/packages/SublimeLinter-html-tidy)
+* [Terminal](https://packagecontrol.io/packages/Terminal)
 
 Here are some resources for learning Sublime:
 
-* [Sublime Productivity](https://leanpub.com/sublime-productivity) [read][$]
-* [Sublime Text Power User Book](https://sublimetextbook.com/) [read][$]
-* [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) [watch][$]
 * [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) [watch][requires login, but free]
+* [Sublime Productivity](https://leanpub.com/sublime-productivity) [read][$]
+* [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) [watch][$]
+* [Sublime Text Power User Book](https://sublimetextbook.com/) [read][$]
 
 If you need a free alternative to Sublime (cost $70) you might consider [atom](https://atom.io/) or [brackets](http://brackets.io/).
 
 ##### Online code editors:
 
+* [Cloud9](https://c9.io) [free to $]
 * [codeanywhere](https://codeanywhere.com) [free to $]
 * [Koding](https://koding.com) [free to $]
-* [Cloud9](https://c9.io) [free to $]
 
 ##### Sharable/runnable code editors:
 
 Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to small amounts of immediately runnable code in a web browser.
 
-* [liveweave.com](http://liveweave.com/)
 * [codepen.io](http://codepen.io/) [free to $]
-* [Plunker](http://plnkr.co/)
 * [es6fiddle.net](http://www.es6fiddle.net/)
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
+* [liveweave.com](http://liveweave.com/)
+* [Plunker](http://plnkr.co/)
 
 
 

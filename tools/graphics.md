@@ -2,25 +2,25 @@
 
 ##### General:
 
-* [Two.js](http://jonobr1.github.io/two.js/#introduction)
 * [Fabric.js](http://fabricjs.com/)
+* [Two.js](http://jonobr1.github.io/two.js/#introduction)
 
 ##### Canvas:
 
-* [Paper.js](http://paperjs.org/)
 * [EaselJS](https://github.com/CreateJS/EaselJS)
+* [Paper.js](http://paperjs.org/)
 
 ##### SVG:
 
-* [svg.js](http://svgjs.com/)
-* [Snap.svg](http://snapsvg.io/)
-* [Raphaël](http://raphaeljs.com/)
 * [d3](http://d3js.org/)
+* [Raphaël](http://raphaeljs.com/)
+* [Snap.svg](http://snapsvg.io/)
+* [svg.js](http://svgjs.com/)
 
 ##### Webgl:
 
-* [three.js](http://threejs.org/)
 * [pixi.js](https://github.com/pixijs/pixi.js)
+* [three.js](http://threejs.org/)
 
 
 

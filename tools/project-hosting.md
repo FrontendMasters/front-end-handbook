@@ -1,10 +1,10 @@
 # Project management & code hosting tools
 
-* [Github](https://github.com/) [free to $]
-* [Codebase](https://www.codebasehq.com/) [$]
-* [Bitbucket](https://bitbucket.org) [free to $]
-* [Unfuddle](https://unfuddle.com/) [$]
 * [Assembla](https://www.assembla.com) [free to $]
+* [Bitbucket](https://bitbucket.org) [free to $]
+* [Codebase](https://www.codebasehq.com/) [$]
+* [Github](https://github.com/) [free to $]
+* [Unfuddle](https://unfuddle.com/) [$]
 
 
 
