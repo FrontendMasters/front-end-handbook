@@ -6,15 +6,15 @@
 
 ##### General learning:
 
-* [Introduction to Node.js from Evented Mind](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) [watch][$]
 * [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node) [read]
-* [Node.js Basics](http://teamtreehouse.com/library/nodejs-basics) [watch][$]
+* [Introduction to Node.js](http://www.pluralsight.com/courses/node-intro) [watch][$]
+* [Introduction to Node.js from Evented Mind](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) [watch][$]
 * [io.js and Node.js Next: Getting Started](http://www.pluralsight.com/courses/running-node-applications-io-js) [watch][$]
 * [Learn all the nodes](https://learnallthenodes.com/episodes/1-what-is-nodejs) [watch]
 * [The Node Beginner Book](https://leanpub.com/nodebeginner) [read][$]
-* [Introduction to Node.js](http://www.pluralsight.com/courses/node-intro) [watch][$]
-* [Node.js in Practice](https://www.manning.com/books/node-js-in-practice#downloads) [read][$]
 * [Nodeschool.io](http://nodeschool.io/) [code]
+* [Node.js Basics](http://teamtreehouse.com/library/nodejs-basics) [watch][$]
+* [Node.js in Practice](https://www.manning.com/books/node-js-in-practice#downloads) [read][$]
 
 
 

@@ -1,8 +1,8 @@
 # Collaboration & communication tools
 
-* [Slack](https://slack.com/) & [screenhero](https://screenhero.com/) [free to $]
-* [Skype](http://www.skype.com/) [free to $]
 * [Google Hangouts](https://hangouts.google.com/)
+* [Skype](http://www.skype.com/) [free to $]
+* [Slack](https://slack.com/) & [screenhero](https://screenhero.com/) [free to $]
 
 ##### Code/Github collaboration & communication:
 

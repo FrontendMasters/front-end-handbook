@@ -2,18 +2,18 @@
 
 ##### JS site generators:
 
-* [Metalsmith](http://www.metalsmith.io/)
 * [harp](http://harpjs.com/)
+* [Metalsmith](http://www.metalsmith.io/)
 
 ##### JS blog site generators:
 
-* [hubpress.io](http://hubpress.io/)
 * [Hexo.io](https://hexo.io/)
+* [hubpress.io](http://hubpress.io/)
 
 ##### Site generator listings:
 
-* [staticsitegenerators.net](https://staticsitegenerators.net/)
 * [www.staticgen.com](https://www.staticgen.com/)
+* [staticsitegenerators.net](https://staticsitegenerators.net/)
 
 
 

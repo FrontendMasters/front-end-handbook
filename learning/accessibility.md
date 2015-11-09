@@ -10,18 +10,18 @@
 
 ##### General learning:
 
+* [Foundations of UX: Accessibility](http://www.lynda.com/Web-Accessibility-tutorials/Foundations-UX-Accessibility/156957-2.html)[watch][$]
+* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) [watch]
+* [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) [read]
 * [Universal Design for Web Applications: Web Applications That Reach Everyone](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) [read][$]
 * [Web Accessibility: Getting Started](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
-* [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) [read]
 * [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/) [read][$]
-* [Foundations of UX: Accessibility](http://www.lynda.com/Web-Accessibility-tutorials/Foundations-UX-Accessibility/156957-2.html)[watch][$] 
-* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) [watch]
 
 ##### Standards/specifications:
 
+* [Accessible Rich Internet Applications (WAI-ARIA) Current Status](http://www.w3.org/standards/techs/aria#w3c_all)
 * [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/)
 * [Web Content Accessibility Guidelines (WCAG) Current Status](http://www.w3.org/standards/techs/wcag#w3c_all)
-* [Accessible Rich Internet Applications (WAI-ARIA) Current Status](http://www.w3.org/standards/techs/aria#w3c_all)
 
 
 

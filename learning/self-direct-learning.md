@@ -8,19 +8,19 @@ The author believes that anyone with the right determination and dedication can 
 
 Below are a few video learning outlets (tech focused) I generally recommend pulling content from:
 
-* [Frontend Masters](https://frontendmasters.com/)
-* [pluralsight.com](http://www.pluralsight.com/) [careful, quality varies]
-* [tutsplus.com](https://tutsplus.com/courses)
-* [lynda.com](http://www.lynda.com/) [careful, quality varies]
-* [treehouse](https://teamtreehouse.com/)
-* [mijingo](https://mijingo.com/)
-* [codeschool.com](https://www.codeschool.com/)
-* [laracasts](https://laracasts.com/)
-* [eventedmind.com](https://www.eventedmind.com/)
-* [egghead.io](https://egghead.io/)
 * [codecademy.com](https://codecademy.com)
+* [codeschool.com](https://www.codeschool.com/)
+* [egghead.io](https://egghead.io/)
+* [eventedmind.com](https://www.eventedmind.com/)
+* [Frontend Masters](https://frontendmasters.com/)
+* [lynda.com](http://www.lynda.com/) [careful, quality varies]
+* [mijingo](https://mijingo.com/)
+* [laracasts](https://laracasts.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+* [pluralsight.com](http://www.pluralsight.com/) [careful, quality varies]
 * [Tagtree](http://tagtree.tv/library)
+* [treehouse](https://teamtreehouse.com/)
+* [tutsplus.com](https://tutsplus.com/courses)
 * [Udacity](https://www.udacity.com/courses/web-development) 
 
 

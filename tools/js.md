@@ -2,17 +2,17 @@
 
 ##### JS utilities:
 
-* [lodash](https://lodash.com/)
-* [underscore.js](http://underscorejs.org/)
-* [Moment.js](http://momentjs.com/)
-* [string.js](http://stringjs.com/)
-* [Numeral.js](http://numeraljs.com/)
 * [accounting.js](http://openexchangerates.github.io/accounting.js/)
-* [xregexp.com](http://xregexp.com/)
-* [Math.js](http://mathjs.org/)
-* [wait](https://github.com/elving/wait)
 * [async](https://github.com/caolan/async)
 * [format.js](http://formatjs.io/)
+* [lodash](https://lodash.com/)
+* [Math.js](http://mathjs.org/)
+* [Moment.js](http://momentjs.com/)
+* [Numeral.js](http://numeraljs.com/)
+* [string.js](http://stringjs.com/)
+* [underscore.js](http://underscorejs.org/)
+* [wait](https://github.com/elving/wait)
+* [xregexp.com](http://xregexp.com/)
 
 ##### Transpiling (ESX to ESX):
 
@@ -24,23 +24,23 @@
 
 ##### Linting/hinting:
 
-* [jshint](http://jshint.com/)
 * [eshint](http://eslint.org/)
+* [jshint](http://jshint.com/)
 * [JSLint](http://www.jslint.com/)
     - [jslinterrors.com](http://jslinterrors.com/)
 
 ##### Unit testing:
 
-* [Mocha](http://mochajs.org/)
-* [QUnit](http://qunitjs.com/)
 * [Jasmine](http://jasmine.github.io/)
     - [Jest](http://facebook.github.io/jest/)
+* [Mocha](http://mochajs.org/)
+* [QUnit](http://qunitjs.com/)
 
 ##### Testing assertions for unit testing:
 
-* [should.js](http://shouldjs.github.io/)
 * [Chai](http://chaijs.com/)
 * [expect.js](https://github.com/Automattic/expect.js)
+* [should.js](http://shouldjs.github.io/)
 
 ##### Test spies, stubs, and mocks for unit testing:
 
@@ -52,24 +52,24 @@
 
 ##### Code formater/beautifier:
 
-* [jsfmt](http://rdio.github.io/jsfmt/)
 * [esformatter](https://github.com/millermedeiros/esformatter#esformatterformatstr-optsstring)
 * [js-beautify](http://jsbeautifier.org/)
+* [jsfmt](http://rdio.github.io/jsfmt/)
 
 ##### Performance testing:
 
-* [jsperf](http://jsperf.com/)
 * [benchmark.js](http://benchmarkjs.com/)
+* [jsperf](http://jsperf.com/)
 
 ##### Visualization, static analysis, complexity, coverage tools:
 
-* [jscomplexity.org](http://jscomplexity.org/)
-* [istanbul](https://github.com/gotwarlost/istanbul)
 * [Blanket.js](http://blanketjs.org/)
 * [Coveralls](https://coveralls.io/) [$]
-* [Plato](https://github.com/es-analysis/plato)
 * [escomplex](https://github.com/jared-stilwell/escomplex)
 * [Esprima](http://esprima.org/)
+* [jscomplexity.org](http://jscomplexity.org/)
+* [istanbul](https://github.com/gotwarlost/istanbul)
+* [Plato](https://github.com/es-analysis/plato)
 
 ##### Optimizer:
 
@@ -82,22 +82,22 @@
 
 ##### Sharable/runnable code editors:
 
+* [es6fiddle.net](http://www.es6fiddle.net/)
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
-* [es6fiddle.net](http://www.es6fiddle.net/)
 
 ##### Online Regular expression editors/visual tools:
 
+* [debuggex](https://www.debuggex.com)
 * [regex101](https://regex101.com/)
 * [regexper](http://regexper.com/)
-* [debuggex](https://www.debuggex.com)
 * [RegExr](http://regexr.com/)
 
 ##### Authoring conventions:
 
+* [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
 * [Khan JavaScript Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
-* [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
 
 ##### Trending JS repositories on Github this month:
 

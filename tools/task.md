@@ -2,8 +2,8 @@
 
 ##### Tasking/build tools:
 
-* [Gulp](http://gulpjs.com/)
 * [Grunt](http://gruntjs.com/)
+* [Gulp](http://gulpjs.com/)
 
 ##### Tasking/build and more tools:
 

@@ -10,7 +10,7 @@
 
 Minimally I'd suggest reading the following canonical texts on the matter so one can build proper user interfaces.
 
-* [Designing Interfaces ](http://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/ref=sr_1_1) [read][$]
 * [About Face: The Essentials of Interaction Design](http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571/ref=pd_sim_14_3) [read][$]
+* [Designing Interfaces ](http://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/ref=sr_1_1) [read][$]
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sim_14_2) [read][$]
 

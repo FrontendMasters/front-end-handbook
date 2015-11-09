@@ -7,8 +7,8 @@
 ##### Query tools:
 
 * [DefiantJS](http://www.defiantjs.com/)
-* [ObjectPath](http://objectpath.org/)
 * [JSON Mask](https://github.com/nemtsov/json-mask)
+* [ObjectPath](http://objectpath.org/)
 
 ##### Generating mock JSON tools:
 
@@ -17,10 +17,10 @@
 
 ##### Online JSON mocking API tools:
 
-* [Mocky](http://www.mocky.io/)
 * [FillText.com](http://www.filltext.com/)
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 * [mockable.io](https://www.mockable.io/)
+* [Mocky](http://www.mocky.io/)
 
 ##### Local JSON mocking API tools:
 

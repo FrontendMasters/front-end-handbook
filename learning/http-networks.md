@@ -8,20 +8,20 @@
 
 ##### HTTP
 
+* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://chimera.labs.oreilly.com/books/1230000000545/index.html) [read]
+* [HTTP Fundamentals](http://www.pluralsight.com/courses/xhttp-fund) [watch][$]
 * [HTTP: The Protocol Every Web Developer Must Know - Part 1](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) [read]
 * [HTTP: The Protocol Every Web Developer Must Know - Part 2](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) [read]
-* [HTTP Fundamentals](http://www.pluralsight.com/courses/xhttp-fund) [watch][$]
 * [HTTP Succinctly](http://code.tutsplus.com/series/http-succinctly--net-33683) [read]
-* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://chimera.labs.oreilly.com/books/1230000000545/index.html) [read]
 
 ##### CORS
 
-* [HTTP Status Codes in 60 Seconds](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) [watch]
-* [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) [read]
 * [CORS in Action](https://www.manning.com/books/cors-in-action) [read][$]
+* [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) [read]
+* [HTTP Status Codes in 60 Seconds](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) [watch]
 
 ##### WebSockets
 
+* [Connect the Web With WebSockets](https://code.tutsplus.com/courses/connect-the-web-with-websockets) [watch]
 * [WebSocket: Lightweight Client-Server Communications](http://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/ref=sr_1_1) [read][$]
 * [The WebSocket Protocol](https://tools.ietf.org/html/rfc6455) [read]
-* [Connect the Web With WebSockets](https://code.tutsplus.com/courses/connect-the-web-with-websockets) [watch]
