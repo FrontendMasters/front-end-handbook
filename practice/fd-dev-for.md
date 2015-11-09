@@ -29,7 +29,7 @@ Generally speaking, front-end technologies can run on the aforementioned operati
 
 * A web browser (examples: [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en)) running on an OS.
 * A [headless browser](https://en.wikipedia.org/wiki/Headless_browser) (examples [phantomJS](http://phantomjs.org/)) driven from a CLI running on an OS.
-* A [WebView](http://wiki.awesomium.com/general-use/introduction-to-web-views.html)/browser tab (think iframe) embedded within a native application as a runtime with bridge to native API's. WebView applications typically contain a UI constructed from web technologies. (i.e. HTML, CSS, and JS). (examples: [Apache Cordova](https://cordova.apache.org/), [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/))
+* A [WebView](http://developer.telerik.com/featured/what-is-a-webview/)/browser tab (think iframe) embedded within a native application as a runtime with bridge to native API's. WebView applications typically contain a UI constructed from web technologies. (i.e. HTML, CSS, and JS). (examples: [Apache Cordova](https://cordova.apache.org/), [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/))
 * A native application built from web tech that is interpreted at runtime with a bridge to native API's. The UI will make use of native UI parts (e.g. iOS native controls) not web technologies. (examples: [NativeScript](https://www.nativescript.org/), [React Native](https://facebook.github.io/react-native/))
 
 
