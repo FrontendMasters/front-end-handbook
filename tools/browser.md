@@ -67,9 +67,12 @@
 
 ##### Headless browser automation:
 
+Used for functional testing and monkey testing.
+
 * [casperJS](http://casperjs.org/)
 * [Nightmare](https://github.com/segmentio/nightmare)
 * [nightwatchjs](http://nightwatchjs.org/)
+* [gremlins.js](https://github.com/marmelab/gremlins.js)
 
 ##### Browser hacks:
 
