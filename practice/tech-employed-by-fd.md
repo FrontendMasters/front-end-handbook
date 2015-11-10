@@ -24,13 +24,13 @@ These technologies are defined below with the relevant documentation and specifi
 
 Most relevant specifications / documentation:
 
-* [HTML5 from W3C](http://www.w3.org/TR/html5/) : 5th major revision of the core language of the World Wide Web
-* [The elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
-* [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
 * [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
-* [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+* [The elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
 * [Global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+* [HTML5 from W3C](http://www.w3.org/TR/html5/) : 5th major revision of the core language of the World Wide Web
+* [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+* [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
 
 ##### Cascading Style Sheets (aka CSS)
 
@@ -38,10 +38,10 @@ Most relevant specifications / documentation:
 
 Most relevant specifications / documentation:
 
-* [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://drafts.csswg.org/css2/)
-* [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
 * [All W3C CSS Specifications](http://www.w3.org/Style/CSS/current-work#roadmap)
+* [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://drafts.csswg.org/css2/)
 * [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
 
 ##### Document Object Model (aka DOM)
 
@@ -49,9 +49,9 @@ Most relevant specifications / documentation:
 
 Most relevant specifications / documentation:
 
-* [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
-* [DOM Living Standard](https://dom.spec.whatwg.org/)
 * [Document Object Model (DOM) Level 3 Events Specification](http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/)
+* [DOM Living Standard](https://dom.spec.whatwg.org/)
+* [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
 
 ##### JavaScript Programming Language (aka: ECMAScript 6, ES6, JavaScript 2015)
 
@@ -94,15 +94,15 @@ Most relevant specifications:
 Most relevant specifications:
 
 * [Introducing JSON](http://json.org/)
-* [The JSON Data Interchange Format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 * [JSON API](http://jsonapi.org/)
+* [The JSON Data Interchange Format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 
 ##### Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 
 > Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” (i.e. unassisted) and "indirect access" meaning compatibility with a person's assistive technology (for example, computer screen readers). - wikipedia.org
 
+* [Accessible Rich Internet Applications (WAI-ARIA) Current Status](http://www.w3.org/standards/techs/aria#w3c_all)
 * [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/)
 * [Web Content Accessibility Guidelines (WCAG) Current Status](http://www.w3.org/standards/techs/wcag#w3c_all)
-* [Accessible Rich Internet Applications (WAI-ARIA) Current Status](http://www.w3.org/standards/techs/aria#w3c_all)
 
 
