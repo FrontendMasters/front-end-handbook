@@ -66,7 +66,7 @@
 * [flexplorer](http://bennettfeely.com/flexplorer/)
 * [patternify.com](http://patternify.com)
 * [patternizer.com](http://patternizer.com/)
-* [Ultimate CSS Gradient Generator](Ultimate CSS Gradient Generator)
+* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
 ##### Architecting CSS:
 
