@@ -19,7 +19,12 @@
 * [Rivets.js](http://rivetsjs.com/)
 * [RxJS](https://github.com/Reactive-Extensions/RxJS)
 * [vue.js](http://vuejs.org/)
+* [jquerymy.js](http://jquerymy.com/)
 
+##### Templating to Virtual DOM:
+
+* [JSX](https://facebook.github.io/jsx/)
+* [t7](http://t7js.com/)
 
 
 
