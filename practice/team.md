@@ -11,7 +11,7 @@ A bare bones team for building professional sites or software on the web will mi
 
 The roles are ordered according to overlapping skills. A front-end developer will typically have a good handle on UI/Interaction design as well as back-end development. It is not uncommon for team members to fill more than one role by taking on the responsibilities of an over-lapping role.
 
-It is assumed that the team is being directed by a project lead of some kind of product owner (i.e. stakeholder, project manager, project lead etc...)
+It is assumed that the team mentioned above is being directed by a project lead or some kind of product owner (i.e. stakeholder, project manager, project lead etc...)
 
 A larger web team might include the following roles not shown above:
 

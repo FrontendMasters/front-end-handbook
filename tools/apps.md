@@ -2,12 +2,10 @@
 
 ##### Front-end app frameworks:
 
-* [Ampersand.js](http://ampersandjs.com/)
 * [AngularJS](https://angularjs.org/) & [Batarang](https://github.com/angular/angularjs-batarang)
 * [Aurelia](http://aurelia.io/)
 * [Backbone](http://backbonejs.org/) & [Marionette](http://marionettejs.com/)
 * [Ember](http://emberjs.com/) & [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
-* [Knockout](http://knockoutjs.com/)
 * [Polymer](https://www.polymer-project.org/1.0/) & [Iron Elements](https://elements.polymer-project.org/browse?package=iron-elements) & [Paper Elements](https://elements.polymer-project.org/browse?package=paper-elements)
 * [React](http://facebook.github.io/react/) & [React-router](https://github.com/rackt/react-router) & [Flux](http://facebook.github.io/flux/) & [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Vue.js](http://vuejs.org/) & [vue-loader](https://github.com/vuejs/vue-loader) & [vue-router](https://github.com/vuejs/vue-router)

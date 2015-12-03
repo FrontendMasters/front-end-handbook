@@ -21,7 +21,7 @@ Below are a few video learning outlets (tech focused) I generally recommend pull
 * [Tagtree](http://tagtree.tv/library)
 * [treehouse](https://teamtreehouse.com/)
 * [tutsplus.com](https://tutsplus.com/courses)
-* [Udacity](https://www.udacity.com/courses/web-development) 
+* [Udacity](https://www.udacity.com/courses/web-development) [careful, quality varies]
 
 
 

@@ -25,7 +25,7 @@ The most common headless browsers are:
 * [slimerjs](http://slimerjs.org/)
 * [trifleJS](http://triflejs.org/)
 
-[Webviews](http://developer.telerik.com/featured/what-is-a-webview/) are used by a native OS to run web pages. Think of a [webview](http://developer.telerik.com/featured/what-is-a-webview/) like an iframe or a single tab from a web browser that is embedded in a native application running on a device.
+[Webviews](http://developer.telerik.com/featured/what-is-a-webview/) are used by a native OS, in a native application, to run web pages. Think of a [webview](http://developer.telerik.com/featured/what-is-a-webview/) like an iframe or a single tab from a web browser that is embedded in a native application running on a device (e.g. [iOS](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/), [android](http://developer.android.com/reference/android/webkit/WebView.html), [windows](https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.controls.webview.aspx)).
 
 The most common solutions for [webview](http://developer.telerik.com/featured/what-is-a-webview/) development are:
 
