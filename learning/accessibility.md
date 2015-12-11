@@ -10,7 +10,7 @@
 
 ##### General learning:
 
-* [Foundations of UX: Accessibility](http://www.lynda.com/Web-Accessibility-tutorials/Foundations-UX-Accessibility/156957-2.html)[watch][$]
+* [Foundations of UX: Accessibility](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) [watch][$]
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) [watch]
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) [read]
 * [Universal Design for Web Applications: Web Applications That Reach Everyone](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) [read][$]
