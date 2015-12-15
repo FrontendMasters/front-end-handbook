@@ -1,6 +1,6 @@
 # Learn Interface/API design
 
-##### Data (most likly JSON) API's
+##### Data (most likely JSON) API's
 
 * [Build APIs You Won't Hate](http://apisyouwonthate.com/) [$][read]
 * [JSON API ](http://jsonapi.org/) [read]
@@ -53,7 +53,7 @@
 
 
 
- 
+
 
 
 

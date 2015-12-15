@@ -31,7 +31,7 @@
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
 * [JavaScript the Good Parts](https://frontendmasters.com/courses/javascript-the-good-parts/) [watch][$]
 * [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
-* [JavaScript Regular Expression Enlightenment](JavaScript Regular Expression Enlightenment) [read]
+* [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
 * [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
 * [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
 * [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) [read]
@@ -68,7 +68,7 @@
 * [JavaScript Kicks](http://javascriptkicks.com/)
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
-* [javascript.com](https://www.javascript.com/news)
+* [JavaScript.com](https://www.javascript.com/news)
 
 
 
@@ -91,7 +91,7 @@
 
 
 
- 
+
 
 
 
