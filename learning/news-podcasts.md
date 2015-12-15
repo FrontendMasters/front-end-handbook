@@ -32,7 +32,7 @@
 * [JavaScript Kicks](http://javascriptkicks.com/)
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
-* [javascript.com](https://www.javascript.com/news)
+* [JavaScript.com](https://www.javascript.com/news)
 
 ##### Graphic and Animation Newsletters and Podcasts
 
@@ -59,7 +59,7 @@
 
 
 
- 
+
 
 
 

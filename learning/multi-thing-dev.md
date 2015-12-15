@@ -20,7 +20,7 @@ A site or application can run on a wide range of computers, laptops, tablets and
 * [Mobile Web Development](https://www.udacity.com/course/mobile-web-development--cs256) [watch]
 * [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) [watch][$]
 * [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) [watch]
-* [Responsive Typography](https://app.pluralsight.com/library/courses/responsive-typography/table-of-contents) [watch][$]
+* [Responsive Typography](https://www.pluralsight.com/courses/responsive-typography) [watch][$]
 * [Responsive Web Design](https://frontendmasters.com/courses/responsive-web-design/) [watch][$]
 * [Responsive Web Design Fundamentals](https://www.udacity.com/courses/web-development) [watch]
 
@@ -44,7 +44,7 @@ A site or application can run on a wide range of computers, laptops, tablets and
 
 
 
- 
+
 
 
 

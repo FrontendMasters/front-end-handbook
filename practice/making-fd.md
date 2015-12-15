@@ -4,7 +4,7 @@
 
 <cite>image source: <a href="http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg">http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg</a></cite>
 
-How exactly does one become a front-end developer? Well, it's complicated. Still today you can't go to college and expect to graduate with a degree in front-end engineering. And, I rarely hear of or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphic design degree to end up writing HTML, CSS, and JavaScript professionally. In fact, most of the people working on the front-end, even today, generally seem to be self taught and not traditionally trained as a programmer. Why is this the case? 
+How exactly does one become a front-end developer? Well, it's complicated. Still today you can't go to college and expect to graduate with a degree in front-end engineering. And, I rarely hear of or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphic design degree to end up writing HTML, CSS, and JavaScript professionally. In fact, most of the people working on the front-end, even today, generally seem to be self taught and not traditionally trained as a programmer. Why is this the case?
 
 A front-end developer is not a focused visual designer or an interaction designer. Design school is not exactly the place to hone front-end skills. A front-end developer is not exactly a traditionally trained computer science graduate either. Focusing on either doesn't prepare a person for front-end development. And, in fact, following the traditional paths for either in the higher education systems of America (i.e. College) can derail a person from potentially finding a doorway into a practice where actual experience is king. Today, if you want to be a front-end developer, you teach yourself or you take what is likely a non accredited program, course, bootcamp, or class.
 
@@ -27,7 +27,7 @@ If you were to set out today to become a front-end developer I would loosely str
 
 Where you actually stop in the process is what will separate a front-end HTML/CSS developer from an expert level front-end application/JavaScript developer.
 
-A short word of advice on learning. Learn the actual underlying technologies, before learning abstractions. Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn HAML, learn HTML. Don't learn coffeeScript, learn JavaScript. Don't learn Handlebars, learn JavaScript ES6 templates. Don't just use Bootstrap, learn UI patterns. When getting your start, you should fear most things that conceal complexity. Abstracts in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
+A short word of advice on learning. Learn the actual underlying technologies, before learning abstractions. Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn HAML, learn HTML. Don't learn CoffeeScript, learn JavaScript. Don't learn Handlebars, learn JavaScript ES6 templates. Don't just use Bootstrap, learn UI patterns. When getting your start, you should fear most things that conceal complexity. Abstracts in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
 
 The rest of this book points a reader to the resources and tools to follow my previously suggested process. It is assumed that you are not only learning, but also doing as you learn and investigate tools. Some suggest only doing. While others suggest only learning about doing. I suggest you find a mix of both that matches how your brain works and do that. But, for sure, it is a mix! So, don't just read about it, do it. Learn, do. Learn, do. Repeat indefinitely because things change fast. This is why learning the fundamentals, and not abstractions, are so important.
 
@@ -77,7 +77,7 @@ If you want to get started immediately I'd suggest the following general overvie
 
 
 
- 
+
 
 
 

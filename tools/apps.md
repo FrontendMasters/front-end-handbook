@@ -14,9 +14,9 @@
 
 * [Hood.ie](http://hood.ie/intro/)
 * [MEAN](http://meanjs.org/) (i.e. MongoDB, Express, AngularJS, and Node.js.)
-* [Meteor](https://www.meteor.com/) 
+* [Meteor](https://www.meteor.com/)
 
-##### Mobile web ui/site/app frameworks 
+##### Mobile web ui/site/app frameworks
 
 These solutions can be used anywhere including in a webview (i.e. web platform and browser engine) app:
 
@@ -27,7 +27,7 @@ These solutions can be used anywhere including in a webview (i.e. web platform a
 
 ##### Native Hybrid mobile webview (i.e. browser engine driven) frameworks:
 
-These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as bridge to native api's.
+These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as bridge to native API's.
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
@@ -36,13 +36,13 @@ These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk]
 
 These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as bridge to native api's.
 
-* [Adobe PhoneGap](http://phonegap.com/) [$] 
+* [Adobe PhoneGap](http://phonegap.com/) [$]
 * [AppBuilder](http://www.telerik.com/appbuilder) [$]
 * [cocoon.io](https://cocoon.io) [free to $]
 * [ionic hub](http://ionic.io/) [free to $]
 * [kony](http://www.kony.com/products/mobility-platform) [$]
 * [manifoldJS](http://manifoldjs.com/)
-* [Monaca](https://monaca.io/) [$] 
+* [Monaca](https://monaca.io/) [$]
 * [Taco](http://taco.tools/)
 
 ##### Native desktop webview (i.e. browser engine driven) app frameworks:
@@ -108,7 +108,7 @@ These solutions use a JS engine at runtime to inerput JS and bridget that to nat
 
 
 
- 
+
 
 
 

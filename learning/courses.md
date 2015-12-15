@@ -14,7 +14,7 @@ If you can't afford a directed education, a self directed education using screen
             <th data-field="remote">remote</th>
         </tr>
     </thead>
-    <tbody>     
+    <tbody>
         <tr>
             <td>Austin Coding Academy</td>
             <td><a target="_blank" href="http://www.austincodingacademy.com/front-end/">The Front End Track</a></td>
@@ -35,7 +35,7 @@ If you can't afford a directed education, a self directed education using screen
             <td>4,999</td>
             <td></td>
             <td>yes</td>
-        </tr>   
+        </tr>
         <tr>
             <td>Codeup</td>
             <td><a target="_blank" href="http://codeup.com/night-bootcamp/">Night Front-End Bootcamp</a></td>
@@ -72,13 +72,6 @@ If you can't afford a directed education, a self directed education using screen
             <td></td>
         </tr>
         <tr>
-            <td>gr8code</td>
-            <td><a target="_blank" href="https://gr8code.com/our-programs/front-end-bootcamp/">Front-End Bootcamp</a></td>
-            <td>10,000</td>
-            <td>Tampa, FL</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>Hackbright Academy</td>
             <td><a target="_blank" href="http://hackbrightacademy.com/courses/front-end-web-development/">Front-End Web Development</a></td>
             <td>3,000</td>
@@ -105,14 +98,14 @@ If you can't afford a directed education, a self directed education using screen
             <td>2,500</td>
             <td>Irvine, CA</td>
             <td></td>
-        </tr>  
+        </tr>
         <tr>
             <td>The New York Code + Design Academy</td>
             <td><a target="_blank" href="http://nycda.com/classes/front-end-101/">Front End 101</a></td>
             <td>2,000</td>
             <td>New York, NY</td>
             <td></td>
-        </tr>   
+        </tr>
         <tr>
             <td>Portland Code School</td>
             <td><a target="_blank" href="http://www.portlandcodeschool.com/advancedfe/">Advanced Front-end Developer Tools</a></td>

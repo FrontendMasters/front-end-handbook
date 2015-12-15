@@ -8,6 +8,7 @@
 * [Mustache.js](https://github.com/janl/mustache.js)
 * [Nunjuncks](http://mozilla.github.io/nunjucks/)
 * [Transparency](http://leonidas.github.io/transparency/)
+* [Hogan.js](http://twitter.github.io/hogan.js/)
 
 ##### Templating and reactive data binding:
 
@@ -61,7 +62,7 @@
 
 
 
- 
+
 
 
 

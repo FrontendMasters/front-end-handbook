@@ -17,7 +17,7 @@
 * [Snap.svg](http://snapsvg.io/)
 * [svg.js](http://svgjs.com/)
 
-##### Webgl:
+##### WebGL:
 
 * [pixi.js](https://github.com/pixijs/pixi.js)
 * [three.js](http://threejs.org/)
@@ -60,7 +60,7 @@
 
 
 
- 
+
 
 
 
