@@ -4,6 +4,7 @@
 
 * [accounting.js](http://openexchangerates.github.io/accounting.js/)
 * [async](https://github.com/caolan/async)
+* [Chance](http://chancejs.com/)
 * [format.js](http://formatjs.io/)
 * [lodash](https://lodash.com/)
 * [Math.js](http://mathjs.org/)
