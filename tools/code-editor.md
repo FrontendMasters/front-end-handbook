@@ -40,7 +40,13 @@ Here are some resources for learning Sublime:
 * [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) [watch][$]
 * [Sublime Text Power User Book](https://sublimetextbook.com/) [read + watch][$]
 
-If you need a free alternative to Sublime (cost $70) you might consider [atom](https://atom.io/) or [brackets](http://brackets.io/).
+##### Code editors:
+
+* [Atom](https://atom.io/)
+* [Brackets](http://brackets.io/)
+* [Sublime Text](http://www.sublimetext.com/) [$]
+* [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) [$]
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 ##### Online code editors:
 
