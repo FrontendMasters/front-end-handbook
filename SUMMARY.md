@@ -49,7 +49,7 @@
         * [Learn security](learning/security.md)
         * [Learn multi-thing dev (e.g. RWD)](learning/multi-thing-dev.md)
     * [Directed learning](learning/direct-learning.md)
-    	* [front-end schools, courses, & bootcamps](learning/courses.md)
+    	* [Front-end schools, courses, & bootcamps](learning/courses.md)
     * [Front-end devs to learn from](learning/learn-from.md)
     * [Newsletters, news, & podcasts](learning/news-podcasts.md)
 * [Part III: Front-end dev tools](tools.md)
