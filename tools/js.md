@@ -14,6 +14,7 @@
 * [underscore.js](http://underscorejs.org/)
 * [wait](https://github.com/elving/wait)
 * [xregexp.com](http://xregexp.com/)
+* [is.js](http://arasatasaygin.github.io/is.js/)
 
 ##### Transpiling (ESX to ESX):
 
