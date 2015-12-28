@@ -1,4 +1,4 @@
-# App (desktop, mobile, tablet etc..) tools
+# App (desktop, mobile, tablet, etc..) tools
 
 ##### Front-end app frameworks:
 
@@ -16,7 +16,7 @@
 * [MEAN](http://meanjs.org/) (i.e. MongoDB, Express, AngularJS, and Node.js.)
 * [Meteor](https://www.meteor.com/)
 
-##### Mobile web ui/site/app frameworks
+##### Mobile web UI/site/app frameworks
 
 These solutions can be used anywhere including in a webview (i.e. web platform and browser engine) app:
 
@@ -27,14 +27,14 @@ These solutions can be used anywhere including in a webview (i.e. web platform a
 
 ##### Native Hybrid mobile webview (i.e. browser engine driven) frameworks:
 
-These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as bridge to native API's.
+These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native API's.
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
 ##### Native Hybrid mobile development webview (i.e. browser engine driven) environments/platforms/tools:
 
-These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as bridge to native api's.
+These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native API's.
 
 * [Adobe PhoneGap](http://phonegap.com/) [$]
 * [AppBuilder](http://www.telerik.com/appbuilder) [$]
@@ -52,7 +52,7 @@ These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk]
 
 ##### Native mobile app frameworks (aka JavaScript Native apps)
 
-These solutions use a JS engine at runtime to inerput JS and bridget that to native api's. No browser engine or webview is used. The ui is constructed from native UI components.
+These solutions use a JS engine at runtime to interpret JS and bridge that to native api's. No browser engine or webview is used. The UI is constructed from native UI components.
 
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)
