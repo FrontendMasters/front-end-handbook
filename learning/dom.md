@@ -32,7 +32,7 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 * [MDN Browser Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 * [MDN Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
-* [msdn Document Object Model (DOM)](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
+* [MSDN Document Object Model (DOM)](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
 
 ##### Standards/specifications:
 

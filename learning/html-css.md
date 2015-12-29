@@ -26,8 +26,8 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 
 ##### Mastering:
 
-* [atozcss.com/](http://www.atozcss.com/) [watch]
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) [read]
+* [atozcss.com/](http://www.atozcss.com/) [watch]
 * [CSS Diner](http://flukeout.github.io/) [interact]
 * [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/) [read]
 * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
