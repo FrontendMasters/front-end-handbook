@@ -15,11 +15,13 @@
 * [JavaScript Modules](http://jsmodules.io/cjs.html) [read]
 * [JavaScript Patterns](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) [read][$]
 * [JS.Next: ES6](https://frontendmasters.com/courses/jsnext-es6/) [watch][$]
+* [Setting up ES6](https://leanpub.com/setting-up-es6)
 * [The Principles of Object-Oriented JavaScript](http://www.amazon.com/gp/product/1593275404/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593275404&linkCode=as2&tag=fronenddevejo-20&linkId=NQTZVDOIMJRGMAQM) [read][$]
 * [Professional JavaScript for Web Developers](http://www.amazon.com/gp/product/1118026691/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1118026691&linkCode=as2&tag=fronenddevejo-20&linkId=3ECZAIHNX6Z4FTME) [read][$]
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html) [read]
 * [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) [read]
 * [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) [read]
+*
 
 ##### Mastering:
 
