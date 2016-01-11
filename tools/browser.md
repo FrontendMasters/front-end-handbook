@@ -1,6 +1,6 @@
 # Browser Tools
 
-##### JS browser utilities:
+##### JS browser coding utilities:
 
 * [history.js](https://github.com/browserstate/history.js)
 * [html2canvas](https://github.com/niklasvh/html2canvas)
@@ -42,6 +42,7 @@
 
 * [ES Feature Tests](https://featuretests.io/)
 * [Modernizr](https://modernizr.com/)
+* [feature.js](http://featurejs.com/)
 
 ##### Broad browser polyfills/shims:
 
