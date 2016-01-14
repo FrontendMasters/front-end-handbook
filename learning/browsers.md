@@ -14,7 +14,7 @@
 
 <cite>image source: <a href="http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar">http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar</a></cite>
 
-##### Evolution of browsers & web technologies (i.e. API's)
+##### Evolution of browsers & web technologies (i.e. APIs)
 
 * [www.evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [read]
 * [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) [read]
