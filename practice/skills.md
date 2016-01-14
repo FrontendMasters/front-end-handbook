@@ -32,7 +32,7 @@ Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-en
 * MVC / MVVM / MV* 
 * Functional Programming
 * Data Formats (e.g. JSON, XML)
-* Data API's (e.g Restful API)
+* Data APIs (e.g Restful API)
 * Web Font Embedding
 * Scalable Vector Graphics (aka SVG)
 * Regular Expressions

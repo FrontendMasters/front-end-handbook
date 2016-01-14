@@ -27,14 +27,14 @@ These solutions can be used anywhere including in a webview (i.e. web platform a
 
 ##### Native Hybrid mobile webview (i.e. browser engine driven) frameworks:
 
-These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native API's.
+These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native APIs.
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
 ##### Native Hybrid mobile development webview (i.e. browser engine driven) environments/platforms/tools:
 
-These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native API's.
+These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native APIs.
 
 * [Adobe PhoneGap](http://phonegap.com/) [$]
 * [AppBuilder](http://www.telerik.com/appbuilder) [$]
@@ -52,7 +52,7 @@ These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk
 
 ##### Native mobile app frameworks (aka JavaScript Native apps)
 
-These solutions use a JS engine at runtime to interpret JS and bridge that to native api's. No browser engine or webview is used. The UI is constructed from native UI components.
+These solutions use a JS engine at runtime to interpret JS and bridge that to native APIs. No browser engine or webview is used. The UI is constructed from native UI components.
 
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)

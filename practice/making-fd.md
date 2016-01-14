@@ -14,12 +14,12 @@ With all of that said, I believe that the path to a career as a front-end develo
 
 If you were to set out today to become a front-end developer I would loosely strive to follow the process outlined below. The process assumes you are your own best teacher.
 
-1. Learn, roughly, how the web works. Make sure you know the "what" and "where" of Domains, DNS, URL's, HTTP, networks, browsers, servers/hosting, databases, JSON, data API's, HTML, CSS, DOM, and JavaScript. The goal is to make sure you loosely know how it all works together and exactly what each part is doing. Focus on the high level outlines for front-end architectures. Start with simple web pages and briefly study [native web applications (aka SPA's)](https://blog.andyet.com/2015/01/22/native-web-apps).
+1. Learn, roughly, how the web works. Make sure you know the "what" and "where" of Domains, DNS, URLs, HTTP, networks, browsers, servers/hosting, databases, JSON, data APIs, HTML, CSS, DOM, and JavaScript. The goal is to make sure you loosely know how it all works together and exactly what each part is doing. Focus on the high level outlines for front-end architectures. Start with simple web pages and briefly study [native web applications (aka SPAs)](https://blog.andyet.com/2015/01/22/native-web-apps).
 2. Learn HTML, CSS, Accessibility, and SEO.
 3. Learn the fundamentals of UI design patterns, interaction design, user experience design, and usability.
 4. Learn the fundamentals of programming
 5. Learn JavaScript
-6. Learn JSON and data API's
+6. Learn JSON and data APIs
 7. Learn CLI/command line
 8. Learn the practice of software engineering (i.e. Application design/architecture, templates, Git, testing, monitoring, automating, code quality, development methodologies).
 9. Get opinionated and customize your tool box with whatever makes sense to your brain.
