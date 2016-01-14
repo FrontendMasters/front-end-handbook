@@ -68,6 +68,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 ##### Authoring conventions:
 
 * [cssguidelin.es](http://cssguidelin.es/) [read]
+* [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 * [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
 * [Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]

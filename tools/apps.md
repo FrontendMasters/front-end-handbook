@@ -62,6 +62,7 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 ##### References:
 
 * [todomvc.com](http://todomvc.com/)
+* [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
 ##### App seeds/starters/boilerplates:
 

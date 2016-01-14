@@ -4,6 +4,7 @@
 * [Building Modern Single-Page Web Applications](https://frontendmasters.com/workshops/web-apps/) [watch][$]
 * [Eloquent JavaScript: modules](http://eloquentjavascript.net/10_modules.html) [read]
 * [A field guide to static apps](http://www.staticapps.org/) [read]
+* [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) [read]
 * [Field Guide to Web Applications](http://www.html5rocks.com/webappfieldguide/toc/index/) [read]
 * [Human JavaScript](http://read.humanjavascript.com/) [read]
 * [JavaScript Application Design](https://www.manning.com/books/javascript-application-design?a_aid=go&a_bid=e6de0d9d) [read][$]
