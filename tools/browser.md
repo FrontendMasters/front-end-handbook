@@ -41,8 +41,8 @@
 ##### Browser coding tools to determine if X browser supports X:
 
 * [ES Feature Tests](https://featuretests.io/)
-* [Modernizr](https://modernizr.com/)
 * [feature.js](http://featurejs.com/)
+* [Modernizr](https://modernizr.com/)
 
 ##### Broad browser polyfills/shims:
 
