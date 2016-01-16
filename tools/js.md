@@ -6,6 +6,7 @@
 * [async](https://github.com/caolan/async)
 * [Chance](http://chancejs.com/)
 * [format.js](http://formatjs.io/)
+* [is.js](http://arasatasaygin.github.io/is.js/)
 * [lodash](https://lodash.com/)
 * [Math.js](http://mathjs.org/)
 * [Moment.js](http://momentjs.com/)
@@ -14,7 +15,6 @@
 * [underscore.js](http://underscorejs.org/)
 * [wait](https://github.com/elving/wait)
 * [xregexp.com](http://xregexp.com/)
-* [is.js](http://arasatasaygin.github.io/is.js/)
 
 ##### Transpiling (ESX to ESX):
 
