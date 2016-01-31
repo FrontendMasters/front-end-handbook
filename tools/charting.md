@@ -1,6 +1,6 @@
-# Data visualization (e.g. charts) tools
+# Data Visualization (e.g. Charts) Tools
 
-##### JS libraries:
+##### JS Libraries:
 
 * [d3](http://d3js.org/)
 * [sigmajs](http://sigmajs.org/)

@@ -1,6 +1,6 @@
 # DOM Tools
 
-##### DOM libraries/frameworks:
+##### DOM Libraries/Frameworks:
 
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/)
 * [jQuery](http://jquery.com/)
@@ -8,7 +8,7 @@
 * [tether.io](http://tether.io/docs/welcome/)
 * [Zepto.js](http://zeptojs.com/)
 
-##### DOM performance tools:
+##### DOM Performance Tools:
 
 * [DOMMonster](http://mir.aculo.us/dom-monster/)
 
@@ -20,7 +20,7 @@
 * [HTML Interfaces Browser Support](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [MDN Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
-##### DOM polyfills/shims:
+##### DOM Polyfills/Shims:
 
 * [dom-shims](https://github.com/necolas/dom-shims)
 * [Pointer Events Polyfill: a unified event system for the web platform](https://github.com/jquery/PEP)

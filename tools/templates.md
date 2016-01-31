@@ -1,4 +1,4 @@
-# Templating tools
+# Templating Tools
 
 ##### Just Templating:
 
@@ -10,7 +10,7 @@
 * [Nunjuncks](http://mozilla.github.io/nunjucks/)
 * [Transparency](http://leonidas.github.io/transparency/)
 
-##### Templating and reactive data binding:
+##### Templating and Reactive Data Binding:
 
 * [jquerymy.js](http://jquerymy.com/)
 * [knockout](http://knockoutjs.com/index.html)

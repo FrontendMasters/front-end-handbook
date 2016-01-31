@@ -2,7 +2,7 @@
 
 > JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded. - wikipedia.org
 
-##### General learning:
+##### General Learning:
 
 * [codecademy.com JavaScript](https://www.codecademy.com/en/tracks/javascript) [interact]
 * [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) [watch]
@@ -42,17 +42,17 @@
 * [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
 * [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) [read]
 
-##### References/docs:
+##### References/Docs:
 
 * [MDN JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-##### Glossary/encyclopedia/jargon:
+##### Glossary/Encyclopedia/Jargon:
 
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
 * [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
 
-##### Standards/specifications:
+##### Standards/Specifications:
 
 * [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/)
 * [Status, process, and documents for ECMA262](https://github.com/tc39/ecma262)
@@ -63,11 +63,11 @@
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
-##### JavaScript newsletters, news, &amp; podcasts:
+##### JavaScript Newsletters, News, &amp; Podcasts:
 
 * [Echo JS](http://www.echojs.com/)
 * [FiveJS](https://fivejs.codeschool.com/)
-* [Javascript Jabber](https://devchat.tv/js-jabber/)
+* [Javacript Jabber](https://devchat.tv/js-jabber/)
 * [JavaScript Kicks](http://javascriptkicks.com/)
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)

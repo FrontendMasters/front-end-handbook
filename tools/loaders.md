@@ -1,4 +1,4 @@
-# Module/package loading tools 
+# Module/Package Loading Tools 
 
 * [Browserify](http://browserify.org/)
 * [rollup.js](http://rollupjs.org/)

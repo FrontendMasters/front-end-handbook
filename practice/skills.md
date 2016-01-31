@@ -1,4 +1,4 @@
-# Front-end dev skills
+# Front-End Dev Skills
 
 ![](../images/front-end-skills.png "http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html")
 

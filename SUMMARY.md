@@ -1,7 +1,7 @@
 # Summary
 
 * [What is a front-end developer?](what-is-a-FD.md)
-* [Part I: The front-end practice](practice.md)
+* [Part I: The Front-End Practice](practice.md)
 	* [Front-end jobs titles](practice/types-of-front-end-dev.md)
     * [Common web tech employed](practice/tech-employed-by-fd.md)
 	* [Front-end dev skills](practice/skills.md)
@@ -13,7 +13,7 @@
 	* [Front-end job boards](practice/jobboards.md)
 	* [Front-end salaries](practice/salaries.md)
     * [How FDs are made](practice/making-fd.md)
-* [Part II: Learning front-end dev](learning.md)
+* [Part II: Learning Front-End Dev](learning.md)
     * [Self directed learning](learning/self-direct-learning.md)
         * [Learn internet/web](learning/internet.md)
     	* [Learn web browsers](learning/browsers.md)
@@ -52,7 +52,7 @@
     	* [Front-end schools, courses, & bootcamps](learning/courses.md)
     * [Front-end devs to learn from](learning/learn-from.md)
     * [Newsletters, news, & podcasts](learning/news-podcasts.md)
-* [Part III: Front-end dev tools](tools.md)
+* [Part III: Front-End Dev Tools](tools.md)
     * [General front-end dev tools](tools/general-tools.md)
     * [Doc/API browsing tools](tools/browsedocs.md)
     * [SEO tools](tools/seo.md)

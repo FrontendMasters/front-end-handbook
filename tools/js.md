@@ -1,6 +1,6 @@
 # JavaScript Tools
 
-##### JS utilities:
+##### JS Utilities:
 
 * [accounting.js](http://openexchangerates.github.io/accounting.js/)
 * [async](https://github.com/caolan/async)
@@ -20,50 +20,50 @@
 
 * [Babel](https://babeljs.io/)
 
-##### JavaScript compatibility checker:
+##### JavaScript Compatibility Checker:
 
 * [http://jscc.info/](http://jscc.info/)
 
-##### Linting/hinting:
+##### Linting/Hinting:
 
 * [eshint](http://eslint.org/)
 * [jshint](http://jshint.com/)
 * [JSLint](http://www.jslint.com/)
     - [jslinterrors.com](http://jslinterrors.com/)
 
-##### Unit testing:
+##### Unit Testing:
 
 * [Jasmine](http://jasmine.github.io/)
     - [Jest](http://facebook.github.io/jest/)
 * [Mocha](http://mochajs.org/)
 * [QUnit](http://qunitjs.com/)
 
-##### Testing assertions for unit testing:
+##### Testing Assertions for Unit Testing:
 
 * [Chai](http://chaijs.com/)
 * [expect.js](https://github.com/Automattic/expect.js)
 * [should.js](http://shouldjs.github.io/)
 
-##### Test spies, stubs, and mocks for unit testing:
+##### Test Spies, Stubs, and Mocks for Unit Testing:
 
 * [sinon.js](http://sinonjs.org/)
 
-##### Code style linter:
+##### Code Style Linter:
 
 * [JSCS](http://jscs.info/)
 
-##### Code formater/beautifier:
+##### Code Formater/Beautifier:
 
 * [esformatter](https://github.com/millermedeiros/esformatter#esformatterformatstr-optsstring)
 * [js-beautify](http://jsbeautifier.org/)
 * [jsfmt](http://rdio.github.io/jsfmt/)
 
-##### Performance testing:
+##### Performance Testing:
 
 * [benchmark.js](http://benchmarkjs.com/)
 * [jsperf](http://jsperf.com/)
 
-##### Visualization, static analysis, complexity, coverage tools:
+##### Visualization, Static Analysis, Complexity, Coverage Tools:
 
 * [Blanket.js](http://blanketjs.org/)
 * [Coveralls](https://coveralls.io/) [$]
@@ -82,30 +82,30 @@
 * [Javascript Obfuscator](http://www.javascriptobfuscator.com/) [free to $]
 * [JScrambler](https://jscrambler.com/) [$]
 
-##### Sharable/runnable code editors:
+##### Sharable/Runnable Code Editors:
 
 * [es6fiddle.net](http://www.es6fiddle.net/)
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
 
-##### Online Regular expression editors/visual tools:
+##### Online Regular Expression Editors/Visual Tools:
 
 * [debuggex](https://www.debuggex.com)
 * [regex101](https://regex101.com/)
 * [regexper](http://regexper.com/)
 * [RegExr](http://regexr.com/)
 
-##### Authoring conventions:
+##### Authoring Conventions:
 
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
 * [Khan JavaScript Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
-##### Trending JS repositories on Github this month:
+##### Trending JS Repositories on GitHub This Month:
 
 [https://github.com/trending?l=javascript&since=monthly](https://github.com/trending?l=javascript&since=monthly)
 
-##### Most depended upon packages on NPM:
+##### Most Depended upon Packages on NPM:
 
 [https://www.npmjs.com/browse/depended](https://www.npmjs.com/browse/depended)
 

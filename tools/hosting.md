@@ -1,4 +1,4 @@
-# Web/cloud/static hosting tools
+# Web/Cloud/Static Hosting Tools
 
 * [AWS](https://aws.amazon.com/websites/) [$]
 * [DigitalOcean](https://digitalocean.com) [$]

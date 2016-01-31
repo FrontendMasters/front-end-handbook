@@ -1,4 +1,4 @@
-# Front-end data storage tools
+# Front-End Data Storage Tools
 
 * [AlaSQL](http://alasql.org/)
 * [Dexie.js](http://www.dexie.org/)

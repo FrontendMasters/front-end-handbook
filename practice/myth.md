@@ -1,4 +1,4 @@
-# Generalist myth
+# Generalist Myth
 
 ![](../images/full-stack.jpg "http://andyshora.com/full-stack-developers.html")
 

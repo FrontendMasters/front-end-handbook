@@ -1,4 +1,4 @@
-# Directed learning
+# Directed Learning
 
 The table below contains instructor led, paid, front-end courses, programs, schools, and bootcamps.
 

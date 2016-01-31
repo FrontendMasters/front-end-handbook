@@ -1,4 +1,4 @@
-# Offline tools
+# Offline Tools
 
 * [hood.ie](http://hood.ie/)
 * [offline.js](http://github.hubspot.com/offline/docs/welcome/)

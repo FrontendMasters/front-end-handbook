@@ -1,4 +1,4 @@
-# Learn front-end application architecture
+# Learn Front-End Application Architecture
 
 * [Build an App with React and Ampersand](http://learn.humanjavascript.com/react-ampersand) [watch][$]
 * [Building Modern Single-Page Web Applications](https://frontendmasters.com/workshops/web-apps/) [watch][$]

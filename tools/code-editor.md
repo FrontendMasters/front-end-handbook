@@ -40,7 +40,7 @@ Here are some resources for learning Sublime:
 * [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) [watch][$]
 * [Sublime Text Power User Book](https://sublimetextbook.com/) [read + watch][$]
 
-##### Code editors:
+##### Code Editors:
 
 * [Atom](https://atom.io/)
 * [Brackets](http://brackets.io/)
@@ -48,13 +48,13 @@ Here are some resources for learning Sublime:
 * [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) [$]
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-##### Online code editors:
+##### Online Code Editors:
 
 * [Cloud9](https://c9.io) [free to $]
 * [codeanywhere](https://codeanywhere.com) [free to $]
 * [Koding](https://koding.com) [free to $]
 
-##### Sharable/runnable code editors:
+##### Sharable/Runnable Code Editors:
 
 Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to small amounts of immediately runnable code in a web browser.
 

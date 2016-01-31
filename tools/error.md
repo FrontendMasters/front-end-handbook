@@ -1,4 +1,4 @@
-# JavaScript error reporting/monitoring
+# JavaScript Error Reporting/Monitoring
 
 * [errorception](https://errorception.com/) [$]
 * [Raygun](https://raygun.io) [$]

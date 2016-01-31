@@ -1,6 +1,6 @@
-# Learn general front-end development
+# Learn General Front-End Development
 
-##### General learning:
+##### General Learning:
 
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) [read]
 * [Being a web developer](http://www.yellowshoe.com.au/standards) [read]
@@ -21,7 +21,7 @@
 * [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
 * [Web Fundamentals](https://developers.google.com/web/fundamentals) [read]
 
-##### General front-end newsletters, news outlets, &amp; podcasts:
+##### General Front-End Newsletters, News Outlets, &amp; Podcasts:
 
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)

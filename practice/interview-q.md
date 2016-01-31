@@ -1,4 +1,4 @@
-# Front-end interviews
+# Front-End Interviews
 
 Questions you may get asked:
 

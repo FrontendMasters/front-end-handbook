@@ -1,6 +1,6 @@
 # CSS Tools
 
-##### Desktop & mobile CSS frameworks:
+##### Desktop & Mobile CSS Frameworks:
 
 * [Base](http://getbase.org/)
 * [Bootstrap](http://getbootstrap.com/)
@@ -12,11 +12,11 @@
 * [Pure.css](http://purecss.io/)
 * [Semantic UI](http://semantic-ui.com/)
 
-##### Mobile only CSS frameworks:
+##### Mobile Only CSS Frameworks:
 
 * [Ratchet](http://goratchet.com/)
 
-##### CSS reset:
+##### CSS Reset:
 
 > A CSS Reset (or “Reset CSS”) is a short, often compressed (minified) set of CSS rules that resets the styling of all HTML elements to a consistent baseline. - [http://cssreset.com/](http://cssreset.com/what-is-a-css-reset/)
 
@@ -41,12 +41,12 @@
 * [MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [overapi.com CSS cheatsheet](http://overapi.com/css/)
 
-##### Linting/hinting:
+##### Linting/Hinting:
 
 * [CSS Lint](http://csslint.net/)
 * [stylelint](http://stylelint.io/)
 
-##### Code formatter/beautifier:
+##### Code Formatter/Beautifier:
 
 * [CSScomb](https://github.com/csscomb/csscomb.js)
 * [cssfmt](https://github.com/morishitter/cssfmt)
@@ -57,7 +57,7 @@
 * [cssnano](http://cssnano.co/)
 * [csso](http://css.github.io/csso/)
 
-##### Online creation/generation/experimentation tools:
+##### Online Creation/Generation/Experimentation Tools:
 
 * [CSS arrow please](http://cssarrowplease.com/)
 * [CSS matic](http://www.cssmatic.com/)
@@ -74,14 +74,14 @@
 * [oocss](http://oocss.org/) [read]
 * [SMACSS](https://smacss.com/) [read][$]
 
-##### Authoring conventions:
+##### Authoring Conventions:
 
 * [CSS code guide](http://codeguide.co/#css) [read]
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 * [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
 
-##### Trending CSS repositories on Github this month:
+##### Trending CSS Repositories on GitHub This Month:
 
 [https://github.com/trending?l=css&since=monthly](https://github.com/trending?l=css&since=monthly)
 

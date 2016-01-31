@@ -1,4 +1,4 @@
-# Web technologies employed by front-end developers
+# Web Technologies Employed by Front-End Developers
 
 ![](../images/web-tech-employed.jpg "http://www.2n2media.com/compare-front-end-development-and-back-end-development")
 

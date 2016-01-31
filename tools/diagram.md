@@ -1,4 +1,4 @@
-# Diagramming tools
+# Diagramming Tools
 
 * [draw.io](https://www.draw.io/) [free to $]
 * [Cacoo](https://cacoo.com) [free to $]

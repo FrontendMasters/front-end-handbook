@@ -1,6 +1,6 @@
 # HTML Tools
 
-##### HTML templates/boilerplates/starter kits:
+##### HTML Templates/Boilerplates/Starter Kits:
 
 * [dCodes](http://www.dcodes.net/2/docs/index.html)
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
@@ -10,7 +10,7 @@
 * [Pears](http://pea.rs/)
 * [Web Starter Kit Boilerplate & Tooling for Multi-Device Development](https://developers.google.com/web/tools/starter-kit)
 
-##### HTML polyfill:
+##### HTML Polyfill:
 
 * [html5shiv](https://github.com/aFarkas/html5shiv)
 
@@ -29,7 +29,7 @@
 * [HTML Interfaces Browser Support ](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [HTMLelement.info](http://htmlelement.info/)
 
-##### Linting/hinting:
+##### Linting/Hinting:
 
 * [html5-lint](https://github.com/mozilla/html5-lint)
 * [HTMLHint](http://htmlhint.com/)
@@ -39,11 +39,11 @@
 
 * [HTML Minifier](http://kangax.github.io/html-minifier/)
 
-##### Online creation/generation/experimentation tools:
+##### Online Creation/Generation/Experimentation Tools:
 
 * [tablesgenerator.com](http://www.tablesgenerator.com/)
 
-##### Authoring conventions:
+##### Authoring Conventions:
 
 * [HTML code guide](http://codeguide.co/#html)
 * [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
@@ -52,7 +52,7 @@
 
 * [Emmet](http://emmet.io/)
 
-##### Trending HTML repositories on Github this month:
+##### Trending HTML Repositories on GitHub This Month:
 
 [https://github.com/trending?l=html&since=monthly](https://github.com/trending?l=html&since=monthly)
 

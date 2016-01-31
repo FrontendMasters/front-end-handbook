@@ -1,4 +1,4 @@
-# Learn web developer tools
+# Learn Web Developer Tools
 
 > Web development tools allow web developers to test and debug their code. They are different from website builders and IDEs in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user facing interface of a website or web application.
 >
@@ -10,20 +10,20 @@ While most browsers come equipped with web developer tools, the [Chrome develope
 
 I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/), simply because the best resources for learning web developer tools revolves around Chrome DevTools. 
 
-##### Learn Chrome web developer tools
+##### Learn Chrome Web Developer Tools
 
 * [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
 * [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
 * [Using The Chrome Developer Tools](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
 
-##### Chrome web developer tools docs:
+##### Chrome Web Developer Tools Docs:
 
 * [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
 * [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
 * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
 * [Settings](https://developer.chrome.com/devtools/docs/settings)
 
-##### News/newsletters/podcasts/tips:
+##### News/Newsletters/Podcasts/Tips:
 
 * [Dev Tips](https://umaar.com/dev-tips/)
 

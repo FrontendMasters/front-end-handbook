@@ -1,4 +1,4 @@
-# Animation tools
+# Animation Tools
 
 * [Dynamics.js](https://github.com/michaelvillar/dynamics.js)
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS)
@@ -6,7 +6,7 @@
 * [TweenJS](https://github.com/CreateJS/TweenJS)
 * [Velocity.js](http://julian.com/research/velocity/)
 
-##### Polyfills/shims:
+##### Polyfills/Shims:
 
 * [web-animations-js](https://github.com/web-animations/web-animations-js)
 

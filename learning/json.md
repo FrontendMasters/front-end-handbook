@@ -6,17 +6,17 @@
 > 
 > The JSON format was originally specified by Douglas Crockford. It is currently described by two competing standards, RFC 7159 and ECMA-404. The ECMA standard is minimal, describing only the allowed grammar syntax, whereas the RFC also provides some semantic and security considerations. The official Internet media type for JSON is application/json. The JSON filename extension is .json. - wikipedia
 
-##### General learning:
+##### General Learning:
 
 * [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](http://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/ref=pd_sim_sbs_14_1) [read][$]
 * [json.com](https://www.json.com/) [read]
 * [What is JSON](https://mijingo.com/lessons/what-is-json/) [watch]
 
-##### References/docs:
+##### References/Docs:
 
 * [json.org/](http://json.org/) [read]
 
-##### Standards/specifications:
+##### Standards/Specifications:
 
 * [ECMA-404 The JSON Data Interchange Format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 * [RFC 7159 The JavaScript Object Notation (JSON) Data Interchange Format](https://tools.ietf.org/html/rfc7159)

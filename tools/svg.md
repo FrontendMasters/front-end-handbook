@@ -1,4 +1,4 @@
-# SVG tools
+# SVG Tools
 
 ##### Optimizing:
 
