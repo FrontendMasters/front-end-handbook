@@ -1,4 +1,4 @@
-# Front-end Developer Handbook
+# Front-End Developer Handbook
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
 
@@ -14,15 +14,15 @@ The intention is to release an update to the content yearly.
 
 The handbook is divided into three parts. 
 
-Part I: The front-end practice
+Part I. The Front-End Practice
 ---
 Part one broadly describes the practice of front-end engineering.
 
-Part II: Learning front-end development
+Part II: Learning Front-End dDevelopment
 ---
 Part two identifies self-directed and direct resources for learning to become a front-end developer.
 
-Part III: Front-end development tools
+Part III: Front-End Development Tools
 ---
 Part three briefly explains and identifies tools of the trade.
 

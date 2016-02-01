@@ -1,4 +1,4 @@
-# Doc/API browsing tools
+# Doc/API Browsing Tools
 
 Tools to browser common developer documents and developer API references.
 

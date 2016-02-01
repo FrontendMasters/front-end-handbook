@@ -1,4 +1,4 @@
-# How front-end developers are made
+# How Front-End Developers Are Made
 
 ![](../images/making-fd.png "http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg")
 

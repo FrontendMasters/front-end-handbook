@@ -1,4 +1,4 @@
-# Front-end job boards
+# Front-End Job Boards
 
 A plethora of technical job listing outlets exist. The narrowed list below are currently the most relevant resources for finding a specific front-end position/career.
 

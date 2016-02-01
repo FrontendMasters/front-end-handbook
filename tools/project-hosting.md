@@ -1,4 +1,4 @@
-# Project management & code hosting tools
+# Project Management & Code Hosting Tools
 
 * [Assembla](https://www.assembla.com) [free to $]
 * [Bitbucket](https://bitbucket.org) [free to $]

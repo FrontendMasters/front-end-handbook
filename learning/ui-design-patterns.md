@@ -1,4 +1,4 @@
-# Learn user interface/interaction design
+# Learn User Interface/Interaction Design
 
 > **User interface design** User interface design (UI) or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing the user experience. The goal of user interface design is to make the user's interaction as simple and efficient as possible, in terms of accomplishing user goals (user-centered design). - wikipedia
 > 

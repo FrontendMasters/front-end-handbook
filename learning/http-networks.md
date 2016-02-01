@@ -1,4 +1,4 @@
-# Learn HTTP/networks (including CORS & WebSockets)
+# Learn HTTP/Networks (Including CORS & WebSockets)
 
 > **HTTP** The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. - Wikipedia
 

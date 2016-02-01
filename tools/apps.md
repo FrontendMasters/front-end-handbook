@@ -1,6 +1,6 @@
-# App (desktop, mobile, tablet, etc..) tools
+# App (Desktop, Mobile, Tablet, Etc..) Tools
 
-##### Front-end app frameworks:
+##### Front-End App Frameworks:
 
 * [AngularJS](https://angularjs.org/) & [Batarang](https://github.com/angular/angularjs-batarang)
 * [Aurelia](http://aurelia.io/)
@@ -10,13 +10,13 @@
 * [React](http://facebook.github.io/react/) & [React-router](https://github.com/rackt/react-router) & [Flux](http://facebook.github.io/flux/) & [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Vue.js](http://vuejs.org/) & [vue-loader](https://github.com/vuejs/vue-loader) & [vue-router](https://github.com/vuejs/vue-router)
 
-##### Full-stack JS app platforms:
+##### Full-Stack JS App Platforms:
 
 * [Hood.ie](http://hood.ie/intro/)
 * [MEAN](http://meanjs.org/) (i.e. MongoDB, Express, AngularJS, and Node.js.)
 * [Meteor](https://www.meteor.com/)
 
-##### Mobile web UI/site/app frameworks
+##### Mobile Web UI/Site/App Frameworks
 
 These solutions can be used anywhere including in a webview (i.e. web platform and browser engine) app:
 
@@ -25,14 +25,14 @@ These solutions can be used anywhere including in a webview (i.e. web platform a
 * [Mobile Angular UI](http://mobileangularui.com/)
 * [Ratchet](http://goratchet.com/getting-started/)
 
-##### Native Hybrid mobile webview (i.e. browser engine driven) frameworks:
+##### Native Hybrid Mobile Webview (i.e. Browser Engine Driven) Frameworks:
 
 These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native APIs.
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
-##### Native Hybrid mobile development webview (i.e. browser engine driven) environments/platforms/tools:
+##### Native Hybrid Mobile Development Webview (i.e. Browser Engine Driven) Environments/Platforms/Tools:
 
 These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native APIs.
 
@@ -45,12 +45,12 @@ These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk
 * [Monaca](https://monaca.io/) [$]
 * [Taco](http://taco.tools/)
 
-##### Native desktop webview (i.e. browser engine driven) app frameworks:
+##### Native Desktop Webview (i.e. Browser Engine Driven) App Frameworks:
 
 * [Electron](http://electron.atom.io/)
 * [NW.js](https://github.com/nwjs/nw.js)
 
-##### Native mobile app frameworks (aka JavaScript Native apps)
+##### Native Mobile App Frameworks (Aka JavaScript Native Apps)
 
 These solutions use a JS engine at runtime to interpret JS and bridge that to native APIs. No browser engine or webview is used. The UI is constructed from native UI components.
 
@@ -64,7 +64,7 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 * [todomvc.com](http://todomvc.com/)
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
-##### App seeds/starters/boilerplates:
+##### App Seeds/Starters/Boilerplates:
 
 * [Angular 2 Webpack Starter](http://angularclass.com/angular2-webpack-starter/)
 * [Ember starter-kit](https://github.com/emberjs/starter-kit)

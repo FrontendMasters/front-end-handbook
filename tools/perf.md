@@ -1,4 +1,4 @@
-# Performance tools
+# Performance Tools
 
 ##### Reporting:
 
@@ -9,7 +9,7 @@
 * [Web Page Test](http://www.webpagetest.org/)
 * [WEIGHTOF.IT](http://weightof.it/category/application-frameworks)
 
-##### JS tools:
+##### JS Tools:
 
 * [imagemin](https://github.com/imagemin/imagemin)
 * [ImageOptim-CLI](http://jamiemason.github.io/ImageOptim-CLI/)

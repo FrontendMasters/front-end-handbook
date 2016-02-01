@@ -1,6 +1,6 @@
-# Learn web animation
+# Learn Web Animation
 
-##### General learning:
+##### General Learning:
 
 * [Adventures in Web Animations](https://www.codeschool.com/courses/adventures-in-web-animations) [$][watch]
 * [Animating With Snap.svg](https://webdesign.tutsplus.com/courses/animating-with-snapsvg) [$][watch]
@@ -12,7 +12,7 @@
 * [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/the-state-of-animation-2014/) [read]
 * [Web Animation using JavaScript: Develop & Design (Develop and Design)](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) [$][read]
 
-##### Standards/specifications:
+##### Standards/Specifications:
 
 * [Web Animations](https://w3c.github.io/web-animations/)
 

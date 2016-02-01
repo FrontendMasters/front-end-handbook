@@ -1,4 +1,4 @@
-# UI widgets & components tools 
+# UI Widgets & Components Tools 
 
 ##### Desktop & Mobile:
 
@@ -16,7 +16,7 @@
 * [photonkit](http://photonkit.com/)
 * [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
 
-##### Mobile focused:
+##### Mobile Focused:
 
 * [Framework7](http://www.idangero.us/framework7)
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)

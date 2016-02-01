@@ -1,11 +1,11 @@
-# Tasking (aka build) tools 
+# Tasking (aka Build) Tools 
 
-##### Tasking/build tools:
+##### Tasking/Build Tools:
 
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
 
-##### Tasking/build and more tools:
+##### Tasking/Build and More Tools:
 
 * [Brunch](http://brunch.io/)
 * [Mimosa](http://mimosa.io/)

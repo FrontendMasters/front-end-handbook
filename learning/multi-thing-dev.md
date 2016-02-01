@@ -1,4 +1,4 @@
-# Learn multi-thing development
+# Learn Multi-Thing Development
 
 ![](../images/things.jpg "http://bradfrost.com/blog/post/this-is-the-web/")
 
@@ -12,7 +12,7 @@ A site or application can run on a wide range of computers, laptops, tablets and
 * Build a website, web app, native app, or hybrid-native app for each individual thing or a grouping of things.
 * Attempt to retrofit something you have already built using bits and parts from strategies 1, 2 or 3. This could be as simple as sprinkling in some screen-size agnostic UI parts or attempting to fully support other things with the entire UI.
 
-##### General learning:
+##### General Learning:
 
 * [Adaptive Web Design](http://adaptivewebdesign.info/) [read][$]
 * [Designing Multi-Device Experiences: An Ecosystem Approach to User Experiences across Devices](http://www.amazon.com/Designing-Multi-Device-Experiences-Ecosystem-Approach/dp/1449340385/ref=pd_sim_14_8) [read][$]

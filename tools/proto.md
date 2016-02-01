@@ -1,4 +1,4 @@
-# Prototyping & wireframing tools
+# Prototyping & Wireframing Tools
 
 ##### Creating:
 
@@ -6,7 +6,7 @@
 * [Justinmind](http://www.justinmind.com/) [$]
 * [UXPin](http://www.uxpin.com/) [free to $]
 
-##### Collaboration / presenting:
+##### Collaboration / Presenting:
 
 * [InVision](http://www.invisionapp.com/) [free to $]
 * [conceptboard](https://conceptboard.com/) [free to $]

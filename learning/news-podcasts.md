@@ -1,6 +1,6 @@
-# Front-end newsletters, news sites, &amp; podcasts
+# Front-End Newsletters, News Sites, &amp; Podcasts
 
-##### General front-end newsletters, news, &amp; podcasts:
+##### General Front-End Newsletters, News, &amp; Podcasts:
 
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
@@ -19,12 +19,12 @@
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
 * [webtoolsweekly.com](http://webtoolsweekly.com/)
 
-##### HTML/CSS newsletters:
+##### HTML/CSS Newsletters:
 
 * [CSS Weekly](http://css-weekly.com/archives/)
 * [HTML 5 Weekly](http://html5weekly.com/)
 
-##### JavaScript newsletters, news, &amp; podcasts:
+##### JavaScript Newsletters, News, &amp; Podcasts:
 
 * [Echo JS](http://www.echojs.com/)
 * [FiveJS](https://fivejs.codeschool.com/)

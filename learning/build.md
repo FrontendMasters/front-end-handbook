@@ -1,8 +1,8 @@
-# Learn build and task automation
+# Learn Build and Task Automation
 
 > Build automation is the process of automating the creation of a software build and the associated processes including: compiling computer source code into binary code, packaging binary code, and running automated tests. - wikipedia
 
-##### General learning:
+##### General Learning:
 
 * [Getting Started with Gulp](https://www.packtpub.com/web-development/getting-started-gulp) [read][$]
 * [Gulp Basics](http://teamtreehouse.com/library/gulp-basics) [watch][$]
@@ -11,7 +11,7 @@
 * [Rapid Gulp](https://www.packtpub.com/web-development/rapid-gulp-video) [watch][$]
 * [Using npm as a Task Runner](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [watch][$]
 
-##### References/docs:
+##### References/Docs:
 
 * [gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 

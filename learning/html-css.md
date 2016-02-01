@@ -6,7 +6,7 @@
 
 Liken to constructing a house, one might consider HTML the framing and CSS to be the painting & decorating.
 
-##### General learning:
+##### General Learning:
 
 * [Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt) [read]
 * [codecademy.com HTML & CSS](https://www.codecademy.com/tracks/web) [interact]
@@ -33,7 +33,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
 * [WHAT THE FLEXBOX?! A simple, free 20 video course that will help you master CSS Flexbox](http://flexbox.io/) [watch]
 
-##### References/docs:
+##### References/Docs:
 
 * [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
 * [cssvalues.com/](http://cssvalues.com/)
@@ -47,7 +47,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS Glossary - Programming reference for CSS covering Comments, Properties, and Selectors](https://www.codecademy.com/articles/glossary-css)
 * [HTML Glossary Programming reference for HTML elements](https://www.codecademy.com/articles/glossary-html)
 
-##### Standards/specifications:
+##### Standards/Specifications:
 
 * [All W3C CSS Specifications](http://www.w3.org/Style/CSS/current-work#roadmap)
 * [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
@@ -65,7 +65,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [SMACSS](https://smacss.com/) [read][$]
 * [SMACSS](https://frontendmasters.com/courses/smacss/) [watch][$]
 
-##### Authoring conventions:
+##### Authoring Conventions:
 
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) [read]
@@ -73,7 +73,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
 * [Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
 
-##### HTML/CSS newsletters:
+##### HTML/CSS Newsletters:
 
 * [CSS Weekly](http://css-weekly.com/archives/)
 * [HTML 5 Weekly](http://html5weekly.com/)

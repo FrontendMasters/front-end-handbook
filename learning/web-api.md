@@ -1,4 +1,4 @@
-# Learn web/browser APIs
+# Learn Web/Browser APIs
 
 The BOM and the DOM are not the only browser APIs that are made available on the web platform inside of browsers. Everything that is not specifically the DOM or BOM, but an interface for programming the browser could be considered a web or browser API (tragically in the past some of these APIs have been called HTML5 APIs which confuses their own specifics/standardize with the actual HTML5 specification specify the HTML5 markup language). Note that web or browser APIs do include device APIs (e.g. [`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery)) that are available through the browser on tablet and phones devices.
 
@@ -13,12 +13,12 @@ You should be aware of and learn, where appropriate, web/browser APIs. A good to
 * [DIVE INTO HTML5](http://diveintohtml5.info/) [read]
 * [Pro HTML5 Programming](http://apress.jensimmons.com/v5/pro-html5-programming/info.html) [read]
 
-##### Learn audio:
+##### Learn Audio:
 * [Add Sound to Your Site With Web Audio](https://code.tutsplus.com/courses/add-sound-to-your-site-with-web-audio) [watch]
 * [Fun With Web Audio](https://code.tutsplus.com/courses/fun-with-web-audio/) [watch]
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) [read]
 
-##### Learn canvas:
+##### Learn Canvas:
 
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html) [read]
 

@@ -8,7 +8,7 @@
 * [Parse](https://www.parse.com/) [free to $]
 * [Pusher](https://pusher.com/) [free to $]
 
-##### User management as a service:
+##### User Management as a Service:
 
 * [auth0](https://auth0.com) [$]
 * [hull](http://www.hull.io/) [$]

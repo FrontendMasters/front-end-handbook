@@ -1,6 +1,6 @@
-# General front-end development tools
+# General Front-End Development Tools
 
-##### Development tools:
+##### Development Tools:
 
 * [Browsersync](http://www.browsersync.io/)
 * [codeKit](http://incident57.com/codekit/)
@@ -10,7 +10,7 @@
 * [screensiz.es](http://screensiz.es/)
 * [Wraith](http://bbc-news.github.io/wraith/index.html)
 
-##### Online code editors:
+##### Online Code Editors:
 
 * [codepen.io](http://codepen.io/)
 * [es6fiddle.net](http://www.es6fiddle.net/)
@@ -19,7 +19,7 @@
 * [liveweave.com](http://liveweave.com/)
 * [Plunker](http://plnkr.co/)
 
-##### Tools for finding tools:
+##### Tools for Finding Tools:
 
 * [built with](http://builtwith.com/)
 * [javascripting.com](http://www.javascripting.com)

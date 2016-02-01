@@ -1,4 +1,4 @@
-# Learn headless browsers
+# Learn Headless Browsers
 
 > A headless browser is a web browser without a graphical user interface.
 >

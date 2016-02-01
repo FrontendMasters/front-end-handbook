@@ -1,4 +1,4 @@
-# Learn accessibility
+# Learn Accessibility
 
 > Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” (i.e. unassisted) and "indirect access" meaning compatibility with a person's assistive technology (for example, computer screen readers).
 >
@@ -8,7 +8,7 @@
 >
 >Accessibility is strongly related to universal design which is the process of creating products that are usable by people with the widest possible range of abilities, operating within the widest possible range of situations. This is about making things accessible to all people (whether they have a disability or not). - wikipedia
 
-##### General learning:
+##### General Learning:
 
 * [Foundations of UX: Accessibility](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) [watch][$]
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) [watch]
@@ -17,7 +17,7 @@
 * [Web Accessibility: Getting Started](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
 * [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/) [read][$]
 
-##### Standards/specifications:
+##### Standards/Specifications:
 
 * [Accessible Rich Internet Applications (WAI-ARIA) Current Status](http://www.w3.org/standards/techs/aria#w3c_all)
 * [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/)
