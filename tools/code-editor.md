@@ -9,12 +9,12 @@ Code editors come in all sorts of types and size, so to speak. Selecting one is 
 However, I do strongly believe, minimally, a code editor should have the following qualities (by default or by way of plugins):
 
 1. Good documentation on how to use the editor
-2. Report (i.e. hinting/linting/errors) on the code quality of HTML, CSS, and JavaScript.
+2. Report (i.e., hinting/linting/errors) on the code quality of HTML, CSS, and JavaScript.
 3. Offer syntax highlighting for HTML, CSS, and JavaScript.
 4. Offer code completion for HTML, CSS, and JavaScript.
 5. Be customizable by way of a plug-in architecture
 6. Have available a large repository of third-party/community plug-ins that can be used to customize the editor to your liking
-7. Be small, simple, and not coupled to the code (i.e. not required to edited the code)
+7. Be small, simple, and not coupled to the code (i.e., not required to edited the code)
 
 I personally use and recommend [Sublime Text](http://www.sublimetext.com/) with the following plug-ins.
 

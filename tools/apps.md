@@ -1,4 +1,4 @@
-# App (Desktop, Mobile, Tablet, Etc..) Tools
+# App (Desktop, Mobile, Tablet, etc.) Tools
 
 ##### Front-End App Frameworks:
 
@@ -13,26 +13,26 @@
 ##### Full-Stack JS App Platforms:
 
 * [Hood.ie](http://hood.ie/intro/)
-* [MEAN](http://meanjs.org/) (i.e. MongoDB, Express, AngularJS, and Node.js.)
+* [MEAN](http://meanjs.org/) (i.e., MongoDB, Express, AngularJS, and Node.js.)
 * [Meteor](https://www.meteor.com/)
 
 ##### Mobile Web UI/Site/App Frameworks
 
-These solutions can be used anywhere including in a webview (i.e. web platform and browser engine) app:
+These solutions can be used anywhere including in a webview (i.e., web platform and browser engine) app:
 
 * [Framework7](http://www.idangero.us/framework7)
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)
 * [Mobile Angular UI](http://mobileangularui.com/)
 * [Ratchet](http://goratchet.com/getting-started/)
 
-##### Native Hybrid Mobile Webview (i.e. Browser Engine Driven) Frameworks:
+##### Native Hybrid Mobile Webview (i.e., Browser Engine Driven) Frameworks:
 
 These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native APIs.
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
-##### Native Hybrid Mobile Development Webview (i.e. Browser Engine Driven) Environments/Platforms/Tools:
+##### Native Hybrid Mobile Development Webview (i.e., Browser Engine Driven) Environments/Platforms/Tools:
 
 These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native APIs.
 
@@ -45,7 +45,7 @@ These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk
 * [Monaca](https://monaca.io/) [$]
 * [Taco](http://taco.tools/)
 
-##### Native Desktop Webview (i.e. Browser Engine Driven) App Frameworks:
+##### Native Desktop Webview (i.e., Browser Engine Driven) App Frameworks:
 
 * [Electron](http://electron.atom.io/)
 * [NW.js](https://github.com/nwjs/nw.js)

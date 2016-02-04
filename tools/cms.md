@@ -1,6 +1,6 @@
 # Content Management Hosted/API Tools 
 
-##### API CMS (i.e. Content Delivery CMS) Tools:
+##### API CMS (i.e., Content Delivery CMS) Tools:
 
 * [contentful](https://www.contentful.com/) [$]
 * [Cosmic JS](https://cosmicjs.com/) [free to $]

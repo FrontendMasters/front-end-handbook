@@ -1,6 +1,6 @@
 # Self Directed Learning
 
-This section focuses on free and paid resources (video training, books etc..) that an individual can use to direct their own learning process and career as a front-end developer.
+This section focuses on free and paid resources (video training, books, etc.) that an individual can use to direct their own learning process and career as a front-end developer.
 
 The resources include free material and paid material. Paid material will be indicated with [$].
 

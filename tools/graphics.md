@@ -1,4 +1,4 @@
-# Graphics (e.g. SVG, canvas, webgl) Tools
+# Graphics (e.g., SVG, canvas, webgl) Tools
 
 ##### General:
 

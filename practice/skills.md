@@ -23,15 +23,15 @@ Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-en
 * Portal Systems
 * Wireframing
 * CSS layout / Grids
-* DOM manipulation (e.g. jQuery)
+* DOM manipulation (e.g., jQuery)
 * Mobile Web Performance
 * Load Testing
 * Performance Testing
 * Progressive Enhancement / Graceful Degradation
-* Version Control (e.g. GIT)
+* Version Control (e.g., GIT)
 * MVC / MVVM / MV* 
 * Functional Programming
-* Data Formats (e.g. JSON, XML)
+* Data Formats (e.g., JSON, XML)
 * Data APIs (e.g Restful API)
 * Web Font Embedding
 * Scalable Vector Graphics (aka SVG)
