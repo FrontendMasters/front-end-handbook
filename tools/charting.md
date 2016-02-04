@@ -1,4 +1,4 @@
-# Data Visualization (e.g. Charts) Tools
+# Data Visualization (e.g., Charts) Tools
 
 ##### JS Libraries:
 

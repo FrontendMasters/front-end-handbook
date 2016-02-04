@@ -1,6 +1,6 @@
 # Learn JS Templates
 
-A JavaScript template is typically used, but not always with a [MV*](http://todomvc.com/) solution to separate parts of the view (i.e. the UI) from the logic and model (i.e. the data or JSON). 
+A JavaScript template is typically used, but not always with a [MV*](http://todomvc.com/) solution to separate parts of the view (i.e., the UI) from the logic and model (i.e., the data or JSON). 
 
 Note that JavaScript 2015 (aka ES6) has a native templating mechanism called ["Templates strings"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings).
 

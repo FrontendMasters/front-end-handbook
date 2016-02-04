@@ -14,7 +14,7 @@
 
 <cite>image source: <a href="http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar">http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201408-201508-bar</a></cite>
 
-##### Evolution of Browsers & Web Technologies (i.e. APIs)
+##### Evolution of Browsers & Web Technologies (i.e., APIs)
 
 * [www.evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [read]
 * [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) [read]
@@ -55,11 +55,11 @@
 
 ##### Developing for Browsers
 
-In the past, a front-end developer spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today, unless you have to write code for older browsers (i.e. <IE8). This still remains an issue today, just not one that demands so much of the front-end developers time and brain cycles. The fact of the matter is modern abstractions (e.g. jQuery, pre-processors, transpilers) have done away with a lot of browser inconsistency issues.
+In the past, a front-end developer spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today, unless you have to write code for older browsers (i.e., <IE8). This still remains an issue today, just not one that demands so much of the front-end developers time and brain cycles. The fact of the matter is modern abstractions (e.g., jQuery, pre-processors, transpilers) have done away with a lot of browser inconsistency issues.
 
 ##### Evergreen Browsers
 
-The latest versions of browsers are considered evergreen browsers. That is, in theory they are suppose to automatically update themselves silently without prompting the user. This move towards self updating browsers has been in reaction to the slow process of eliminating older browsers. Older browsers  are complicated to develop for given their deviations from the commonalities between modern browsers (i.e. new specifications and this rate of change).
+The latest versions of browsers are considered evergreen browsers. That is, in theory they are suppose to automatically update themselves silently without prompting the user. This move towards self updating browsers has been in reaction to the slow process of eliminating older browsers. Older browsers  are complicated to develop for given their deviations from the commonalities between modern browsers (i.e., new specifications and this rate of change).
 
 ##### Picking a Browser
 
