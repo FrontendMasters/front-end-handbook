@@ -18,7 +18,7 @@ Part I. The Front-End Practice
 ---
 Part one broadly describes the practice of front-end engineering.
 
-Part II: Learning Front-End dDevelopment
+Part II: Learning Front-End Development
 ---
 Part two identifies self-directed and direct resources for learning to become a front-end developer.
 
