@@ -9,6 +9,7 @@
 ##### HTTP
 
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://chimera.labs.oreilly.com/books/1230000000545/index.html) [read]
+* [HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/#what-are-the-key-differences-to-http1x) [read]
 * [HTTP Fundamentals](http://www.pluralsight.com/courses/xhttp-fund) [watch][$]
 * [HTTP: The Protocol Every Web Developer Must Know - Part 1](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) [read]
 * [HTTP: The Protocol Every Web Developer Must Know - Part 2](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) [read]
