@@ -6,7 +6,7 @@
     "pluginsConfig": {
         "scripts": {
             "files": [
-                "./analytics.js"
+                "analytics.js"
             ]
         }
     }
