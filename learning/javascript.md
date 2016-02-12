@@ -67,7 +67,7 @@
 
 * [Echo JS](http://www.echojs.com/)
 * [FiveJS](https://fivejs.codeschool.com/)
-* [Javacript Jabber](https://devchat.tv/js-jabber/)
+* [JavaScript Jabber](https://devchat.tv/js-jabber/)
 * [JavaScript Kicks](http://javascriptkicks.com/)
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
