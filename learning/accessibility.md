@@ -6,7 +6,9 @@
 >
 >Accessibility is not to be confused with usability, which is the extent to which a product (such as a device, service, or environment) can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.
 >
->Accessibility is strongly related to universal design which is the process of creating products that are usable by people with the widest possible range of abilities, operating within the widest possible range of situations. This is about making things accessible to all people (whether they have a disability or not). &#8212; [Wikipedia](https://en.wikipedia.org/wiki/Accessibility)
+>Accessibility is strongly related to universal design which is the process of creating products that are usable by people with the widest possible range of abilities, operating within the widest possible range of situations. This is about making things accessible to all people (whether they have a disability or not).
+
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Accessibility)</cite>
 
 ##### General Learning:
 

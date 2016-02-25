@@ -2,7 +2,7 @@
 
 ![](../images/things.jpg "http://bradfrost.com/blog/post/this-is-the-web/")
 
-<cite>image source: <a href="http://bradfrost.com/blog/post/this-is-the-web/">http://bradfrost.com/blog/post/this-is-the-web/</a></cite>
+<cite>Image source: <a href="http://bradfrost.com/blog/post/this-is-the-web/">http://bradfrost.com/blog/post/this-is-the-web/</a></cite>
 
 A site or application can run on a wide range of computers, laptops, tablets and phones, as well as a handful of other things (watches, thermostats, fridges, etc.). How you determine what things you'll support and how you will develop to support those things is called a multi-thing development strategy. Below, I list the most common multi-thing development strategies.
 
