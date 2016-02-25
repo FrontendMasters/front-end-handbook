@@ -1,10 +1,16 @@
 # Learn HTTP/Networks (Including CORS & WebSockets)
 
-> **HTTP** The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. - Wikipedia
+> **HTTP** - The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
 
-> **CORS** Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources (e.g., fonts) on a web page to be requested from another domain outside the domain from which the resource originated. - Wikipedia
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)</cite>
+
+> **CORS** - Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources (e.g., fonts) on a web page to be requested from another domain outside the domain from which the resource originated.
+
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)</cite>
   
->**WebSockets** WebSocket is a protocol providing full-duplex communication channels over a single TCP connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011, and the WebSocket API in Web IDL is being standardized by the W3C. - Wikipedia
+>**WebSockets** - WebSocket is a protocol providing full-duplex communication channels over a single TCP connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011, and the WebSocket API in Web IDL is being standardized by the W3C.
+
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/WebSocket)</cite>
 
 ##### HTTP
 

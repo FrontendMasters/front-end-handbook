@@ -1,6 +1,8 @@
 # Learn Build and Task Automation
 
-> Build automation is the process of automating the creation of a software build and the associated processes including: compiling computer source code into binary code, packaging binary code, and running automated tests. - wikipedia
+> Build automation is the process of automating the creation of a software build and the associated processes including: compiling computer source code into binary code, packaging binary code, and running automated tests.
+
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Build_automation)</cite>
 
 ##### General Learning:
 
@@ -13,7 +15,7 @@
 
 ##### References/Docs:
 
-* [gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+* [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 
 Gulp is great. However, you might only need `npm run`. Before turning to additional complexity in your application stack ask yourself if `npm run` can do the job. If you need more, use both. 
 

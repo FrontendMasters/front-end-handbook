@@ -1,6 +1,8 @@
 # Learn Site Performance Optimization
 
-> Web performance optimization, WPO, or website optimization is the field of knowledge about increasing the speed in which web pages are downloaded and displayed on the user's web browser. With the average internet speed increasing globally, it is fitting for website administrators and webmasters to consider the time it takes for websites to render for the visitor. - wikipedia
+> Web performance optimization, WPO, or website optimization is the field of knowledge about increasing the speed in which web pages are downloaded and displayed on the user's web browser. With the average internet speed increasing globally, it is fitting for website administrators and webmasters to consider the time it takes for websites to render for the visitor.
+
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Web_performance_optimization)</cite>
 
 ##### General Learning:
 

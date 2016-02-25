@@ -6,13 +6,15 @@
 >
 >Accessibility is not to be confused with usability, which is the extent to which a product (such as a device, service, or environment) can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.
 >
->Accessibility is strongly related to universal design which is the process of creating products that are usable by people with the widest possible range of abilities, operating within the widest possible range of situations. This is about making things accessible to all people (whether they have a disability or not). - wikipedia
+>Accessibility is strongly related to universal design which is the process of creating products that are usable by people with the widest possible range of abilities, operating within the widest possible range of situations. This is about making things accessible to all people (whether they have a disability or not).
+
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Accessibility)</cite>
 
 ##### General Learning:
 
 * [Foundations of UX: Accessibility](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) [watch][$]
-* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) [watch]
-* [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) [read]
+* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) - Google Open Online Education [watch]
+* [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) - WAI [read]
 * [Universal Design for Web Applications: Web Applications That Reach Everyone](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) [read][$]
 * [Web Accessibility: Getting Started](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
 * [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/) [read][$]

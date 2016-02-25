@@ -18,7 +18,9 @@
 
 ##### CSS Reset:
 
-> A CSS Reset (or “Reset CSS”) is a short, often compressed (minified) set of CSS rules that resets the styling of all HTML elements to a consistent baseline. - [http://cssreset.com/](http://cssreset.com/what-is-a-css-reset/)
+> A CSS Reset (or “Reset CSS”) is a short, often compressed (minified) set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
+
+><cite>&#8212; [cssreset.com](http://cssreset.com/what-is-a-css-reset/)</cite>
 
 * [Eric Meyer’s “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
 * [Normalize](https://necolas.github.io/normalize.css/)

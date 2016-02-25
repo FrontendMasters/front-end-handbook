@@ -1,8 +1,12 @@
 # Learn HTML & CSS
 
-> **HTML** - HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages.[1] Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language. - wikipedia.org
+> **HTML** - HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language.
 
-> **CSS** - Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. Although most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications. - wikipedia.org
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/HTML)</cite>
+
+> **CSS** - Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. Although most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.
+
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)</cite>
 
 Liken to constructing a house, one might consider HTML the framing and CSS to be the painting & decorating.
 
