@@ -9,7 +9,7 @@
 * [Getting Started with Gulp](https://www.packtpub.com/web-development/getting-started-gulp) [read][$]
 * [Gulp Basics](http://teamtreehouse.com/library/gulp-basics) [watch][$]
 * [JavaScript Build Automation With Gulp.js](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) [watch][$]
-* [Learning Gulp - Getting started with the font end factory](http://hmphry.com/gulp) [read]
+* [Learning Gulp - Getting Started with the Front End Factory](http://hmphry.com/gulp) [read]
 * [Rapid Gulp](https://www.packtpub.com/web-development/rapid-gulp-video) [watch][$]
 * [Using npm as a Task Runner](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [watch][$]
 
@@ -24,8 +24,8 @@ Read:
 * [Build Tools vs npm Scripts: Why Not Both?](http://engineering.hobsons.com/2015/06/26/build-tools-vs-npm-scripts-why-not-both/)
 * [Give Grunt the Boot! A Guide to Using npm as a Build Tool](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
 * [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
-* [Task automation with npm run](http://substack.net/task_automation_with_npm_run)
-* [Using npm as a build system for your next project](https://drublic.de/blog/npm-builds)
+* [Task Automation with npm Run](http://substack.net/task_automation_with_npm_run)
+* [Using npm as a Build System for Your next Project](https://drublic.de/blog/npm-builds)
 
 
 

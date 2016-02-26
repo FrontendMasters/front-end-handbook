@@ -9,7 +9,7 @@
 
 * [amCharts](http://www.amcharts.com/) [$]
 * [C3.js](http://c3js.org/)
-* [chartist-jsj](https://github.com/gionkunz/chartist-js)
+* [Chartist-jsj](https://github.com/gionkunz/chartist-js)
 * [Chart.js](http://www.chartjs.org/)
 * [Epoch](https://github.com/epochjs/epoch)
 * [FusionCharts](http://www.fusioncharts.com/) [$]

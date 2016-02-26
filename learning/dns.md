@@ -10,4 +10,4 @@
 
 
 * [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA) [watch]
-* [How DNS works](https://howdns.works/ep1/) [read]
+* [How DNS Works](https://howdns.works/ep1/) [read]

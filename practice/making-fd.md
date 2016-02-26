@@ -37,9 +37,9 @@ If you want to get started immediately I'd suggest the following general overvie
 
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) [read]
 * [Being a web developer](http://www.yellowshoe.com.au/standards) [read]
-* [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) [read]
+* [Isobar Front-End Code Standards](http://isobar-idev.github.io/code-standards/) [read]
 * [Web Fundamentals](https://developers.google.com/web/fundamentals) [read]
-* [Front-end Curriculum](https://gist.github.com/stevekinney/03027e71aac341af14a2) [read]
+* [Front-End Curriculum](https://gist.github.com/stevekinney/03027e71aac341af14a2) [read]
 * [freeCodeCamp](http://freecodecamp.com/) [interact]
 * [Planning a Front-end JS Application](https://www.youtube.com/watch?v=q4zEGkjTBFA) [watch]
 * [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]

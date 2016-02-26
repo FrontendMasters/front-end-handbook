@@ -12,7 +12,7 @@
 
 ##### Full-Stack JS App Platforms:
 
-* [Hood.ie](http://hood.ie/intro/)
+* [Hoodie](http://hood.ie/intro/)
 * [MEAN](http://meanjs.org/) (i.e., MongoDB, Express, AngularJS, and Node.js.)
 * [Meteor](https://www.meteor.com/)
 

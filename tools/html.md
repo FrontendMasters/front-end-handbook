@@ -45,8 +45,8 @@
 
 ##### Authoring Conventions:
 
-* [HTML code guide](http://codeguide.co/#html)
-* [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
+* [HTML Code Guide](http://codeguide.co/#html)
+* [Principles of Writing Consistent, Idiomatic HTML](https://github.com/necolas/idiomatic-html)
 
 ##### Workflow:
 

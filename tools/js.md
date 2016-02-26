@@ -22,7 +22,7 @@
 
 ##### JavaScript Compatibility Checker:
 
-* [http://jscc.info/](http://jscc.info/)
+* [jscc.info/](http://jscc.info/)
 
 ##### Linting/Hinting:
 

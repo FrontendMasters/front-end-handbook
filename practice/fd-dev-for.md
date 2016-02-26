@@ -3,13 +3,13 @@
 A front-end developer crafts HTML, CSS, and JS that typically runs on the web platform 
 (e.g. a web browser) on one of the following operating systems (aka OSs):
 
-* Windows
-* Windows Phone
-* OSX
-* iOS
 * Android
-* Ubuntu (or some flavor of Linux)
 * Chromium
+* iOS
+* OS X
+* Ubuntu (or some flavor of Linux)
+* Windows Phone
+* Windows
 
 These operating systems typically run on one or more of the following devices:
 
