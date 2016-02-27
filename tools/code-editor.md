@@ -53,14 +53,14 @@ Here are some resources for learning Sublime:
 ##### Online Code Editors:
 
 * [Cloud9](https://c9.io) [free to $]
-* [codeanywhere](https://codeanywhere.com) [free to $]
+* [Codeanywhere](https://codeanywhere.com) [free to $]
 * [Koding](https://koding.com) [free to $]
 
 ##### Sharable/Runnable Code Editors:
 
 Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to small amounts of immediately runnable code in a web browser.
 
-* [codepen.io](http://codepen.io/) [free to $]
+* [CodePen](http://codepen.io/) [free to $]
 * [es6fiddle.net](http://www.es6fiddle.net/)
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)

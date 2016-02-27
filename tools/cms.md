@@ -2,7 +2,7 @@
 
 ##### API CMS (i.e., Content Delivery CMS) Tools:
 
-* [contentful](https://www.contentful.com/) [$]
+* [Contentful](https://www.contentful.com/) [$]
 * [Cosmic JS](https://cosmicjs.com/) [free to $]
 * [prismic.io](https://prismic.io/) [free to $]
 

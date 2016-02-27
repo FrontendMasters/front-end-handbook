@@ -13,7 +13,7 @@
 
 ##### Desktop (NW.js and Electron):
 
-* [photonkit](http://photonkit.com/)
+* [Photon](http://photonkit.com/)
 * [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
 
 ##### Mobile Focused:

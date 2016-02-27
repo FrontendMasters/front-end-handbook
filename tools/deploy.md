@@ -1,12 +1,12 @@
 # Deployment Tools 
 
 * [Bamboo](https://www.atlassian.com/software/bamboo/) [$]
-* [codeship](https://codeship.com/) [free to $]
+* [Codeship](https://codeship.com/) [free to $]
 * [FTPLOY](http://ftploy.com/) [free to $]
 * [Travis CI](http://docs.travis-ci.com/) [free to $]
 * [Springloops](http://www.springloops.io/) [free to $]
-* [surge](https://surge.sh/) 
-* [sync ninja](http://www.syncninja.com/)
+* [Surge](https://surge.sh/) 
+* [Sync Ninja](http://www.syncninja.com/)
 
 
 

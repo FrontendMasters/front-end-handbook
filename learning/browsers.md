@@ -18,13 +18,13 @@
 
 ##### Evolution of Browsers & Web Technologies (i.e., APIs)
 
-* [www.evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [read]
+* [evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [read]
 * [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) [read]
 
 ##### The Most Commonly Used Headless Browser Are:
 
 * [PhantomJS](http://phantomjs.org/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + SquirrelFish)
-* [slimerjs](http://slimerjs.org/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
+* [SlimerJS](http://slimerjs.org/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
 * [TrifleJS](http://triflejs.org/) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))
 
 ##### How Browsers Work

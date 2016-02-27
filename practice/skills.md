@@ -8,22 +8,22 @@ Basic to advanced HTML, CSS, DOM, JavaScript, HTTP/URL, and browser skills are a
 
 Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-end developer could be skilled in one or more of the following:
 
-* Content management systems (aka CMS)
+* Content Management Systems (aka CMS)
 * Node.js
-* Cross-browser testing
-* Cross-platform testing
+* Cross-Browser Testing
+* Cross-Platform Testing
 * Unit Testing
-* Cross-device testing
+* Cross-Device Testing
 * Accessibility / WAI-ARIA
 * Search Engine Optimization (aka SEO)
-* Interaction or User Interface design
+* Interaction or User Interface Design
 * User Experience
 * Usability
 * E-commerce Systems
 * Portal Systems
 * Wireframing
-* CSS layout / Grids
-* DOM manipulation (e.g., jQuery)
+* CSS Layout / Grids
+* DOM Manipulation (e.g., jQuery)
 * Mobile Web Performance
 * Load Testing
 * Performance Testing
@@ -40,7 +40,7 @@ Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-en
 * Microdata / Microformats
 * Task Runners, Build Tools, Process Automation Tools
 * Responsive Web Design
-* Object Oriented Programming
+* Object-Oriented Programming
 * Application Architecture
 * Modules
 * Dependency Managers
@@ -48,7 +48,7 @@ Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-en
 * JavaScript Animation
 * CSS Animation
 * Charts / Graphs
-* UI widgets
+* UI Widgets
 * Code Quality Testing
 * Code Coverage Testing
 * Code Complexity Analysis

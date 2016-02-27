@@ -30,8 +30,8 @@
 * [pleeease.io](http://pleeease.io/)
 * [PostCSS](https://github.com/postcss/postcss) & [cssnext](http://cssnext.io/)
 * [rework](https://github.com/reworkcss/rework) & [myth](http://www.myth.io/)
-* [SASS/SCSS](http://sass-lang.com/)
-* [stylus](https://github.com/stylus/stylus)
+* [Sass/SCSS](http://sass-lang.com/)
+* [Stylus](https://github.com/stylus/stylus)
 
 ##### References:
 
@@ -40,8 +40,8 @@
 * [css4-selectors.com](http://css4-selectors.com/)
 * [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
 * [cssvalues.com](http://cssvalues.com/)
-* [MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [overapi.com CSS cheatsheet](http://overapi.com/css/)
+* [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [OverAPI CSS cheatsheet](http://overapi.com/css/)
 
 ##### Linting/Hinting:
 
@@ -51,18 +51,18 @@
 ##### Code Formatter/Beautifier:
 
 * [CSScomb](https://github.com/csscomb/csscomb.js)
-* [cssfmt](https://github.com/morishitter/cssfmt)
+* [CSSfmt](https://github.com/morishitter/cssfmt)
 
 ##### Optimizer:
 
 * [clear-css](https://github.com/jakubpawlowicz/clean-css)
 * [cssnano](http://cssnano.co/)
-* [csso](http://css.github.io/csso/)
+* [CSSO](http://css.github.io/csso/)
 
 ##### Online Creation/Generation/Experimentation Tools:
 
-* [CSS arrow please](http://cssarrowplease.com/)
-* [CSS matic](http://www.cssmatic.com/)
+* [CSS Arrow Please](http://cssarrowplease.com/)
+* [CSS Matic](http://www.cssmatic.com/)
 * [Enjoy CSS](http://enjoycss.com/)
 * [Flexbox Playground](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
 * [flexplorer](http://bennettfeely.com/flexplorer/)
@@ -73,7 +73,7 @@
 ##### Architecting CSS:
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
-* [oocss](http://oocss.org/) [read]
+* [OOCSS](http://oocss.org/) [read]
 * [SMACSS](https://smacss.com/) [read][$]
 
 ##### Authoring Conventions:
@@ -81,7 +81,7 @@
 * [CSS code guide](http://codeguide.co/#css) [read]
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
-* [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
+* [Idiomatic CSS](https://github.com/necolas/idiomatic-css) [read]
 
 ##### Trending CSS Repositories on GitHub This Month:
 

@@ -6,4 +6,4 @@
 * [Heroku](https://heroku.com) [free to $]
 * [Modulus](https://modulus.io/) [$]
 * [netlify](https://www.netlify.com) [free to $]
-* [surge](https://surge.sh/) [free to $]
+* [Surge](https://surge.sh/) [free to $]

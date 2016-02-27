@@ -2,8 +2,8 @@
 
 * [errorception](https://errorception.com/) [$]
 * [Raygun](https://raygun.io) [$]
-* [sentry](https://getsentry.com/welcome/) [free to $]
-* [{track:js}](https://trackjs.com/) [$]
+* [Sentry](https://getsentry.com/welcome/) [free to $]
+* [TrackJS](https://trackjs.com/) [$]
 
 
 

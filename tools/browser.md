@@ -2,9 +2,9 @@
 
 ##### JS Browser Coding Utilities:
 
-* [history.js](https://github.com/browserstate/history.js)
+* [History.js](https://github.com/browserstate/history.js)
 * [html2canvas](https://github.com/niklasvh/html2canvas)
-* [platform.js](https://github.com/bestiejs/platform.js)
+* [Platform.js](https://github.com/bestiejs/platform.js)
 * [URI.js](http://medialize.github.io/URI.js/)
 
 ##### General Reference Tools to Determine If X Browser Supports X:
@@ -14,10 +14,10 @@
 * [Browserscope](http://www.browserscope.org/)
 * [caniuse.com](http://caniuse.com/)
 * [HTML5 Please](http://html5please.com/)
-* [HTML5 test](https://html5test.com/)
+* [HTML5 Test](https://html5test.com/)
 * [iwanttouse.com/](http://www.iwanttouse.com/)
 * [jscc.info](http://jscc.info/)
-* [Platform status](https://dev.modern.ie/platform/status/)
+* [Platform Status](https://dev.modern.ie/platform/status/)
 * [webbrowsercompatibility.com](http://www.webbrowsercompatibility.com/)
 * [whatwebcando.today](https://whatwebcando.today/)
 
@@ -32,7 +32,7 @@
 * [IE Developer tools (aka F12 tools)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
 * [Opera Dragonfly](http://www.opera.com/dragonfly/)
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
-* [vorlon.js](http://vorlonjs.com/)
+* [Vorlon.js](http://vorlonjs.com/)
 
 ##### Synchronized Browser Tools:
 
@@ -41,7 +41,7 @@
 ##### Browser Coding Tools to Determine If X Browser Supports X:
 
 * [ES Feature Tests](https://featuretests.io/)
-* [feature.js](http://featurejs.com/)
+* [Feature.js](http://featurejs.com/)
 * [Modernizr](https://modernizr.com/)
 
 ##### Broad Browser Polyfills/Shims:
@@ -49,16 +49,16 @@
 * [console-polyfill](https://github.com/paulmillr/console-polyfill)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 * [socket.io](http://socket.io/)
-* [sockjs](https://github.com/sockjs/sockjs-client)
+* [SockJS](https://github.com/sockjs/sockjs-client)
 * [webcomponents.js](https://github.com/WebComponents/webcomponentsjs)
 * [webshim](https://afarkas.github.io/webshim/demos/)
 
 ##### Browser Hosted Testing/Automation:
 
-* [browserling](https://www.browserling.com/) [$]
-* [browserstack](https://www.browserstack.com) [$]
+* [Browserling](https://www.browserling.com/) [$]
+* [BrowserStack](https://www.browserstack.com) [$]
 * [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
-* [Sauce labs](https://saucelabs.com/) [$]
+* [Sauce Labs](https://saucelabs.com/) [$]
 * [Selenium](http://www.seleniumhq.org/)
 
 ##### Headless Browsers:
@@ -71,10 +71,10 @@
 
 Used for functional testing and monkey testing.
 
-* [casperJS](http://casperjs.org/)
-* [Nightmare](https://github.com/segmentio/nightmare)
-* [nightwatchjs](http://nightwatchjs.org/)
+* [CasperJS](http://casperjs.org/)
 * [gremlins.js](https://github.com/marmelab/gremlins.js)
+* [Nightmare](https://github.com/segmentio/nightmare)
+* [NightwatchJS](http://nightwatchjs.org/)
 
 ##### Browser Hacks:
 

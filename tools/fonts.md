@@ -18,7 +18,7 @@
 
 * [FlowType.js](http://simplefocus.com/flowtype/)
 * [localFont](https://github.com/jaicab/localFont)
-* [webfontloader](https://github.com/typekit/webfontloader)
+* [Web Font Loader](https://github.com/typekit/webfontloader)
 
 
 

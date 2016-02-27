@@ -16,10 +16,10 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 
 ##### General Learning:
 
-* [codecademy.com jQuery](https://www.codecademy.com/tracks/jquery) [watch]
+* [Codecademy.com jQuery](https://www.codecademy.com/tracks/jquery) [watch]
 * [The Document Object Model](http://eloquentjavascript.net/13_dom.html) [read]
-* [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) [watch]
-* [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) [watch]
+* [HTML/JS: Making Webpages Interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) [watch]
+* [HTML/JS: Making Webpages Interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) [watch]
 * [jQuery Enlightenment](http://jqueryenlightenment.com/) [read]
 
 ##### Mastering:
@@ -29,7 +29,7 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 * [Douglas Crockford: An Inconvenient API - The Theory of the DOM](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2) [watch]
 * [DOM Enlightenment](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) [read][$] or [read online for free](http://domenlightenment.com/)
 * [Fixing Common jQuery Bugs](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) [watch][$]
-* [jQuery-free JavaScript](http://www.pluralsight.com/courses/jquery-free-javascript) [watch][$]
+* [jQuery-Free JavaScript](http://www.pluralsight.com/courses/jquery-free-javascript) [watch][$]
 * [jQuery Tips and Tricks](http://www.pluralsight.com/courses/jquery-tips-and-tricks) [watch][$]
 
 ##### References/Docs:

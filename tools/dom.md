@@ -4,13 +4,13 @@
 
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/)
 * [jQuery](http://jquery.com/)
-* [keypress](http://dmauro.github.io/Keypress/)
-* [tether.io](http://tether.io/docs/welcome/)
-* [Zepto.js](http://zeptojs.com/)
+* [Keypress](http://dmauro.github.io/Keypress/)
+* [Tether](http://tether.io/docs/welcome/)
+* [Zepto](http://zeptojs.com/)
 
 ##### DOM Performance Tools:
 
-* [DOMMonster](http://mir.aculo.us/dom-monster/)
+* [DOM Monster](http://mir.aculo.us/dom-monster/)
 
 ##### References:
 

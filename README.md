@@ -30,7 +30,7 @@ Part three briefly explains and identifies tools of the trade.
 
 **Read Online At**: 
 
-* [http://www.frontendhandbook.com](http://www.frontendhandbook.com/)
+* [frontendhandbook.com](http://www.frontendhandbook.com/)
  
 **Download a .pdf, .epub, or .mobi File From**: 
 
