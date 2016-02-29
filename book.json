@@ -6,7 +6,7 @@
     "pluginsConfig": {
         "scripts": {
             "files": [
-                "./gtm_analytics.js"
+                "./analytics.js"
             ]
         }
     }
