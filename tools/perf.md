@@ -18,7 +18,9 @@
 
 * [performancebudget.io](http://www.performancebudget.io/)
 
+##### References/Docs:
 
+* [Jank Free](http://jankfree.org/)
 
 
 
