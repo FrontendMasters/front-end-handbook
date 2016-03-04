@@ -18,7 +18,7 @@ If you can't afford a directed education, a self directed education using screen
         <tr>
             <td>Austin Coding Academy</td>
             <td><a target="_blank" href="https://austincodingacademy.com/course/">The Front End Track</a></td>
-            <td>1,490 per class</td>
+            <td>2,490 per session</td>
             <td>Austin, TX</td>
             <td></td>
         </tr>
