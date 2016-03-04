@@ -72,13 +72,6 @@ If you can't afford a directed education, a self directed education using screen
             <td></td>
         </tr>
         <tr>
-            <td>Hackbright Academy</td>
-            <td><a target="_blank" href="http://hackbrightacademy.com/courses/front-end-web-development/">Front-End Web Development</a></td>
-            <td>3,000</td>
-            <td>San Francisco, CA</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>HackerYou</td>
             <td><a target="_blank" href="http://hackeryou.com/front-end-web-development-immersive/">Front-end Web Development Immersive</a></td>
             <td>7,000 - 7,910</td>
