@@ -17,7 +17,7 @@ If you can't afford a directed education, a self directed education using screen
     <tbody>
         <tr>
             <td>Austin Coding Academy</td>
-            <td><a target="_blank" href="http://www.austincodingacademy.com/front-end/">The Front End Track</a></td>
+            <td><a target="_blank" href="https://austincodingacademy.com/course/">The Front End Track</a></td>
             <td>1,490 per class</td>
             <td>Austin, TX</td>
             <td></td>
