@@ -17,8 +17,8 @@ If you can't afford a directed education, a self directed education using screen
     <tbody>
         <tr>
             <td>Austin Coding Academy</td>
-            <td><a target="_blank" href="http://www.austincodingacademy.com/front-end/">The Front End Track</a></td>
-            <td>1,490 per class</td>
+            <td><a target="_blank" href="https://austincodingacademy.com/course/">The Front End Track</a></td>
+            <td>2,490 per session</td>
             <td>Austin, TX</td>
             <td></td>
         </tr>
@@ -72,13 +72,6 @@ If you can't afford a directed education, a self directed education using screen
             <td></td>
         </tr>
         <tr>
-            <td>Hackbright Academy</td>
-            <td><a target="_blank" href="http://hackbrightacademy.com/courses/front-end-web-development/">Front-End Web Development</a></td>
-            <td>3,000</td>
-            <td>San Francisco, CA</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>HackerYou</td>
             <td><a target="_blank" href="http://hackeryou.com/front-end-web-development-immersive/">Front-end Web Development Immersive</a></td>
             <td>7,000 - 7,910</td>
@@ -87,7 +80,7 @@ If you can't afford a directed education, a self directed education using screen
         </tr>
         <tr>
             <td>Iron Yard</td>
-            <td><a target="_blank" href="http://theironyard.com/courses/front-end-engineering/">Front End Engineering</a></td>
+            <td><a target="_blank" href="https://www.theironyard.com/courses.html#front-end-engineering">Front End Engineering</a></td>
             <td>12,000</td>
             <td>multiple locations</td>
             <td></td>
