@@ -22,7 +22,7 @@
 
 ><cite>&#8212; [cssreset.com](http://cssreset.com/what-is-a-css-reset/)</cite>
 
-* [Eric Meyer’s “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
+* [Eric Meyer's “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
 * [Normalize](https://necolas.github.io/normalize.css/)
 
 ##### Transpiling:

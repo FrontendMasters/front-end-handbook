@@ -15,10 +15,10 @@
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) [read]
 * [Introduction to Web Development](https://frontendmasters.com/courses/web-development/) [watch][$]
 * [Isobar Front-End Code Standards](http://isobar-idev.github.io/code-standards/) [read]
-* [Learn Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) [watch][$]
 * [Lean Front-End Engineering](https://frontendmasters.com/courses/lean-front-end-engineering/) [watch][$]
+* [Learn Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) [watch][$]
 * [Planning a Front-End JS Application](https://www.youtube.com/watch?v=q4zEGkjTBFA) [watch]
-* [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
+* [So, You Want to Be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
 * [Web Fundamentals](https://developers.google.com/web/fundamentals) [read]
 
 ##### General Front-End Newsletters, News Outlets, &amp; Podcasts:

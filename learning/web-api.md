@@ -10,7 +10,7 @@ You should be aware of and learn, where appropriate, web/browser APIs. A good to
 
 ##### Learn:
 
-* [DIVE INTO HTML5](http://diveintohtml5.info/) [read]
+* [Dive Into HTML5](http://diveintohtml5.info/) [read]
 * [Pro HTML5 Programming](http://apress.jensimmons.com/v5/pro-html5-programming/info.html) [read]
 
 ##### Learn Audio:
@@ -24,16 +24,16 @@ You should be aware of and learn, where appropriate, web/browser APIs. A good to
 
 Additionally, MDN has a great deal of information about web/browser APIs.
 
-* [MDN Web API reference](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
-* [MDN Web APIs interface reference - all interfaces, arranged alphabetically.](https://developer.mozilla.org/en-US/docs/Web/API)
-* [MDN WebAPI - lists device access APIs and other APIs useful for applications.](https://developer.mozilla.org/en-US/docs/WebAPI)
+* [MDN Web API Reference](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
+* [MDN Web APIs Interface Reference - All Interfaces, Arranged Alphabetically](https://developer.mozilla.org/en-US/docs/Web/API)
+* [MDN WebAPI - Lists Device Access APIs and Other APIs Useful for Applications](https://developer.mozilla.org/en-US/docs/WebAPI)
 
 Keep in mind that not every API is specified by the W3C or WHATWG. 
 
 In addition to MDN, you might find the following resources helpful:
 
 * [The HTML 5 JavaScript API Index](http://html5index.org/)
-* [HTML5-overview](https://github.com/dret/HTML5-overview)
+* [HTML5 Overview](https://github.com/dret/HTML5-overview)
 * [platform.html5.org](https://platform.html5.org/)
 
 

@@ -31,33 +31,33 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 ##### Mastering:
 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) [read]
-* [atozcss.com/](http://www.atozcss.com/) [watch]
+* [atozcss.com](http://www.atozcss.com/) [watch]
 * [CSS Diner](http://flukeout.github.io/) [interact]
 * [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/) [read]
 * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
-* [WHAT THE FLEXBOX?! A simple, free 20 video course that will help you master CSS Flexbox](http://flexbox.io/) [watch]
+* [What the Flexbox?! A Simple, Free 20 Video Course That Will Help You Master CSS Flexbox](http://flexbox.io/) [watch]
 
 ##### References/Docs:
 
-* [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
-* [cssvalues.com/](http://cssvalues.com/)
-* [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+* [CSS Triggers...a Game of Layout, Paint, and Composite](http://csstriggers.com/)
+* [cssvalues.com](http://cssvalues.com/)
+* [HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 * [htmlelement.info](http://htmlelement.info/)
-* [MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [MDN HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ##### Glossary:
 
-* [CSS Glossary - Programming reference for CSS covering Comments, Properties, and Selectors](https://www.codecademy.com/articles/glossary-css)
-* [HTML Glossary Programming reference for HTML elements](https://www.codecademy.com/articles/glossary-html)
+* [CSS Glossary - Programming Reference for CSS Covering Comments, Properties, and Selectors](https://www.codecademy.com/articles/glossary-css)
+* [HTML Glossary Programming Reference for HTML elements](https://www.codecademy.com/articles/glossary-html)
 
 ##### Standards/Specifications:
 
 * [All W3C CSS Specifications](http://www.w3.org/Style/CSS/current-work#roadmap)
 * [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
 * [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://drafts.csswg.org/css2/)
-* [The elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
-* [Global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+* [The Elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
+* [Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 * [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
 * [HTML5 from W3C](http://www.w3.org/TR/html5/) : 5th major revision of the core language of the World Wide Web
 * [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
@@ -65,7 +65,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 ##### Architecting CSS:
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
-* [oocss](http://oocss.org/) [read]
+* [OOCSS](http://oocss.org/) [read]
 * [SMACSS](https://smacss.com/) [read][$]
 * [SMACSS](https://frontendmasters.com/courses/smacss/) [watch][$]
 
@@ -74,8 +74,8 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
-* [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
-* [Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
+* [Idiomatic CSS](https://github.com/necolas/idiomatic-css) [read]
+* [Standards for Developing Flexible, Durable, and Sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
 
 ##### HTML/CSS Newsletters:
 

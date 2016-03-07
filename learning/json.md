@@ -16,7 +16,7 @@
 
 ##### References/Docs:
 
-* [json.org/](http://json.org/) [read]
+* [json.org](http://json.org/) [read]
 
 ##### Standards/Specifications:
 

@@ -4,7 +4,7 @@
 
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
-* [FRONT-END DEV weekly](http://frontenddevweekly.com/)
+* [Front-End Dev Weekly](http://frontenddevweekly.com/)
 * [Front-End News in 5 Minutes](https://frontendfive.codeschool.com/)
 * [frontendfront.com](http://frontendfront.com/)
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
