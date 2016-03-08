@@ -46,7 +46,7 @@
 
 ##### References/Docs:
 
-* [MDN JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ##### Glossary/Encyclopedia/Jargon:
 
@@ -57,7 +57,7 @@
 ##### Standards/Specifications:
 
 * [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/)
-* [Status, process, and documents for ECMA262](https://github.com/tc39/ecma262)
+* [Status, Process, and Documents for ECMA262](https://github.com/tc39/ecma262)
 
 ##### Style:
 

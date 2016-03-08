@@ -14,12 +14,12 @@ Below are a few video learning outlets (tech focused) I generally recommend pull
 * [eventedmind.com](https://www.eventedmind.com/)
 * [Frontend Masters](https://frontendmasters.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
-* [laracasts](https://laracasts.com/)
+* [laracasts.com](https://laracasts.com/)
 * [lynda.com](http://www.lynda.com/) [careful, quality varies]
-* [mijingo](https://mijingo.com/)
+* [mijingo.com](https://mijingo.com/)
 * [pluralsight.com](http://www.pluralsight.com/) [careful, quality varies]
 * [Tagtree](http://tagtree.tv/library)
-* [treehouse](https://teamtreehouse.com/)
+* [Treehouse](https://teamtreehouse.com/)
 * [tutsplus.com](https://tutsplus.com/courses)
 * [Udacity](https://www.udacity.com/courses/web-development) [careful, quality varies]
 

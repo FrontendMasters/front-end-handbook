@@ -15,7 +15,7 @@
 ##### General Learning:
 
 * [Front-End First: Testing and Prototyping JavaScript Apps](http://www.pluralsight.com/courses/testing-and-prototyping-javascript-apps) [watch][$]
-* [Let’s Code: Test-Driven JavaScript](http://www.letscodejavascript.com/) [watch][$]
+* [Let's Code: Test-Driven JavaScript](http://www.letscodejavascript.com/) [watch][$]
 * [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) [read][$]
 * [Testable JavaScript](http://www.amazon.com/gp/product/1449323391/ref=pd_lpo_sbs_dp_ss_3) [read][$]
 * [Test-Driven JavaScript Development](http://tddjs.com/) [read][$]

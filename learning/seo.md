@@ -7,9 +7,9 @@
 ##### General Learning:
 
 * [Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) [read]
-* [SEO Fundamentals from David Booth](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) [watch][$]
-* [SEO Fundamentals from Paul Wilson](http://www.pluralsight.com/courses/seo-fundamentals) [watch][$]
-* [SEO Tutorial For Beginners 2015](http://www.hobo-web.co.uk/seo-tutorial/) [read]
+* [SEO Fundamentals From David Booth](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) [watch][$]
+* [SEO Fundamentals From Paul Wilson](http://www.pluralsight.com/courses/seo-fundamentals) [watch][$]
+* [SEO Tutorial for Beginners 2015](http://www.hobo-web.co.uk/seo-tutorial/) [read]
 * [SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers) [watch][$]
 
 
