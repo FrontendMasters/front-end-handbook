@@ -11,6 +11,9 @@
 * [Learn to Create Animations in JavaScript](http://www.kirupa.com/javascript_animations/index.htm) [read & watch]
 * [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/the-state-of-animation-2014/) [read]
 * [Web Animation using JavaScript: Develop & Design (Develop and Design)](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) [$][read]
+* [CSS Transitions and Transforms](https://teamtreehouse.com/library/css-transitions-and-transforms) [$][watch]
+* [Animating SVG with CSS](https://teamtreehouse.com/library/animating-svg-with-css) [$][watch]
+* [Mastering CSS Transitions, Transforms & Animations](https://codyhouse.co/course/mastering-css-transitions-transformations-animations/) [$][watch]
 
 ##### Standards/Specifications:
 
