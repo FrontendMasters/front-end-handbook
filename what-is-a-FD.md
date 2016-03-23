@@ -6,7 +6,7 @@ A front-end developer architects and develops websites and applications using we
 
 <cite>Image source: <a href="https://www.upwork.com/hiring/development/front-end-developer/">https://www.upwork.com/hiring/development/front-end-developer/</a></cite>
 
-Typically, a person enters into the field of front-end development by learning to develop HTML, CSS, and JS code, which runs in a [web browser](https://en.wikipedia.org/wiki/Web_browser), [headless browser](https://en.wikipedia.org/wiki/Headless_browser), [webview](http://developer.telerik.com/featured/what-is-a-webview/), or as compilation input for a native runtime environment. The four run times scenarios are explained below.
+Typically, a person enters into the field of front-end development by learning to develop HTML, CSS, and JS code, which runs in a [web browser](https://en.wikipedia.org/wiki/Web_browser), [headless browser](https://en.wikipedia.org/wiki/Headless_browser), [WebView](http://developer.telerik.com/featured/what-is-a-webview/), or as compilation input for a native runtime environment. The four run times scenarios are explained below.
 
 A web browser is software used to retrieve, present, and traverse information on the WWW. Typically, browsers run on a desktop, laptop, tablet, or phone, but as of late a browser can be found on just about anything (i.e, on a fridge, in cars, etc.). 
 
