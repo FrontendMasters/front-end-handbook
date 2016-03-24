@@ -18,23 +18,23 @@
 
 ##### Mobile Web UI/Site/App Frameworks
 
-These solutions can be used anywhere including in a webview (i.e., web platform and browser engine) app:
+These solutions can be used anywhere including in a WebView (i.e., web platform and browser engine) app:
 
 * [Framework7](http://www.idangero.us/framework7)
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)
 * [Mobile Angular UI](http://mobileangularui.com/)
 * [Ratchet](http://goratchet.com/getting-started/)
 
-##### Native Hybrid Mobile Webview (i.e., Browser Engine Driven) Frameworks:
+##### Native Hybrid Mobile WebView (i.e., Browser Engine Driven) Frameworks:
 
-These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native APIs.
+These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom WebView as a bridge to native APIs.
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
 ##### Native Hybrid Mobile Development Webview (i.e., Browser Engine Driven) Environments/Platforms/Tools:
 
-These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as a bridge to native APIs.
+These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom WebView as a bridge to native APIs.
 
 * [Adobe PhoneGap](http://phonegap.com/) [$]
 * [AppBuilder](http://www.telerik.com/appbuilder) [$]
@@ -45,14 +45,14 @@ These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk
 * [Monaca](https://monaca.io/) [$]
 * [Taco](http://taco.tools/)
 
-##### Native Desktop Webview (i.e., Browser Engine Driven) App Frameworks:
+##### Native Desktop WebView (i.e., Browser Engine Driven) App Frameworks:
 
 * [Electron](http://electron.atom.io/)
 * [NW.js](https://github.com/nwjs/nw.js)
 
 ##### Native Mobile App Frameworks (Aka JavaScript Native Apps)
 
-These solutions use a JS engine at runtime to interpret JS and bridge that to native APIs. No browser engine or webview is used. The UI is constructed from native UI components.
+These solutions use a JS engine at runtime to interpret JS and bridge that to native APIs. No browser engine or WebView is used. The UI is constructed from native UI components.
 
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)
