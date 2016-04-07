@@ -9,6 +9,7 @@
 * [Mustache.js](https://github.com/janl/mustache.js)
 * [Nunjuncks](http://mozilla.github.io/nunjucks/)
 * [Transparency](http://leonidas.github.io/transparency/)
+* [Jade](http://jade-lang.com)
 
 ##### Templating and Reactive Data Binding:
 
@@ -26,46 +27,3 @@
 
 * [JSX](https://facebook.github.io/jsx/)
 * [t7](http://t7js.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
