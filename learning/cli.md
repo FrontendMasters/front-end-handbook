@@ -6,6 +6,7 @@
 
 ##### General Learning:
 
+* [The Bash Guide](http://guide.bash.academy/) [read]
 * [Codecademy: Learn the Command Line](https://www.codecademy.com/courses/learn-the-command-line) [watch]
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) [read]
 * [Command Line Power User](http://commandlinepoweruser.com/) [watch]
