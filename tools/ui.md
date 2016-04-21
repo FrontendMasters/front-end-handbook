@@ -7,6 +7,7 @@
 * [Material ui](http://material-ui.com/)
 * [Materialize](http://materializecss.com/)
 * [Metro UI](http://metroui.org.ua/)
+* [Office UI Fabric](http://dev.office.com/fabric)
 * [Polymer Paper Elements](https://elements.polymer-project.org/browse?package=paper-elements)
 * [Semantic UI](http://semantic-ui.com/)
 * [Webix](http://webix.com/) [$]
