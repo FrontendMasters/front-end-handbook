@@ -15,7 +15,7 @@
 * [CodePen](http://codepen.io/)
 * [es6fiddle.net](http://www.es6fiddle.net/)
 * [JS Bin](http://jsbin.com/)
-* [jJSFiddle](http://jsfiddle.net/)
+* [JSFiddle](http://jsfiddle.net/)
 * [Liveweave](http://liveweave.com/)
 * [Plunker](http://plnkr.co/)
 
