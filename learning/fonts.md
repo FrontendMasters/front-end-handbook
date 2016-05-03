@@ -9,7 +9,6 @@
 ##### General Learning:
 
 * [Beautiful Web Type a Showcase of the Best Typefaces from the Google Web Fonts Directory](http://hellohappy.org/beautiful-web-type/) [read]
-* [Learn Web Fonts](http://zoerooney.com/learn-web-fonts/) [read]
 * [Quick Guide to Webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/) [read]
 * [Responsive Typography](https://frontendmasters.com/courses/responsive-typography/) [watch][$]
 * [Typography for the Web](http://www.pluralsight.com/courses/typography-for-web-1790) [watch][$]
