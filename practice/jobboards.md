@@ -10,7 +10,6 @@ A plethora of technical job listing outlets exist. The narrowed list below are c
 * [glassdoor.com](http://www.glassdoor.com/Job/front-end-developer-jobs-SRCH_KO0,19.htm?jobType=all)
 * [jobs.emberjs.com](http://jobs.emberjs.com/)
 * [jobs.github.com](https://jobs.github.com/)
-* [jobs.jsninja.com](http://jobs.jsninja.com/)
 * [weworkremotely.com](https://weworkremotely.com/)
 
 
