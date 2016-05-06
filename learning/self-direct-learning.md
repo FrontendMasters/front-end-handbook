@@ -15,9 +15,11 @@ Below are a few video learning outlets (tech focused) I generally recommend pull
 * [Frontend Masters](https://frontendmasters.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [laracasts.com](https://laracasts.com/)
+* [leanpub.com](https://leanpub.com/)
 * [lynda.com](http://www.lynda.com/) [careful, quality varies]
 * [mijingo.com](https://mijingo.com/)
 * [pluralsight.com](http://www.pluralsight.com/) [careful, quality varies]
+* [safaribooksonline.com](https://www.safaribooksonline.com) 
 * [Tagtree](http://tagtree.tv/library)
 * [Treehouse](https://teamtreehouse.com/)
 * [tutsplus.com](https://tutsplus.com/courses)
