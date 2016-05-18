@@ -82,6 +82,7 @@
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css) [read]
+* [MaintainableCSS](http://maintainablecss.com/) [read]
 
 ##### Trending CSS Repositories on GitHub This Month:
 
