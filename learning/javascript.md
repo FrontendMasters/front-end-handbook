@@ -30,6 +30,7 @@
 * [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) [watch][$]
 * [ECMA-262 by Dmitry Soshnikov](http://dmitrysoshnikov.com/) [read]
 * [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
+* [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
 * [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) [read][$]
 * [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
