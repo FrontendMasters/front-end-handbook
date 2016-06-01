@@ -13,6 +13,7 @@
 ##### General Learning:
 
 * [Foundations of UX: Accessibility](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) [watch][$]
+* [How HTML elements are supported by screen readers](http://thepaciellogroup.github.io/AT-browser-tests/?utm_source=html5weekly&utm_medium=email) [read]
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) - Google Open Online Education [watch]
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) - WAI [read]
 * [Universal Design for Web Applications: Web Applications That Reach Everyone](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) [read][$]
