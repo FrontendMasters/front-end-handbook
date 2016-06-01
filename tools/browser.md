@@ -13,6 +13,7 @@
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Browserscope](http://www.browserscope.org/)
 * [caniuse.com](http://caniuse.com/)
+* [Firefox Platform Status - Implementation & standardization roadmap for web platform features](https://platform-status.mozilla.org/)
 * [HTML5 Please](http://html5please.com/)
 * [HTML5 Test](https://html5test.com/)
 * [iwanttouse.com/](http://www.iwanttouse.com/)
