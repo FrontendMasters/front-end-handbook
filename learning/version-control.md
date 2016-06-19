@@ -18,6 +18,7 @@ The current modern solution for version control is [Git](https://git-scm.com/). 
 
 * [Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview/) [read]
 * [Pro Git](http://git-scm.com/book/en/v2) [read]
+* [Learn Git Branching](http://learngitbranching.js.org/) [interact]
 
 ##### References/Docs:
 
