@@ -31,7 +31,7 @@
         * [Learn Accessibility](learning/accessibility.md)
         * [Learn Web/Browser APIs](learning/web-api.md) 
         * [Learn JSON](learning/json.md)
-        * [Learn JS Templates](learning/json.md)
+        * [Learn JS Templates](learning/templates.md)
         * [Learn Static Site Generators](learning/static.md)
         * [Learn Front-End App Architecture](learning/front-end-apps.md)
         * [Learn Interface/API Design](learning/api.md)
