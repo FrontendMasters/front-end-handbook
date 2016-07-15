@@ -2,6 +2,7 @@
 
 ##### General Learning:
 
+* [Advanced SVG Animation](https://frontendmasters.com/courses/svg-animation/) [$][watch]
 * [Adventures in Web Animations](https://www.codeschool.com/courses/adventures-in-web-animations) [$][watch]
 * [Animating With Snap.svg](https://webdesign.tutsplus.com/courses/animating-with-snapsvg) [$][watch]
 * [Animation in CSS3 and HTML5](https://frontendmasters.com/courses/animation-storytelling-html5-css3/) [$][watch]
