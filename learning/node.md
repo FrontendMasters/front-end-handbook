@@ -17,6 +17,7 @@
 * [Nodeschool.io](http://nodeschool.io/) [code]
 * [Node.js Basics](http://teamtreehouse.com/library/nodejs-basics) [watch][$]
 * [Node.js in Practice](https://www.manning.com/books/node-js-in-practice#downloads) [read][$]
+* [Real-Time Web with Node.js](https://frontendmasters.com/courses/realtime-html5-nodejs/) [watch][$]
 
 
 
