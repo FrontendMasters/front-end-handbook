@@ -23,7 +23,6 @@
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html) [read]
 * [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) [read]
 * [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) [read]
-*
 
 ##### Mastering:
 
@@ -34,9 +33,9 @@
 * [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) [read][$]
 * [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
-* [JavaScript the Good Parts](https://frontendmasters.com/courses/javascript-the-good-parts/) [watch][$]
 * [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
 * [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
+* [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) [watch][$]
 * [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
 * [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
 * [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) [read]
