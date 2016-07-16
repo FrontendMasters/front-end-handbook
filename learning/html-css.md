@@ -21,7 +21,6 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [HTML Document Flow](http://www.pluralsight.com/courses/html-document-flow-1837) [watch][$]
 * [HTML Mastery: Semantics, Standards, and Styling](http://www.amazon.com/gp/product/1590597656/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590597656&linkCode=as2&tag=fronenddevejo-20&linkId=VFZVICLZO6GUZQI2) [read][$]
 * [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) [watch]
-* [Introduction to HTML5 and CSS3](https://frontendmasters.com/courses/introduction-html5-css3/) [watch][$]
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) [read]
 * [Learn CSS Layout](http://learnlayout.com/) [read]
 * [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages) [watch]
