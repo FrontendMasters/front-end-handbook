@@ -37,6 +37,7 @@
     - [Jest](http://facebook.github.io/jest/)
 * [Mocha](http://mochajs.org/)
 * [QUnit](http://qunitjs.com/)
+* [Nightwatch](http://nightwatch.org/)
 
 ##### Testing Assertions for Unit Testing:
 
