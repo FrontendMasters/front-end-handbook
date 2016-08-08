@@ -5,7 +5,6 @@
 * [Back&](https://www.backand.com/) [free to $]
 * [Firebase](https://www.firebase.com/index.html) [free to $]
 * [Kinvey](http://www.kinvey.com/) [free'ish to $]
-* [Parse](https://www.parse.com/) [free to $]
 * [Pusher](https://pusher.com/) [free to $]
 
 ##### User Management as a Service:
