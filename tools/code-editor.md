@@ -16,7 +16,7 @@ However, I do strongly believe, minimally, a code editor should have the followi
 4. Offer code completion for HTML, CSS, and JavaScript.
 5. Be customizable by way of a plug-in architecture
 6. Have available a large repository of third-party/community plug-ins that can be used to customize the editor to your liking
-7. Be small, simple, and not coupled to the code (i.e., not required to edited the code)
+7. Be small, simple, and not coupled to the code (i.e., not required to edit the code)
 
 I personally use and recommend [Sublime Text](http://www.sublimetext.com/) with the following plug-ins.
 
