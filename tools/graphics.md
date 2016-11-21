@@ -13,6 +13,7 @@
 ##### SVG:
 
 * [d3](http://d3js.org/)
+* [GraphicsJS](http://www.graphicsjs.org/)
 * [Raphaël](http://raphaeljs.com/)
 * [Snap.svg](http://snapsvg.io/)
 * [svg.js](http://svgjs.com/)
