@@ -31,6 +31,7 @@ These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
+* [manifold.js](http://manifoldjs.com/)
 
 ##### Native Hybrid Mobile Development Webview (i.e., Browser Engine Driven) Environments/Platforms/Tools:
 
