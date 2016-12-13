@@ -38,6 +38,8 @@
 ##### Synchronized Browser Tools:
 
 * [Browsersync](http://www.browsersync.io/)
+* [Vorlon.js](http://vorlonjs.com/)
+
 
 ##### Browser Coding Tools to Determine If X Browser Supports X:
 
