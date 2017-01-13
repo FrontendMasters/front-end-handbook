@@ -1,3 +1,5 @@
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
 # Front-End Developer Handbook 2016
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
@@ -35,10 +37,6 @@ Part three briefly explains and identifies tools of the trade.
 **Download a .pdf, .epub, or .mobi File From**: 
 
 * [https://www.gitbook.com/book/frontendmasters/front-end-handbook/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
-
-**Contribute Content, Suggestions, and Fixes on GitHub**: 
-
-* [https://github.com/FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
 
 ***
 
