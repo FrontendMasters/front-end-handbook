@@ -1,4 +1,8 @@
-# Learn HTTP/Networks (Including CORS & WebSockets)
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn HTTP/Networks (Including CORS & WebSockets)
 
 > **HTTP** - The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
 

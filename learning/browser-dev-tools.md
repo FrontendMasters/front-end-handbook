@@ -1,4 +1,8 @@
-# Learn Web Developer Tools
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn Web Developer Tools
 
 > Web development tools allow web developers to test and debug their code. They are different from website builders and IDEs in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user facing interface of a website or web application.
 >

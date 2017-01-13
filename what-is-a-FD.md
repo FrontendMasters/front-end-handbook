@@ -1,4 +1,8 @@
-# What Is a Front-End Developer?
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## What Is a Front-End Developer?
 
 A front-end developer architects and develops websites and applications using web technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the [web platform](https://en.wikipedia.org/wiki/Open_Web_Platform) or act as compilation input for non-web platform environments (i.e., [NativeScript](https://www.nativescript.org/)).
 

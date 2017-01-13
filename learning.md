@@ -1,4 +1,8 @@
-# Part II: Learning
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Part II: Learning
 
 Part two identifies self-directed (i.e., at your own pace when you want) and directed (i.e., formal class room specific times and dates) resources for learning to become a front-end developer.
 

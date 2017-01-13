@@ -1,4 +1,8 @@
-# Back-end as a service (aka BAAS) tools for front-end developers
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Back-end as a service (aka BAAS) tools for front-end developers
 
 ##### Data/back-end management as a service:
 

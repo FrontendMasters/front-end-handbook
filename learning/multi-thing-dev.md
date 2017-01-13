@@ -1,4 +1,8 @@
-# Learn Multi-Thing Development
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn Multi-Thing Development
 
 ![](../images/things.jpg "http://bradfrost.com/blog/post/this-is-the-web/")
 

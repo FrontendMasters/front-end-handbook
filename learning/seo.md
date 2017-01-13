@@ -1,4 +1,8 @@
-# Learn Search Engine Optimization
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn Search Engine Optimization
 
 > Search engine optimization (SEO) is the process of affecting the visibility of a website or a web page in a search engine's unpaid results &#8212; often referred to as "natural," "organic," or "earned" results. In general, the earlier (or higher ranked on the search results page), and more frequently a site appears in the search results list, the more visitors it will receive from the search engine's users. SEO may target different kinds of search, including image search, local search, video search, academic search, news search and industry-specific vertical search engines.
 

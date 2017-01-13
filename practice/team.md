@@ -1,4 +1,8 @@
-# Front-End on a Team
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Front-End on a Team
 
 A front-end developer is typically only one player on a team that designs and develops web sites, web applications, or native applications running on web technologies. (Note: A developer who builds everything was once called a "web master" but as of late these rare and mythical developers are called "full-stack developers").
 

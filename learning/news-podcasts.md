@@ -1,4 +1,8 @@
-# Front-End Newsletters, News Sites, &amp; Podcasts
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Front-End Newsletters, News Sites, &amp; Podcasts
 
 ##### General Front-End Newsletters, News, &amp; Podcasts:
 

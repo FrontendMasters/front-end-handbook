@@ -1,4 +1,8 @@
-# Self Directed Learning
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Self Directed Learning
 
 This section focuses on free and paid resources (video training, books, etc.) that an individual can use to direct their own learning process and career as a front-end developer.
 

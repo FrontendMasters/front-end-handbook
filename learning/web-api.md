@@ -1,4 +1,8 @@
-# Learn Web/Browser APIs
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn Web/Browser APIs
 
 The BOM and the DOM are not the only browser APIs that are made available on the web platform inside of browsers. Everything that is not specifically the DOM or BOM, but an interface for programming the browser could be considered a web or browser API (tragically in the past some of these APIs have been called HTML5 APIs which confuses their own specifics/standardize with the actual HTML5 specification specify the HTML5 markup language). Note that web or browser APIs do include device APIs (e.g., [`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery)) that are available through the browser on tablet and phones devices.
 

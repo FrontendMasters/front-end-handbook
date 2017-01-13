@@ -1,4 +1,8 @@
-# Learn Node.js
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn Node.js
 
 > Node.js is an open-source, cross-platform runtime environment for developing server-side web applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop,[3] IBM AIX, IBM System z and IBM i. Its work is hosted and supported by the Node.js Foundation,[4] a collaborative project at Linux Foundation.[5] 
 > 

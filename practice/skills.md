@@ -1,4 +1,8 @@
-# Front-End Dev Skills
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Front-End Dev Skills
 
 ![](../images/front-end-skills.png "http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html")
 

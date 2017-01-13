@@ -1,4 +1,8 @@
-# How Front-End Developers Are Made
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## How Front-End Developers Are Made
 
 ![](../images/making-fd.png "http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg")
 

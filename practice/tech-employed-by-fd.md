@@ -1,4 +1,8 @@
-# Web Technologies Employed by Front-End Developers
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Web Technologies Employed by Front-End Developers
 
 ![](../images/web-tech-employed.jpg "http://www.2n2media.com/compare-front-end-development-and-back-end-development")
 

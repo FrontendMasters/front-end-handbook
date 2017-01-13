@@ -1,4 +1,8 @@
-# Front-End Salaries
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Front-End Salaries
 
 The national average in the U.S for a front-end developer is [$75k](http://www.glassdoor.com/Salaries/front-end-web-developer-salary-SRCH_KO0,23.htm). 
 

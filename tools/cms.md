@@ -1,4 +1,8 @@
-# Content Management Hosted/API Tools 
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Content Management Hosted/API Tools 
 
 ##### API CMS (i.e., Content Delivery CMS) Tools:
 

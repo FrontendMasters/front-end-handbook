@@ -1,4 +1,8 @@
-# Learn Headless Browsers
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn Headless Browsers
 
 > A headless browser is a web browser without a graphical user interface.
 >

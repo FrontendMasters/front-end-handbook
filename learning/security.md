@@ -1,4 +1,8 @@
-# Learn Security
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn Security
 
 * [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) [read]
 * [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) [watch]

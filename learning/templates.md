@@ -1,4 +1,8 @@
-# Learn JS Templates
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn JS Templates
 
 A JavaScript template is typically used, but not always with a [MV*](http://todomvc.com/) solution to separate parts of the view (i.e., the UI) from the logic and model (i.e., the data or JSON). 
 

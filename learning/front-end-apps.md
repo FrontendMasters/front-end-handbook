@@ -1,4 +1,8 @@
-# Learn Front-End Application Architecture
+# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+***
+
+## Learn Front-End Application Architecture
 
 * [Build an App with React and Ampersand](http://learn.humanjavascript.com/react-ampersand) [watch][$]
 * [Building Modern Single-Page Web Applications](https://frontendmasters.com/workshops/web-apps/) [watch][$]
