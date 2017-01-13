@@ -1,6 +1,9 @@
+
 # AVAILABLE NOW: [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
-# Front-End Developer Handbook 2016
+***
+
+## Front-End Developer Handbook 2016
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
 
@@ -16,16 +19,16 @@ The intention is to release an update to the content yearly.
 
 The handbook is divided into three parts. 
 
-Part I: The Front-End Practice
----
+## Part I. The Front-End Practice
+
 Part one broadly describes the practice of front-end engineering.
 
-Part II: Learning Front-End Development
----
+## Part II: Learning Front-End Development
+
 Part two identifies self-directed and direct resources for learning to become a front-end developer.
 
-Part III: Front-End Development Tools
----
+## Part III: Front-End Development Tools
+
 Part three briefly explains and identifies tools of the trade.
 
 ***
