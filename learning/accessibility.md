@@ -19,6 +19,7 @@
 * [Foundations of UX: Accessibility](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) [watch][$]
 * [How HTML elements are supported by screen readers](http://thepaciellogroup.github.io/AT-browser-tests/?utm_source=html5weekly&utm_medium=email) [read]
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) - Google Open Online Education [watch]
+* [Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891) - Google (on Udacity) [watch]
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) - WAI [read]
 * [Universal Design for Web Applications: Web Applications That Reach Everyone](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) [read][$]
 * [Web Accessibility: Getting Started](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
@@ -29,31 +30,3 @@
 * [Accessible Rich Internet Applications (WAI-ARIA) Current Status](http://www.w3.org/standards/techs/aria#w3c_all)
 * [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/)
 * [Web Content Accessibility Guidelines (WCAG) Current Status](http://www.w3.org/standards/techs/wcag#w3c_all)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
