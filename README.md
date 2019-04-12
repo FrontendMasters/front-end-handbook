@@ -1,5 +1,5 @@
 
-# AVAILABLE NOW: [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+# AVAILABLE NOW: [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 ***
 
