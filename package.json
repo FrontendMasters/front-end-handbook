@@ -1,0 +1,16 @@
+{
+  "name": "front-end-handbook",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontendMasters/front-end-handbook.git"
+  },
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "devDependencies": {
+    "gitbook-plugin-scripts": "^1.0.2",
+    "honkit": "^4.0.4"
+  }
+}
