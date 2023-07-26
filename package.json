@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "gitbook-plugin-scripts": "^1.0.2",
-    "honkit": "^4.0.4"
+    "honkit": "^5.0.0"
   }
 }
