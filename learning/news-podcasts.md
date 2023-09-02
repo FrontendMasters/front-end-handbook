@@ -6,6 +6,7 @@
 
 ##### General Front-End Newsletters, News, &amp; Podcasts:
 
+* [WDRL - Web Development Reading List](https://wdrl.info/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
 * [Front-End Dev Weekly](http://frontenddevweekly.com/)
